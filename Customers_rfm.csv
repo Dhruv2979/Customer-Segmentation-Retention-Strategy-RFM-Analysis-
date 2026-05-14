@@ -1,0 +1,526 @@
+customer_id,customer_name,email,city,acquisition_channel,signup_date,customer_status,gender,age
+C0001,Customer 1,customer1@mail.com,Mumbai,Direct,2023-07-18,InActive,M,24.0
+C0002,Customer 2,customer2@mail.com,ahmedabad,Organic,2024-05-14,Active,M,32.0
+C0003,Customer 3,customer3@mail.com,Mumbai,Social,2023-02-12,Inactive,M,35.0
+C0004,Customer 4,customer4@mail.com,Mumbai, Ads ,2024-05-15,Actve,F,39.0
+C0005,Customer 5,customer5@mail.com,Ahmedabad,Organic,2024-01-06,Actve,Other,20.0
+C0006,Customer 6,customer6@mail.com,ahmedabad,Organic,2024-02-15,Active,Other,58.0
+C0007,Customer 7,customer7@mail.com,DELHI,Referral,2025-03-28,InActive,Other,60.0
+C0008,Customer 8,customer8@mail.com,MUMBAI,Organic,2023-04-22,Active,F,58.0
+C0009,Customer 9,customer9@mail.com,mumbai,Referral,2023-12-29,InActive,Other,61.0
+C0010,Customer 10,customer10@mail.com,ahmedabad,Direct,2022-12-17,InActive,M,35.0
+C0011,Customer 11,customer11@mail.com,Delhi,Direct,2025-02-14,InActive,Other,21.0
+C0012,Customer 12,customer12@mail.com,Mumbai,Referral,2024-04-01,Actve,M,54.0
+C0013,Customer 13,customer13@mail.com,MUMBAI, Ads ,2024-10-19,Inactive,Other,34.0
+C0014,Customer 14,customer14@mail.com,Delhi,Social,2025-01-08,Actve,Other,55.0
+C0015,Customer 15,customer15@mail.com,mumbai, Ads ,2024-11-09,Inactive,M,25.0
+C0016,Customer 16,customer16@mail.com,mumbai,Direct,2024-05-14,Active,F,47.0
+C0017,Customer 17,customer17@mail.com,ahmedabad,Organic,2022-08-23,Actve,Other,36.0
+C0018,Customer 18,customer18@mail.com,Ahmedabad,Organic,2023-06-24,InActive,Other,58.0
+C0019,Customer 19,customer19@mail.com,Delhi,Social,2023-02-12,InActive,F,52.0
+C0020,Customer 20,customer20@mail.com,ahmedabad,Organic,2023-10-26,Inactive,M,41.0
+C0021,Customer 21,customer21@mail.com,DELHI,Referral,2023-05-06,Active,M,23.0
+C0022,Customer 22,customer22@mail.com,Ahmedabad,Organic,2024-12-26,InActive,M,53.0
+C0023,Customer 23,customer23@mail.com,ahmedabad,Social,2024-05-16,InActive,Other,62.0
+C0024,Customer 24,customer24@mail.com,MUMBAI, referral ,2024-02-04,Inactive,Other,33.0
+C0025,Customer 25,customer25@mail.com,MUMBAI,Organic,2025-02-08,InActive,Other,22.0
+C0026,Customer 26,customer26@mail.com,Mumbai, Ads ,2022-05-19,Active,F,33.0
+C0027,Customer 27,customer27@mail.com,Ahmedabad, Ads ,2025-01-09,InActive,Other,54.0
+C0028,Customer 28,customer28@mail.com,mumbai, referral ,2024-04-13,InActive,M,45.0
+C0029,Customer 29,customer29@mail.com,Ahmedabad, referral ,2022-04-21,Active,M,39.0
+C0030,Customer 30,customer30@mail.com,Mumbai, Ads ,2023-01-28,InActive,Other,45.0
+C0031,Customer 31,customer31@mail.com,Ahmedabad, Ads ,2022-06-04,Inactive,Other,59.0
+C0032,Customer 32,customer32@mail.com,DELHI,Organic,2022-07-11,InActive,M,48.0
+C0033,Customer 33,customer33@mail.com,Ahmedabad,Organic,2022-12-04,Inactive,M,34.0
+C0034,Customer 34,customer34@mail.com,DELHI, referral ,2023-08-08,Inactive,Other,53.0
+C0035,Customer 35,customer35@mail.com,Ahmedabad, Ads ,2023-01-24,Actve,M,55.0
+C0036,Customer 36,customer36@mail.com,Mumbai,Direct,2023-10-05,Active,M,50.0
+C0037,Customer 37,customer37@mail.com,ahmedabad, Ads ,2022-04-27,Active,M,22.0
+C0038,Customer 38,customer38@mail.com,mumbai, referral ,2022-09-03,InActive,Other,57.0
+C0039,Customer 39,customer39@mail.com,Delhi,Social,2025-03-03,Actve,F,63.0
+C0040,Customer 40,customer40@mail.com,MUMBAI, referral ,2022-09-26,Actve,F,22.0
+C0041,Customer 41,,ahmedabad,Social,2022-07-24,Active,Other,34.0
+C0042,Customer 42,customer42@mail.com,MUMBAI,Organic,2023-05-16,Actve,F,52.0
+C0043,Customer 43,customer43@mail.com,ahmedabad,Direct,2024-12-19,Active,Other,37.0
+C0044,Customer 44,customer44@mail.com,Mumbai, Ads ,2023-06-26,Active,M,27.0
+C0045,Customer 45,customer45@mail.com,ahmedabad, Ads ,2023-12-04,InActive,Other,34.0
+C0046,Customer 46,customer46@mail.com,MUMBAI,Organic,2022-07-09,Inactive,F,39.0
+C0047,Customer 47,customer47@mail.com,Delhi,Referral,2022-11-27,Inactive,Other,53.0
+C0048,Customer 48,,Mumbai,Direct,2022-11-02,Active,F,27.0
+C0049,Customer 49,customer49@mail.com,Mumbai,Referral,2024-01-17,Active,F,33.0
+C0050,Customer 50,customer50@mail.com,MUMBAI,Social,2024-04-12,InActive,M,29.0
+C0051,Customer 51,customer51@mail.com,Mumbai, Ads ,2023-11-12,Inactive,Other,33.0
+C0052,Customer 52,customer52@mail.com,DELHI,Direct,2022-08-10,Inactive,M,32.0
+C0053,Customer 53,customer53@mail.com,Ahmedabad,Referral,2023-09-18,InActive,M,
+C0054,Customer 54,customer54@mail.com,MUMBAI,Referral,2022-05-23,Actve,F,43.0
+C0055,Customer 55,customer55@mail.com,DELHI,Social,2023-11-10,Active,M,34.0
+C0056,Customer 56,customer56@mail.com,MUMBAI,Organic,2022-08-11,Inactive,F,38.0
+C0057,Customer 57,customer57@mail.com,ahmedabad,Organic,2024-02-28,InActive,F,45.0
+C0058,Customer 58,,DELHI,Social,2023-02-08,Actve,F,60.0
+C0059,Customer 59,customer59@mail.com,ahmedabad,Referral,2022-09-13,Actve,Other,44.0
+C0060,Customer 60,customer60@mail.com,Delhi,Referral,2025-02-09,InActive,M,42.0
+C0061,Customer 61,customer61@mail.com,mumbai,Social,2025-03-11,Actve,F,18.0
+C0062,Customer 62,customer62@mail.com,mumbai, referral ,2025-04-02,Actve,F,61.0
+C0063,Customer 63,customer63@mail.com,Ahmedabad,Direct,2022-12-14,Active,F,58.0
+C0064,Customer 64,customer64@mail.com,Mumbai, Ads ,2023-09-28,InActive,M,20.0
+C0065,Customer 65,customer65@mail.com,Ahmedabad,Social,2022-05-30,Inactive,F,54.0
+C0066,Customer 66,customer66@mail.com,Delhi, referral ,2024-10-09,Inactive,M,62.0
+C0067,Customer 67,,DELHI,Organic,2024-05-20,InActive,M,62.0
+C0068,Customer 68,customer68@mail.com,Mumbai,Social,2023-05-26,Active,F,47.0
+C0069,Customer 69,customer69@mail.com,ahmedabad,Social,2023-10-12,Inactive,Other,50.0
+C0070,Customer 70,customer70@mail.com,ahmedabad, referral ,2022-11-22,Inactive,F,33.0
+C0071,Customer 71,customer71@mail.com,MUMBAI,Social,2024-09-19,InActive,F,63.0
+C0072,Customer 72,customer72@mail.com,MUMBAI,Referral,2023-10-17,Active,M,42.0
+C0073,Customer 73,customer73@mail.com,Delhi, Ads ,2022-05-12,Inactive,F,47.0
+C0074,Customer 74,customer74@mail.com,mumbai, referral ,2024-03-08,Active,Other,18.0
+C0075,Customer 75,customer75@mail.com,MUMBAI, referral ,2024-05-08,InActive,F,45.0
+C0076,Customer 76,customer76@mail.com,Ahmedabad,Referral,2024-04-08,InActive,F,57.0
+C0077,Customer 77,customer77@mail.com,Ahmedabad,Social,2025-03-01,Active,M,26.0
+C0078,Customer 78,customer78@mail.com,mumbai,Organic,2023-06-17,Inactive,F,38.0
+C0079,Customer 79,customer79@mail.com,Ahmedabad,Referral,2024-05-13,Actve,M,65.0
+C0080,Customer 80,customer80@mail.com,MUMBAI, Ads ,2022-05-21,Active,M,30.0
+C0081,Customer 81,customer81@mail.com,ahmedabad, Ads ,2023-05-04,InActive,F,54.0
+C0082,Customer 82,customer82@mail.com,Ahmedabad,Direct,2023-06-09,Actve,M,65.0
+C0083,Customer 83,customer83@mail.com,DELHI, Ads ,2023-09-30,Active,Other,
+C0084,Customer 84,customer84@mail.com,Delhi, referral ,2024-03-23,InActive,M,58.0
+C0085,Customer 85,customer85@mail.com,Delhi,Referral,2022-09-05,Active,F,60.0
+C0086,Customer 86,customer86@mail.com,ahmedabad,Direct,2023-11-30,Active,F,24.0
+C0087,Customer 87,customer87@mail.com,MUMBAI,Direct,2024-07-30,InActive,F,51.0
+C0088,Customer 88,customer88@mail.com,MUMBAI,Social,2025-01-07,Inactive,F,64.0
+C0089,Customer 89,customer89@mail.com,MUMBAI, Ads ,2022-06-27,Actve,F,47.0
+C0090,Customer 90,customer90@mail.com,Delhi, referral ,2023-11-20,Active,F,29.0
+C0091,Customer 91,customer91@mail.com,MUMBAI,Referral,2023-11-29,Actve,Other,35.0
+C0092,Customer 92,customer92@mail.com,ahmedabad, Ads ,2022-06-25,InActive,Other,53.0
+C0093,Customer 93,customer93@mail.com,Delhi, referral ,2024-10-02,Inactive,M,32.0
+C0094,Customer 94,customer94@mail.com,mumbai,Referral,2025-04-06,Actve,F,40.0
+C0095,Customer 95,customer95@mail.com,Delhi,Social,2023-11-09,Actve,Other,37.0
+C0096,Customer 96,customer96@mail.com,Mumbai,Direct,2023-01-30,Actve,M,62.0
+C0097,Customer 97,customer97@mail.com,mumbai,Direct,2024-09-18,Actve,Other,51.0
+C0098,Customer 98,customer98@mail.com,Mumbai, Ads ,2023-08-30,InActive,F,18.0
+C0099,Customer 99,customer99@mail.com,mumbai,Referral,2022-04-04,Active,Other,26.0
+C0100,Customer 100,customer100@mail.com,DELHI, referral ,2022-07-30,Active,Other,48.0
+C0101,Customer 101,customer101@mail.com,mumbai,Organic,2023-06-02,Inactive,M,43.0
+C0102,Customer 102,customer102@mail.com,ahmedabad,Direct,2022-04-20,InActive,M,37.0
+C0103,Customer 103,customer103@mail.com,mumbai,Organic,2025-02-16,Inactive,Other,57.0
+C0104,Customer 104,customer104@mail.com,ahmedabad, referral ,2024-07-11,Inactive,F,45.0
+C0105,Customer 105,customer105@mail.com,ahmedabad,Organic,2022-07-23,InActive,Other,60.0
+C0106,Customer 106,customer106@mail.com,mumbai, Ads ,2025-02-04,Active,M,
+C0107,Customer 107,customer107@mail.com,ahmedabad, referral ,2023-08-20,Active,M,36.0
+C0108,Customer 108,customer108@mail.com,Ahmedabad,Organic,2023-04-24,Actve,Other,30.0
+C0109,Customer 109,customer109@mail.com,ahmedabad, Ads ,2022-11-02,Actve,M,28.0
+C0110,Customer 110,customer110@mail.com,ahmedabad,Direct,2025-03-11,Actve,F,62.0
+C0111,Customer 111,customer111@mail.com,Ahmedabad,Referral,2024-10-21,Inactive,F,20.0
+C0112,Customer 112,customer112@mail.com,Delhi,Referral,2023-05-28,Active,M,61.0
+C0113,Customer 113,customer113@mail.com,ahmedabad,Social,2022-02-12,Actve,Other,29.0
+C0114,Customer 114,customer114@mail.com,Delhi, referral ,2023-07-24,InActive,Other,49.0
+C0115,Customer 115,customer115@mail.com,Ahmedabad,Referral,2024-04-16,Actve,F,28.0
+C0116,Customer 116,customer116@mail.com,Delhi, referral ,2023-08-14,Inactive,Other,23.0
+C0117,Customer 117,customer117@mail.com,MUMBAI,Organic,2024-04-07,Active,Other,47.0
+C0118,Customer 118,customer118@mail.com,mumbai,Social,2024-01-11,Inactive,Other,21.0
+C0119,Customer 119,customer119@mail.com,ahmedabad, Ads ,2023-08-13,Inactive,Other,19.0
+C0120,Customer 120,customer120@mail.com,ahmedabad, Ads ,2022-11-21,Actve,Other,
+C0121,Customer 121,customer121@mail.com,mumbai,Organic,2024-08-03,Active,Other,49.0
+C0122,Customer 122,customer122@mail.com,MUMBAI,Social,2023-07-14,Inactive,F,33.0
+C0123,Customer 123,customer123@mail.com,mumbai, referral ,2023-01-26,InActive,M,44.0
+C0124,Customer 124,customer124@mail.com,DELHI,Social,2023-07-02,Active,F,55.0
+C0125,Customer 125,customer125@mail.com,Delhi, referral ,2022-11-01,Inactive,Other,39.0
+C0126,Customer 126,customer126@mail.com,ahmedabad, referral ,2024-07-21,Actve,M,33.0
+C0127,Customer 127,customer127@mail.com,mumbai, referral ,2022-03-31,Actve,Other,42.0
+C0128,Customer 128,customer128@mail.com,Delhi,Direct,2022-11-08,Inactive,M,55.0
+C0129,Customer 129,customer129@mail.com,Mumbai, referral ,2022-07-24,Inactive,M,44.0
+C0130,Customer 130,customer130@mail.com,mumbai,Organic,2024-08-19,Actve,F,43.0
+C0131,Customer 131,customer131@mail.com,DELHI,Referral,2024-12-28,Inactive,F,49.0
+C0132,Customer 132,customer132@mail.com,Mumbai,Social,2022-05-21,InActive,Other,36.0
+C0133,Customer 133,customer133@mail.com,Delhi,Organic,2024-06-07,Active,Other,24.0
+C0134,Customer 134,customer134@mail.com,Delhi,Referral,2022-03-01,Active,F,36.0
+C0135,Customer 135,customer135@mail.com,Ahmedabad, Ads ,2023-05-16,Inactive,Other,29.0
+C0136,Customer 136,customer136@mail.com,Mumbai,Social,2024-02-23,InActive,F,27.0
+C0137,Customer 137,customer137@mail.com,Delhi,Referral,2024-07-30,Actve,Other,
+C0138,Customer 138,customer138@mail.com,MUMBAI,Direct,2025-01-24,InActive,M,40.0
+C0139,Customer 139,customer139@mail.com,MUMBAI,Direct,2024-05-18,Actve,F,30.0
+C0140,Customer 140,customer140@mail.com,DELHI, referral ,2022-08-07,InActive,F,54.0
+C0141,Customer 141,customer141@mail.com,Delhi,Referral,2022-02-14,Inactive,F,
+C0142,Customer 142,customer142@mail.com,DELHI,Direct,2022-04-11,Inactive,F,32.0
+C0143,Customer 143,customer143@mail.com,MUMBAI, Ads ,2023-01-25,Actve,Other,60.0
+C0144,Customer 144,customer144@mail.com,mumbai,Direct,2022-07-18,Active,F,20.0
+C0145,Customer 145,customer145@mail.com,Delhi, Ads ,2022-07-04,Actve,F,29.0
+C0146,Customer 146,customer146@mail.com,DELHI,Social,2024-01-20,Actve,M,48.0
+C0147,Customer 147,customer147@mail.com,MUMBAI,Direct,2023-11-25,Active,F,27.0
+C0148,Customer 148,customer148@mail.com,mumbai,Direct,2024-03-24,Actve,M,18.0
+C0149,Customer 149,customer149@mail.com,Mumbai, referral ,2024-01-25,Actve,Other,58.0
+C0150,Customer 150,customer150@mail.com,Mumbai,Direct,2023-04-24,Inactive,M,53.0
+C0151,Customer 151,customer151@mail.com,ahmedabad, Ads ,2022-05-10,Inactive,Other,44.0
+C0152,Customer 152,customer152@mail.com,Mumbai,Organic,2023-09-16,Inactive,M,52.0
+C0153,Customer 153,customer153@mail.com,Ahmedabad,Referral,2025-01-11,Inactive,Other,27.0
+C0154,Customer 154,customer154@mail.com,Delhi,Organic,2024-09-29,Inactive,F,41.0
+C0155,Customer 155,customer155@mail.com,Ahmedabad, Ads ,2024-01-13,Active,Other,59.0
+C0156,Customer 156,customer156@mail.com,Ahmedabad,Referral,2023-01-24,Active,F,31.0
+C0157,Customer 157,customer157@mail.com,ahmedabad,Organic,2022-04-14,Actve,M,54.0
+C0158,Customer 158,customer158@mail.com,DELHI,Social,2023-03-01,InActive,M,27.0
+C0159,Customer 159,customer159@mail.com,ahmedabad,Organic,2023-07-22,InActive,M,29.0
+C0160,Customer 160,customer160@mail.com,DELHI,Organic,2022-09-27,Active,F,33.0
+C0161,Customer 161,customer161@mail.com,Mumbai, Ads ,2023-06-28,Active,M,51.0
+C0162,Customer 162,customer162@mail.com,Mumbai, referral ,2024-07-07,Actve,Other,46.0
+C0163,Customer 163,customer163@mail.com,ahmedabad,Organic,2024-12-03,Actve,F,19.0
+C0164,Customer 164,customer164@mail.com,Ahmedabad, referral ,2024-05-23,Active,F,46.0
+C0165,Customer 165,customer165@mail.com,Mumbai,Referral,2022-10-31,Active,M,58.0
+C0166,Customer 166,customer166@mail.com,Delhi,Referral,2024-02-20,Actve,F,45.0
+C0167,Customer 167,customer167@mail.com,Delhi,Organic,2025-02-03,InActive,F,32.0
+C0168,Customer 168,customer168@mail.com,DELHI, referral ,2024-03-27,Inactive,Other,45.0
+C0169,Customer 169,customer169@mail.com,MUMBAI,Referral,2022-11-09,Inactive,M,23.0
+C0170,Customer 170,customer170@mail.com,Mumbai,Direct,2024-02-03,InActive,Other,53.0
+C0171,Customer 171,customer171@mail.com,Delhi,Organic,2024-04-21,Actve,Other,45.0
+C0172,Customer 172,customer172@mail.com,Delhi,Organic,2023-08-13,Actve,F,50.0
+C0173,Customer 173,customer173@mail.com,Delhi, referral ,2023-04-05,Active,F,41.0
+C0174,Customer 174,customer174@mail.com,MUMBAI,Social,2023-04-09,Inactive,Other,57.0
+C0175,Customer 175,customer175@mail.com,Delhi,Social,2022-02-23,Actve,M,62.0
+C0176,Customer 176,customer176@mail.com,MUMBAI,Referral,2022-01-13,InActive,M,43.0
+C0177,Customer 177,customer177@mail.com,Delhi,Direct,2022-03-04,Active,Other,42.0
+C0178,Customer 178,customer178@mail.com,MUMBAI, Ads ,2024-01-28,Actve,Other,54.0
+C0179,Customer 179,customer179@mail.com,Mumbai, Ads ,2022-11-19,Active,Other,46.0
+C0180,Customer 180,customer180@mail.com,Ahmedabad,Social,2024-06-24,Inactive,F,50.0
+C0181,Customer 181,customer181@mail.com,Ahmedabad,Organic,2023-08-04,Inactive,Other,20.0
+C0182,Customer 182,customer182@mail.com,ahmedabad,Organic,2022-01-16,InActive,F,26.0
+C0183,Customer 183,customer183@mail.com,MUMBAI,Referral,2022-09-03,Active,F,29.0
+C0184,Customer 184,customer184@mail.com,ahmedabad,Direct,2023-04-17,Actve,M,65.0
+C0185,Customer 185,,Mumbai, referral ,2022-06-09,Actve,Other,43.0
+C0186,Customer 186,customer186@mail.com,Ahmedabad,Referral,2022-08-24,Inactive,M,28.0
+C0187,Customer 187,customer187@mail.com,ahmedabad, referral ,2024-01-12,Active,F,33.0
+C0188,Customer 188,customer188@mail.com,Ahmedabad,Social,2022-06-11,Inactive,F,32.0
+C0189,Customer 189,customer189@mail.com,mumbai,Organic,2024-11-11,Active,Other,40.0
+C0190,Customer 190,customer190@mail.com,DELHI,Direct,2022-10-30,InActive,M,30.0
+C0191,Customer 191,customer191@mail.com,mumbai,Direct,2022-06-04,InActive,Other,54.0
+C0192,Customer 192,customer192@mail.com,Ahmedabad,Direct,2025-03-02,Actve,Other,46.0
+C0193,Customer 193,customer193@mail.com,Ahmedabad,Direct,2023-09-13,Actve,Other,50.0
+C0194,Customer 194,customer194@mail.com,Ahmedabad, referral ,2022-03-19,Active,F,22.0
+C0195,Customer 195,customer195@mail.com,DELHI,Organic,2024-11-04,Inactive,F,65.0
+C0196,Customer 196,customer196@mail.com,Ahmedabad,Social,2023-01-21,Actve,Other,27.0
+C0197,Customer 197,customer197@mail.com,Ahmedabad,Organic,2023-12-05,Active,Other,20.0
+C0198,Customer 198,customer198@mail.com,Ahmedabad, referral ,2024-12-09,InActive,F,36.0
+C0199,Customer 199,customer199@mail.com,DELHI,Referral,2022-04-18,Actve,M,53.0
+C0200,Customer 200,customer200@mail.com,MUMBAI,Referral,2022-11-04,Actve,M,27.0
+C0201,Customer 201,customer201@mail.com,MUMBAI,Direct,2024-03-13,InActive,Other,23.0
+C0202,Customer 202,customer202@mail.com,Ahmedabad,Direct,2023-11-04,InActive,Other,65.0
+C0203,Customer 203,customer203@mail.com,ahmedabad,Organic,2024-05-17,Actve,M,29.0
+C0204,Customer 204,customer204@mail.com,MUMBAI, referral ,2023-01-29,InActive,M,36.0
+C0205,Customer 205,customer205@mail.com,Mumbai,Social,2025-01-10,Active,Other,57.0
+C0206,Customer 206,customer206@mail.com,Ahmedabad, Ads ,2022-11-29,InActive,Other,28.0
+C0207,Customer 207,customer207@mail.com,Mumbai, referral ,2024-01-17,InActive,F,65.0
+C0208,Customer 208,customer208@mail.com,mumbai,Social,2023-05-05,Actve,F,30.0
+C0209,Customer 209,customer209@mail.com,ahmedabad, referral ,2024-08-03,Actve,F,44.0
+C0210,Customer 210,customer210@mail.com,DELHI, Ads ,2022-10-11,Actve,M,41.0
+C0211,Customer 211,customer211@mail.com,Mumbai,Direct,2024-11-22,Active,F,28.0
+C0212,Customer 212,customer212@mail.com,ahmedabad, Ads ,2024-06-14,Active,M,40.0
+C0213,Customer 213,customer213@mail.com,Ahmedabad,Organic,2024-03-22,Actve,M,23.0
+C0214,Customer 214,customer214@mail.com,Mumbai,Referral,2022-07-22,Actve,M,36.0
+C0215,Customer 215,customer215@mail.com,Ahmedabad,Direct,2022-10-12,Inactive,F,23.0
+C0216,Customer 216,,mumbai, Ads ,2025-01-28,Inactive,M,33.0
+C0217,Customer 217,customer217@mail.com,Mumbai, Ads ,2024-05-09,Inactive,M,49.0
+C0218,Customer 218,customer218@mail.com,Mumbai,Direct,2024-11-21,InActive,Other,45.0
+C0219,Customer 219,,MUMBAI, Ads ,2025-03-14,Inactive,M,23.0
+C0220,Customer 220,customer220@mail.com,MUMBAI,Organic,2024-12-13,Active,F,20.0
+C0221,Customer 221,customer221@mail.com,MUMBAI,Referral,2022-02-03,Actve,M,64.0
+C0222,Customer 222,customer222@mail.com,Mumbai,Social,2023-11-12,InActive,M,39.0
+C0223,Customer 223,customer223@mail.com,mumbai,Direct,2024-08-09,Inactive,Other,26.0
+C0224,Customer 224,customer224@mail.com,DELHI, referral ,2022-03-17,Actve,M,30.0
+C0225,Customer 225,customer225@mail.com,MUMBAI,Referral,2024-11-21,Inactive,Other,20.0
+C0226,Customer 226,customer226@mail.com,mumbai,Referral,2024-01-02,Active,Other,25.0
+C0227,Customer 227,customer227@mail.com,Ahmedabad, referral ,2024-06-19,Inactive,F,49.0
+C0228,Customer 228,customer228@mail.com,MUMBAI,Social,2023-07-01,Active,Other,45.0
+C0229,Customer 229,customer229@mail.com,DELHI, Ads ,2025-01-22,Actve,F,38.0
+C0230,Customer 230,customer230@mail.com,MUMBAI, referral ,2024-05-22,InActive,Other,46.0
+C0231,Customer 231,,DELHI,Referral,2024-06-09,Actve,Other,21.0
+C0232,Customer 232,customer232@mail.com,Delhi, referral ,2024-01-15,InActive,M,56.0
+C0233,Customer 233,customer233@mail.com,Ahmedabad,Organic,2022-09-16,Active,M,41.0
+C0234,Customer 234,customer234@mail.com,ahmedabad,Organic,2022-11-11,Inactive,F,22.0
+C0235,Customer 235,customer235@mail.com,ahmedabad,Referral,2024-03-26,Actve,Other,25.0
+C0236,Customer 236,,mumbai, referral ,2024-11-26,Inactive,Other,34.0
+C0237,Customer 237,customer237@mail.com,mumbai,Social,2023-08-08,Inactive,M,22.0
+C0238,Customer 238,customer238@mail.com,Delhi, referral ,2022-06-29,Actve,Other,22.0
+C0239,Customer 239,customer239@mail.com,MUMBAI,Referral,2022-11-19,InActive,F,25.0
+C0240,Customer 240,customer240@mail.com,DELHI, Ads ,2023-04-30,Inactive,M,54.0
+C0241,Customer 241,customer241@mail.com,DELHI,Social,2022-09-23,Active,M,63.0
+C0242,Customer 242,customer242@mail.com,ahmedabad, referral ,2024-04-18,Active,M,59.0
+C0243,Customer 243,customer243@mail.com,Ahmedabad,Direct,2024-11-25,Actve,M,53.0
+C0244,Customer 244,customer244@mail.com,mumbai, Ads ,2024-06-05,Active,M,37.0
+C0245,Customer 245,customer245@mail.com,MUMBAI,Direct,2023-04-07,Actve,Other,23.0
+C0246,Customer 246,customer246@mail.com,Delhi,Social,2023-07-17,InActive,Other,52.0
+C0247,Customer 247,customer247@mail.com,Delhi, Ads ,2025-04-04,InActive,M,64.0
+C0248,Customer 248,customer248@mail.com,MUMBAI,Social,2022-03-26,Active,M,59.0
+C0249,Customer 249,customer249@mail.com,MUMBAI,Direct,2023-03-08,Inactive,Other,49.0
+C0250,Customer 250,customer250@mail.com,ahmedabad,Referral,2023-09-11,Inactive,M,61.0
+C0251,Customer 251,customer251@mail.com,Ahmedabad,Organic,2022-05-03,InActive,F,47.0
+C0252,Customer 252,customer252@mail.com,ahmedabad, Ads ,2023-10-03,Actve,Other,40.0
+C0253,Customer 253,customer253@mail.com,mumbai,Referral,2024-11-20,Active,F,25.0
+C0254,Customer 254,customer254@mail.com,mumbai, Ads ,2022-07-18,Active,F,57.0
+C0255,Customer 255,customer255@mail.com,DELHI, Ads ,2023-11-02,Actve,M,49.0
+C0256,Customer 256,customer256@mail.com,Ahmedabad, referral ,2023-09-24,Inactive,M,43.0
+C0257,Customer 257,customer257@mail.com,mumbai, Ads ,2025-04-09,Actve,M,49.0
+C0258,Customer 258,customer258@mail.com,DELHI,Direct,2024-08-21,Actve,Other,
+C0259,Customer 259,customer259@mail.com,mumbai,Referral,2024-01-20,Inactive,F,21.0
+C0260,Customer 260,customer260@mail.com,mumbai,Referral,2025-02-07,Actve,M,46.0
+C0261,Customer 261,customer261@mail.com,MUMBAI,Social,2022-09-01,InActive,M,39.0
+C0262,Customer 262,customer262@mail.com,MUMBAI, Ads ,2023-02-12,Inactive,Other,20.0
+C0263,Customer 263,customer263@mail.com,MUMBAI, referral ,2024-11-29,Inactive,M,50.0
+C0264,Customer 264,customer264@mail.com,ahmedabad,Referral,2022-11-29,Inactive,Other,37.0
+C0265,Customer 265,customer265@mail.com,ahmedabad,Social,2024-12-26,Inactive,Other,48.0
+C0266,Customer 266,customer266@mail.com,MUMBAI,Referral,2022-08-13,Inactive,Other,64.0
+C0267,Customer 267,customer267@mail.com,Delhi,Organic,2024-08-29,Actve,Other,55.0
+C0268,Customer 268,customer268@mail.com,Delhi,Organic,2025-04-10,Inactive,M,64.0
+C0269,Customer 269,customer269@mail.com,DELHI, referral ,2022-10-30,InActive,M,62.0
+C0270,Customer 270,customer270@mail.com,Mumbai, referral ,2023-10-05,Inactive,M,31.0
+C0271,Customer 271,customer271@mail.com,DELHI,Social,2024-08-23,Active,Other,31.0
+C0272,Customer 272,customer272@mail.com,Delhi, referral ,2024-12-12,Inactive,F,47.0
+C0273,Customer 273,customer273@mail.com,MUMBAI,Social,2023-12-27,Actve,Other,33.0
+C0274,Customer 274,customer274@mail.com,MUMBAI, Ads ,2023-09-02,Actve,Other,63.0
+C0275,Customer 275,customer275@mail.com,Ahmedabad,Referral,2025-02-21,Actve,F,61.0
+C0276,Customer 276,customer276@mail.com,Ahmedabad,Referral,2022-10-27,Actve,M,63.0
+C0277,Customer 277,customer277@mail.com,Ahmedabad,Direct,2023-06-10,Inactive,M,52.0
+C0278,Customer 278,customer278@mail.com,ahmedabad,Direct,2023-07-11,InActive,M,55.0
+C0279,Customer 279,customer279@mail.com,Mumbai,Direct,2024-12-23,InActive,Other,24.0
+C0280,Customer 280,customer280@mail.com,Delhi, referral ,2022-07-25,InActive,M,28.0
+C0281,Customer 281,customer281@mail.com,Ahmedabad, referral ,2023-02-13,Actve,F,21.0
+C0282,Customer 282,customer282@mail.com,Mumbai,Direct,2025-03-21,InActive,Other,20.0
+C0283,Customer 283,customer283@mail.com,mumbai, referral ,2022-12-27,Active,F,29.0
+C0284,Customer 284,customer284@mail.com,DELHI,Referral,2022-03-18,Active,F,24.0
+C0285,Customer 285,customer285@mail.com,MUMBAI,Referral,2024-07-19,Inactive,M,47.0
+C0286,Customer 286,customer286@mail.com,DELHI,Organic,2023-11-09,InActive,Other,34.0
+C0287,Customer 287,customer287@mail.com,Mumbai,Direct,2023-11-22,Actve,Other,30.0
+C0288,Customer 288,customer288@mail.com,DELHI,Direct,2024-04-10,Inactive,Other,43.0
+C0289,Customer 289,customer289@mail.com,mumbai, Ads ,2024-09-04,Actve,M,
+C0290,Customer 290,customer290@mail.com,Ahmedabad,Referral,2023-11-07,Actve,Other,18.0
+C0291,Customer 291,customer291@mail.com,MUMBAI,Direct,2023-04-29,Active,Other,37.0
+C0292,Customer 292,customer292@mail.com,Delhi,Social,2023-09-29,Active,Other,36.0
+C0293,Customer 293,customer293@mail.com,mumbai, Ads ,2022-10-01,Inactive,M,56.0
+C0294,Customer 294,customer294@mail.com,Delhi,Social,2024-08-22,InActive,M,56.0
+C0295,Customer 295,customer295@mail.com,Mumbai,Social,2024-07-03,Actve,M,25.0
+C0296,Customer 296,customer296@mail.com,ahmedabad,Social,2023-02-19,InActive,M,51.0
+C0297,Customer 297,customer297@mail.com,Delhi, Ads ,2025-04-09,Inactive,M,46.0
+C0298,Customer 298,customer298@mail.com,Ahmedabad, Ads ,2024-11-17,Inactive,F,53.0
+C0299,Customer 299,customer299@mail.com,DELHI,Referral,2022-02-14,Inactive,F,65.0
+C0300,Customer 300,customer300@mail.com,Mumbai,Organic,2024-05-17,Actve,Other,21.0
+C0301,Customer 301,customer301@mail.com,Mumbai, referral ,2022-03-06,Actve,F,26.0
+C0302,Customer 302,customer302@mail.com,Delhi,Direct,2024-05-10,Actve,F,42.0
+C0303,Customer 303,customer303@mail.com,Delhi,Direct,2025-01-09,InActive,Other,25.0
+C0304,Customer 304,customer304@mail.com,ahmedabad, referral ,2024-12-19,InActive,Other,18.0
+C0305,Customer 305,customer305@mail.com,MUMBAI, referral ,2025-01-20,Inactive,Other,32.0
+C0306,Customer 306,customer306@mail.com,MUMBAI, Ads ,2023-07-19,InActive,Other,20.0
+C0307,Customer 307,customer307@mail.com,Ahmedabad,Social,2022-02-02,InActive,M,56.0
+C0308,Customer 308,,ahmedabad,Direct,2022-04-10,InActive,Other,46.0
+C0309,Customer 309,customer309@mail.com,mumbai,Organic,2022-10-14,Actve,M,64.0
+C0310,Customer 310,customer310@mail.com,ahmedabad,Social,2023-10-19,InActive,F,60.0
+C0311,Customer 311,customer311@mail.com,Ahmedabad,Referral,2023-07-18,Active,Other,65.0
+C0312,Customer 312,customer312@mail.com,Delhi,Direct,2024-05-24,Inactive,M,59.0
+C0313,Customer 313,customer313@mail.com,DELHI,Social,2023-10-15,Inactive,F,42.0
+C0314,Customer 314,customer314@mail.com,ahmedabad, referral ,2023-05-09,InActive,F,27.0
+C0315,Customer 315,customer315@mail.com,Mumbai,Social,2024-04-25,Inactive,Other,42.0
+C0316,Customer 316,customer316@mail.com,mumbai,Referral,2022-06-11,Inactive,F,64.0
+C0317,Customer 317,customer317@mail.com,Mumbai,Referral,2024-02-12,Active,M,55.0
+C0318,Customer 318,customer318@mail.com,ahmedabad, Ads ,2024-09-08,InActive,F,18.0
+C0319,Customer 319,customer319@mail.com,mumbai,Direct,2022-08-29,Inactive,M,63.0
+C0320,Customer 320,customer320@mail.com,mumbai,Social,2023-10-21,Actve,F,59.0
+C0321,Customer 321,customer321@mail.com,MUMBAI,Referral,2024-11-16,Inactive,F,64.0
+C0322,Customer 322,customer322@mail.com,DELHI,Referral,2023-02-21,Actve,F,54.0
+C0323,Customer 323,customer323@mail.com,Delhi, Ads ,2022-02-03,Actve,Other,55.0
+C0324,Customer 324,customer324@mail.com,MUMBAI, Ads ,2023-02-06,Actve,M,33.0
+C0325,Customer 325,customer325@mail.com,Delhi,Direct,2023-11-23,Actve,F,59.0
+C0326,Customer 326,customer326@mail.com,Ahmedabad, Ads ,2023-12-23,InActive,M,49.0
+C0327,Customer 327,customer327@mail.com,ahmedabad,Direct,2022-05-01,Active,M,60.0
+C0328,Customer 328,,Mumbai, referral ,2022-10-09,InActive,M,18.0
+C0329,Customer 329,customer329@mail.com,Ahmedabad,Referral,2022-05-04,Inactive,Other,18.0
+C0330,Customer 330,customer330@mail.com,Ahmedabad,Organic,2022-02-04,Actve,Other,19.0
+C0331,Customer 331,customer331@mail.com,Delhi,Direct,2024-05-31,InActive,M,51.0
+C0332,Customer 332,customer332@mail.com,mumbai,Social,2024-12-14,Actve,F,43.0
+C0333,Customer 333,customer333@mail.com,Ahmedabad, referral ,2025-03-03,InActive,Other,61.0
+C0334,Customer 334,customer334@mail.com,Mumbai,Direct,2022-03-06,Active,F,53.0
+C0335,Customer 335,customer335@mail.com,Delhi,Organic,2022-12-17,Active,F,59.0
+C0336,Customer 336,customer336@mail.com,ahmedabad,Organic,2024-12-17,Active,M,62.0
+C0337,Customer 337,customer337@mail.com,Ahmedabad,Referral,2022-04-06,Active,Other,52.0
+C0338,Customer 338,customer338@mail.com,Mumbai, Ads ,2023-10-07,Active,M,63.0
+C0339,Customer 339,customer339@mail.com,Mumbai,Referral,2022-11-29,InActive,Other,42.0
+C0340,Customer 340,customer340@mail.com,ahmedabad,Referral,2024-02-26,InActive,Other,50.0
+C0341,Customer 341,customer341@mail.com,MUMBAI,Organic,2022-07-20,Inactive,M,39.0
+C0342,Customer 342,customer342@mail.com,ahmedabad,Social,2024-03-23,Actve,M,46.0
+C0343,Customer 343,customer343@mail.com,MUMBAI,Social,2024-02-08,Inactive,M,60.0
+C0344,Customer 344,customer344@mail.com,DELHI,Social,2023-08-28,InActive,Other,35.0
+C0345,Customer 345,customer345@mail.com,Delhi,Direct,2022-11-12,Inactive,F,23.0
+C0346,Customer 346,,MUMBAI, referral ,2024-01-08,Actve,M,29.0
+C0347,Customer 347,customer347@mail.com,ahmedabad,Social,2024-11-15,Inactive,M,
+C0348,Customer 348,customer348@mail.com,Mumbai,Social,2023-10-27,Inactive,M,42.0
+C0349,Customer 349,customer349@mail.com,Delhi,Social,2023-05-13,InActive,Other,26.0
+C0350,Customer 350,customer350@mail.com,MUMBAI, referral ,2022-10-26,Active,M,44.0
+C0351,Customer 351,customer351@mail.com,DELHI,Organic,2024-01-10,Actve,M,49.0
+C0352,Customer 352,customer352@mail.com,mumbai, referral ,2022-08-08,InActive,F,
+C0353,Customer 353,customer353@mail.com,DELHI,Social,2024-02-18,Actve,F,59.0
+C0354,Customer 354,customer354@mail.com,mumbai,Referral,2023-10-19,InActive,F,43.0
+C0355,Customer 355,customer355@mail.com,MUMBAI,Direct,2024-10-02,InActive,F,43.0
+C0356,Customer 356,customer356@mail.com,ahmedabad, Ads ,2025-01-22,InActive,Other,19.0
+C0357,Customer 357,customer357@mail.com,Ahmedabad,Direct,2023-03-06,Inactive,F,22.0
+C0358,Customer 358,customer358@mail.com,DELHI, referral ,2024-10-19,InActive,Other,34.0
+C0359,Customer 359,customer359@mail.com,Delhi, referral ,2024-02-12,Active,F,48.0
+C0360,Customer 360,customer360@mail.com,ahmedabad,Social,2024-05-06,Active,F,52.0
+C0361,Customer 361,customer361@mail.com,Mumbai,Organic,2023-05-24,Actve,M,20.0
+C0362,Customer 362,customer362@mail.com,Delhi,Direct,2024-03-29,Actve,F,24.0
+C0363,Customer 363,customer363@mail.com,ahmedabad,Direct,2024-11-28,InActive,F,47.0
+C0364,Customer 364,customer364@mail.com,ahmedabad,Direct,2024-10-21,InActive,F,48.0
+C0365,Customer 365,customer365@mail.com,Ahmedabad,Organic,2022-08-26,InActive,F,47.0
+C0366,Customer 366,customer366@mail.com,ahmedabad, referral ,2023-12-15,Inactive,M,62.0
+C0367,Customer 367,customer367@mail.com,Mumbai,Referral,2022-04-02,Active,M,59.0
+C0368,Customer 368,customer368@mail.com,DELHI, Ads ,2023-05-15,InActive,Other,53.0
+C0369,Customer 369,customer369@mail.com,Ahmedabad, Ads ,2024-04-09,InActive,M,45.0
+C0370,Customer 370,customer370@mail.com,Delhi,Social,2023-02-09,Inactive,Other,18.0
+C0371,Customer 371,customer371@mail.com,mumbai,Referral,2022-05-09,Active,Other,38.0
+C0372,Customer 372,customer372@mail.com,Mumbai,Referral,2024-09-29,Actve,Other,43.0
+C0373,Customer 373,customer373@mail.com,MUMBAI,Referral,2024-07-26,InActive,Other,37.0
+C0374,Customer 374,customer374@mail.com,ahmedabad,Organic,2022-10-02,Actve,M,25.0
+C0375,Customer 375,customer375@mail.com,Delhi, Ads ,2024-11-12,Inactive,F,54.0
+C0376,Customer 376,customer376@mail.com,mumbai, referral ,2025-01-05,InActive,Other,36.0
+C0377,Customer 377,customer377@mail.com,MUMBAI, referral ,2022-04-20,Actve,M,30.0
+C0378,Customer 378,customer378@mail.com,ahmedabad,Social,2024-10-10,Inactive,Other,63.0
+C0379,Customer 379,customer379@mail.com,Ahmedabad, Ads ,2022-06-19,Active,M,35.0
+C0380,Customer 380,customer380@mail.com,MUMBAI, Ads ,2024-07-25,Inactive,Other,54.0
+C0381,Customer 381,customer381@mail.com,DELHI,Social,2024-01-22,Active,Other,31.0
+C0382,Customer 382,customer382@mail.com,Mumbai,Direct,2023-05-22,Actve,M,40.0
+C0383,Customer 383,customer383@mail.com,Mumbai, referral ,2022-08-29,InActive,M,55.0
+C0384,Customer 384,customer384@mail.com,DELHI,Direct,2024-05-26,InActive,Other,31.0
+C0385,Customer 385,customer385@mail.com,DELHI,Organic,2025-03-13,Actve,Other,52.0
+C0386,Customer 386,customer386@mail.com,Delhi,Referral,2023-08-16,Actve,Other,61.0
+C0387,Customer 387,customer387@mail.com,mumbai, referral ,2022-05-02,Actve,Other,26.0
+C0388,Customer 388,customer388@mail.com,Delhi,Referral,2023-05-22,Inactive,F,58.0
+C0389,Customer 389,customer389@mail.com,Ahmedabad, referral ,2024-07-14,Active,Other,23.0
+C0390,Customer 390,customer390@mail.com,Delhi,Referral,2024-01-26,Inactive,F,18.0
+C0391,Customer 391,customer391@mail.com,DELHI,Direct,2022-07-10,Inactive,Other,40.0
+C0392,Customer 392,customer392@mail.com,DELHI,Social,2024-03-25,InActive,F,49.0
+C0393,Customer 393,customer393@mail.com,DELHI,Referral,2023-11-23,InActive,Other,39.0
+C0394,Customer 394,customer394@mail.com,DELHI,Organic,2022-04-05,Active,Other,47.0
+C0395,Customer 395,,DELHI, Ads ,2024-06-22,Inactive,M,45.0
+C0396,Customer 396,customer396@mail.com,Delhi, Ads ,2023-09-11,InActive,F,41.0
+C0397,Customer 397,customer397@mail.com,MUMBAI,Direct,2022-12-05,Active,F,64.0
+C0398,Customer 398,customer398@mail.com,mumbai, referral ,2022-07-06,Active,M,22.0
+C0399,Customer 399,customer399@mail.com,mumbai,Social,2024-06-30,Active,M,25.0
+C0400,Customer 400,customer400@mail.com,Ahmedabad,Direct,2022-09-28,Inactive,M,23.0
+C0401,Customer 401,customer401@mail.com,Mumbai,Organic,2023-10-04,Actve,F,26.0
+C0402,Customer 402,customer402@mail.com,Delhi, Ads ,2022-05-21,Active,Other,46.0
+C0403,Customer 403,customer403@mail.com,mumbai,Direct,2022-11-07,Inactive,Other,31.0
+C0404,Customer 404,customer404@mail.com,Mumbai, Ads ,2022-09-10,Inactive,F,38.0
+C0405,Customer 405,customer405@mail.com,mumbai,Referral,2022-06-22,InActive,Other,64.0
+C0406,Customer 406,customer406@mail.com,DELHI,Direct,2022-02-24,Actve,M,50.0
+C0407,Customer 407,customer407@mail.com,Ahmedabad,Referral,2022-04-22,InActive,F,33.0
+C0408,Customer 408,customer408@mail.com,ahmedabad,Organic,2024-12-17,Active,F,26.0
+C0409,Customer 409,customer409@mail.com,DELHI,Social,2024-05-11,Actve,Other,48.0
+C0410,Customer 410,customer410@mail.com,DELHI,Organic,2022-02-04,Active,M,20.0
+C0411,Customer 411,customer411@mail.com,DELHI, referral ,2024-11-03,Actve,Other,44.0
+C0412,Customer 412,customer412@mail.com,Ahmedabad,Organic,2025-01-03,InActive,F,23.0
+C0413,Customer 413,customer413@mail.com,mumbai, Ads ,2025-01-03,Actve,F,59.0
+C0414,Customer 414,customer414@mail.com,Mumbai,Referral,2024-06-14,InActive,M,45.0
+C0415,Customer 415,customer415@mail.com,ahmedabad,Social,2022-04-23,Actve,Other,65.0
+C0416,Customer 416,customer416@mail.com,Mumbai,Direct,2022-10-09,Active,M,40.0
+C0417,Customer 417,customer417@mail.com,DELHI,Direct,2023-06-15,InActive,F,35.0
+C0418,Customer 418,customer418@mail.com,Mumbai,Organic,2023-11-18,Inactive,F,34.0
+C0419,Customer 419,customer419@mail.com,ahmedabad,Direct,2022-06-07,Inactive,F,21.0
+C0420,Customer 420,customer420@mail.com,ahmedabad, Ads ,2024-01-24,InActive,F,54.0
+C0421,Customer 421,customer421@mail.com,Mumbai, Ads ,2024-11-08,Active,M,18.0
+C0422,Customer 422,customer422@mail.com,Ahmedabad,Referral,2024-02-24,InActive,M,20.0
+C0423,Customer 423,customer423@mail.com,Delhi,Direct,2024-05-08,InActive,F,64.0
+C0424,Customer 424,customer424@mail.com,DELHI,Organic,2025-03-16,Actve,M,21.0
+C0425,Customer 425,customer425@mail.com,DELHI,Social,2022-04-05,Inactive,M,36.0
+C0426,Customer 426,customer426@mail.com,MUMBAI,Referral,2022-06-26,Inactive,M,36.0
+C0427,Customer 427,customer427@mail.com,MUMBAI,Direct,2023-05-12,Inactive,F,49.0
+C0428,Customer 428,customer428@mail.com,DELHI, Ads ,2025-01-24,InActive,M,
+C0429,Customer 429,customer429@mail.com,mumbai,Social,2023-12-11,Active,F,
+C0430,Customer 430,customer430@mail.com,DELHI,Direct,2023-09-22,Active,M,33.0
+C0431,Customer 431,customer431@mail.com,Mumbai, Ads ,2023-07-28,Active,M,51.0
+C0432,Customer 432,customer432@mail.com,MUMBAI, referral ,2022-06-23,Active,Other,43.0
+C0433,Customer 433,customer433@mail.com,ahmedabad,Organic,2024-06-09,InActive,M,38.0
+C0434,Customer 434,customer434@mail.com,Ahmedabad,Direct,2023-10-31,Actve,F,22.0
+C0435,Customer 435,customer435@mail.com,mumbai,Social,2022-08-12,InActive,M,47.0
+C0436,Customer 436,customer436@mail.com,Mumbai,Social,2024-01-04,InActive,F,34.0
+C0437,Customer 437,customer437@mail.com,Mumbai, Ads ,2023-09-16,Active,M,38.0
+C0438,Customer 438,customer438@mail.com,Delhi, Ads ,2023-12-30,Inactive,Other,37.0
+C0439,Customer 439,customer439@mail.com,mumbai,Organic,2024-04-08,Inactive,Other,33.0
+C0440,Customer 440,customer440@mail.com,Mumbai, Ads ,2022-09-06,Active,M,32.0
+C0441,Customer 441,customer441@mail.com,DELHI, referral ,2024-02-02,Active,Other,22.0
+C0442,Customer 442,,Mumbai, Ads ,2024-06-27,InActive,M,39.0
+C0443,Customer 443,customer443@mail.com,Ahmedabad,Organic,2022-12-11,Inactive,Other,19.0
+C0444,Customer 444,customer444@mail.com,Ahmedabad, Ads ,2023-12-26,InActive,M,46.0
+C0445,Customer 445,customer445@mail.com,Mumbai,Social,2023-05-19,Actve,F,53.0
+C0446,Customer 446,customer446@mail.com,Mumbai,Referral,2024-02-24,InActive,F,51.0
+C0447,Customer 447,customer447@mail.com,DELHI,Social,2022-02-09,Inactive,Other,52.0
+C0448,Customer 448,customer448@mail.com,MUMBAI,Social,2024-10-25,Actve,F,19.0
+C0449,Customer 449,customer449@mail.com,mumbai,Organic,2023-07-30,Active,F,55.0
+C0450,Customer 450,customer450@mail.com,mumbai,Organic,2023-05-23,InActive,F,65.0
+C0451,Customer 451,customer451@mail.com,mumbai,Social,2024-03-06,Actve,M,55.0
+C0452,Customer 452,customer452@mail.com,Delhi,Direct,2024-01-05,Active,Other,54.0
+C0453,Customer 453,customer453@mail.com,ahmedabad, Ads ,2024-10-05,Actve,M,23.0
+C0454,Customer 454,customer454@mail.com,ahmedabad, Ads ,2022-02-10,Inactive,M,57.0
+C0455,Customer 455,customer455@mail.com,mumbai,Referral,2022-12-30,Actve,M,
+C0456,Customer 456,customer456@mail.com,mumbai,Organic,2024-12-13,Actve,M,60.0
+C0457,Customer 457,customer457@mail.com,Mumbai,Referral,2023-09-11,Actve,M,64.0
+C0458,Customer 458,customer458@mail.com,DELHI,Direct,2024-09-24,Actve,M,53.0
+C0459,Customer 459,customer459@mail.com,ahmedabad,Referral,2023-04-03,InActive,F,62.0
+C0460,Customer 460,customer460@mail.com,mumbai,Direct,2022-01-04,Inactive,Other,56.0
+C0461,Customer 461,customer461@mail.com,DELHI,Social,2023-03-29,Active,F,65.0
+C0462,Customer 462,customer462@mail.com,MUMBAI,Referral,2022-12-10,Active,Other,64.0
+C0463,Customer 463,customer463@mail.com,Ahmedabad,Organic,2023-06-28,InActive,M,40.0
+C0464,Customer 464,customer464@mail.com,Mumbai,Direct,2022-01-03,Active,F,44.0
+C0465,Customer 465,customer465@mail.com,Ahmedabad, referral ,2024-02-15,Actve,Other,48.0
+C0466,Customer 466,customer466@mail.com,ahmedabad,Direct,2023-04-07,InActive,F,20.0
+C0467,Customer 467,customer467@mail.com,MUMBAI,Referral,2022-08-03,Active,F,42.0
+C0468,Customer 468,customer468@mail.com,Mumbai,Social,2022-07-10,Actve,Other,48.0
+C0469,Customer 469,customer469@mail.com,Ahmedabad,Direct,2022-12-04,Inactive,M,39.0
+C0470,Customer 470,customer470@mail.com,mumbai, referral ,2025-02-08,Actve,Other,33.0
+C0471,Customer 471,customer471@mail.com,Ahmedabad,Social,2025-01-30,Inactive,M,18.0
+C0472,Customer 472,customer472@mail.com,MUMBAI,Direct,2024-09-10,InActive,M,
+C0473,Customer 473,customer473@mail.com,MUMBAI,Organic,2024-08-27,Active,F,48.0
+C0474,Customer 474,customer474@mail.com,Delhi,Referral,2022-07-06,Inactive,M,42.0
+C0475,Customer 475,customer475@mail.com,Ahmedabad,Organic,2023-06-24,Inactive,F,35.0
+C0476,Customer 476,customer476@mail.com,mumbai,Direct,2022-07-18,Active,Other,52.0
+C0477,Customer 477,customer477@mail.com,DELHI,Social,2023-04-11,Active,F,44.0
+C0478,Customer 478,customer478@mail.com,Delhi, referral ,2025-03-18,InActive,F,43.0
+C0479,Customer 479,customer479@mail.com,Delhi,Organic,2024-10-25,InActive,M,46.0
+C0480,Customer 480,customer480@mail.com,mumbai, Ads ,2023-01-30,InActive,M,61.0
+C0481,Customer 481,customer481@mail.com,DELHI,Direct,2022-10-30,Actve,F,22.0
+C0482,Customer 482,customer482@mail.com,ahmedabad, referral ,2025-02-04,Actve,F,18.0
+C0483,Customer 483,customer483@mail.com,ahmedabad,Social,2024-12-06,Inactive,M,27.0
+C0484,Customer 484,customer484@mail.com,ahmedabad,Organic,2022-08-05,Active,F,40.0
+C0485,Customer 485,customer485@mail.com,MUMBAI, referral ,2024-09-21,Inactive,M,43.0
+C0486,Customer 486,customer486@mail.com,ahmedabad,Direct,2024-04-02,Active,F,39.0
+C0487,Customer 487,customer487@mail.com,Mumbai,Direct,2024-08-31,Actve,F,
+C0488,Customer 488,customer488@mail.com,MUMBAI,Referral,2023-07-29,Inactive,Other,32.0
+C0489,Customer 489,customer489@mail.com,Delhi, referral ,2023-10-20,Actve,Other,59.0
+C0490,Customer 490,customer490@mail.com,Ahmedabad, Ads ,2024-04-13,Inactive,Other,21.0
+C0491,Customer 491,customer491@mail.com,mumbai,Organic,2023-09-30,Inactive,M,51.0
+C0492,Customer 492,customer492@mail.com,Mumbai, Ads ,2023-01-30,InActive,M,47.0
+C0493,Customer 493,customer493@mail.com,MUMBAI,Direct,2023-02-12,Actve,F,50.0
+C0494,Customer 494,customer494@mail.com,Mumbai,Direct,2022-03-04,InActive,F,46.0
+C0495,Customer 495,customer495@mail.com,DELHI, referral ,2025-02-03,Actve,F,34.0
+C0496,Customer 496,customer496@mail.com,Delhi,Organic,2023-08-07,Active,F,54.0
+C0497,Customer 497,customer497@mail.com,mumbai, Ads ,2023-04-07,InActive,F,50.0
+C0498,Customer 498,,DELHI,Direct,2022-01-19,Inactive,M,56.0
+C0499,Customer 499,customer499@mail.com,mumbai,Referral,2023-09-18,Actve,F,40.0
+C0500,Customer 500,customer500@mail.com,mumbai, referral ,2023-09-11,Inactive,Other,50.0
+C0362,Customer 362,customer362@mail.com,Delhi,Direct,2024-03-29,Actve,F,24.0
+C0074,Customer 74,customer74@mail.com,mumbai, referral ,2024-03-08,Active,Other,18.0
+C0375,Customer 375,customer375@mail.com,Delhi, Ads ,2024-11-12,Inactive,F,54.0
+C0156,Customer 156,customer156@mail.com,Ahmedabad,Referral,2023-01-24,Active,F,31.0
+C0105,Customer 105,customer105@mail.com,ahmedabad,Organic,2022-07-23,InActive,Other,60.0
+C0395,Customer 395,,DELHI, Ads ,2024-06-22,Inactive,M,45.0
+C0378,Customer 378,customer378@mail.com,ahmedabad,Social,2024-10-10,Inactive,Other,63.0
+C0125,Customer 125,customer125@mail.com,Delhi, referral ,2022-11-01,Inactive,Other,39.0
+C0069,Customer 69,customer69@mail.com,ahmedabad,Social,2023-10-12,Inactive,Other,50.0
+C0451,Customer 451,customer451@mail.com,mumbai,Social,2024-03-06,Actve,M,55.0
+C0010,Customer 10,customer10@mail.com,ahmedabad,Direct,2022-12-17,InActive,M,35.0
+C0195,Customer 195,customer195@mail.com,DELHI,Organic,2024-11-04,Inactive,F,65.0
+C0407,Customer 407,customer407@mail.com,Ahmedabad,Referral,2022-04-22,InActive,F,33.0
+C0085,Customer 85,customer85@mail.com,Delhi,Referral,2022-09-05,Active,F,60.0
+C0372,Customer 372,customer372@mail.com,Mumbai,Referral,2024-09-29,Actve,Other,43.0
+C0389,Customer 389,customer389@mail.com,Ahmedabad, referral ,2024-07-14,Active,Other,23.0
+C0496,Customer 496,customer496@mail.com,Delhi,Organic,2023-08-07,Active,F,54.0
+C0031,Customer 31,customer31@mail.com,Ahmedabad, Ads ,2022-06-04,Inactive,Other,59.0
+C0317,Customer 317,customer317@mail.com,Mumbai,Referral,2024-02-12,Active,M,55.0
+C0409,Customer 409,customer409@mail.com,DELHI,Social,2024-05-11,Actve,Other,48.0
+C0491,Customer 491,customer491@mail.com,mumbai,Organic,2023-09-30,Inactive,M,51.0
+C0492,Customer 492,customer492@mail.com,Mumbai, Ads ,2023-01-30,InActive,M,47.0
+C0281,Customer 281,customer281@mail.com,Ahmedabad, referral ,2023-02-13,Actve,F,21.0
+C0357,Customer 357,customer357@mail.com,Ahmedabad,Direct,2023-03-06,Inactive,F,22.0
+C0077,Customer 77,customer77@mail.com,Ahmedabad,Social,2025-03-01,Active,M,26.0

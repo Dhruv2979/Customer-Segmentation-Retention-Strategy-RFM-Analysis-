@@ -1,0 +1,2551 @@
+order_id,customer_id,order_date,category,product_name,quantity,unit_price,discount_pct,payment_method,order_status
+O00001,C0153,2024-08-31,Home,Product 14,3,2460.52,0.1,Card,Returned
+O00002,C0488,2023-09-25,Home,Product 39,3,1022.96,0.05,UPI,Returned
+O00003,C0014,2024-11-28,Home,Product 64,4,4987.6,0.1,Card,Cancelled
+O00004,C0293,2024-08-20, electronics ,Product 44,4,3660.09,0.05,COD,Returned
+O00005,C0154,2024-11-18,,Product 108,4,3322.31,0.05,Card,Completed
+O00006,C0287,2023-09-22, electronics ,Product 88,4,4508.0,0.0,UPI,Cancelled
+O00007,C0455,2023-11-11,ELECTRONICS,Product 48,2,1376.74,0.1,Card,Completed
+O00008,C0484,2024-10-11,fashion ,Product 10,4,2413.88,0.05,COD,Completed
+O00009,C0438,2024-02-28, electronics ,Product 18,4,4962.5,0.1,Card,Returned
+O00010,C0399,2025-06-02,Electronics,Product 63,4,1729.88,0.05,Card,Returned
+O00011,C0397,2023-10-08, electronics ,Product 74,-1,3845.97,0.15,UPI,Completed
+O00012,C0495,2024-03-15,Fashion,Product 50,5,122.88,0.05,COD,Cancelled
+O00013,C0098,2025-02-14,Electronics,Product 87,1,120.21,0.05,UPI,Returned
+O00014,C0302,2023-04-16,ELECTRONICS,Product 22,3,419.91,0.0,Card,Cancelled
+O00015,C0223,2024-09-02,Home,Product 18,4,1779.39,0.15,Card,Completed
+O00016,C0117,2025-04-11, electronics ,Product 94,2,4925.91,0.05,COD,Completed
+O00017,C0334,2023-05-07,Electronics,Product 49,5,4395.07,0.1,COD,Returned
+O00018,C0335,2023-02-19,Electronics,Product 7,1,3479.77,0.15,Card,Cancelled
+O00019,C0106,2024-04-30,Home,Product 88,1,3188.53,0.1,Card,Returned
+O00020,C0359,2023-10-04, electronics ,Product 54,1,4170.2,0.0,COD,Returned
+O00021,C0255,2023-04-27, electronics ,Product 78,5,1078.77,0.1,COD,Completed
+O00022,C0281,2023-10-30,Fashion,Product 117,3,1117.7,0.15,Card,Completed
+O00023,C0428,2023-04-02,fashion ,Product 86,-1,2521.11,0.0,COD,Completed
+O00024,C0152,2024-10-21,ELECTRONICS,Product 60,1,345.39,0.05,UPI,Cancelled
+O00025,C0060,2023-11-17,Electronics,Product 109,3,3815.2,0.0,UPI,Completed
+O00026,C0138,2024-03-24,Home,Product 12,2,1925.85,0.1,UPI,Completed
+O00027,C0198,2024-04-12,Home,Product 109,4,2443.4,0.15,COD,Completed
+O00028,C0483,2025-01-13, electronics ,Product 14,1,2138.54,0.15,COD,Returned
+O00029,C0314,2024-01-24,Electronics,Product 111,4,3453.87,0.05,Card,Cancelled
+O00030,C0134,2024-03-27,Home,Product 41,1,160.57,0.05,COD,Cancelled
+O00031,C0222,2024-12-18,Home,Product 94,5,1318.03,0.1,COD,Returned
+O00032,C0314,2025-04-26,Electronics,Product 2,4,3252.65,0.05,COD,Cancelled
+O00033,C0165,2023-03-18, electronics ,Product 43,4,4853.71,0.0,COD,Completed
+O00034,C0041,2024-02-17,Fashion,Product 57,5,4026.18,0.15,UPI,Cancelled
+O00035,C0010,2024-05-24,Electronics,Product 52,4,2120.46,0.0,UPI,Returned
+O00036,C0336,2024-06-04,Home,Product 59,5,4756.74,0.1,UPI,Completed
+O00037,C0243,2025-02-24,Home,Product 85,4,1880.14,0.15,UPI,Completed
+O00038,C0494,2023-12-30,ELECTRONICS,Product 71,-2,2657.73,0.0,UPI,Completed
+O00039,C0210,2025-01-04,Electronics,Product 33,4,3093.17,0.05,UPI,Cancelled
+O00040,C0174,2025-03-11,Electronics,Product 97,2,2130.9,0.0,Card,Cancelled
+O00041,C0003,2023-05-18,fashion ,Product 95,5,338.0,0.15,COD,Cancelled
+O00042,C0089,2023-07-01,Home,Product 105,5,729.07,0.15,COD,Returned
+O00043,C0215,2024-05-31,fashion ,Product 118,5,3493.33,0.05,Card,Cancelled
+O00044,C0071,2024-04-08,Fashion,Product 78,3,3530.07,0.1,COD,Returned
+O00045,C0103,2024-07-20, electronics ,Product 80,3,3600.48,0.1,COD,Completed
+O00046,C0364,2024-12-11,Electronics,Product 98,2,1825.97,0.15,COD,Returned
+O00047,C0450,2025-05-11,Fashion,Product 104,4,162.58,0.0,UPI,Cancelled
+O00048,C0385,2023-02-27, electronics ,Product 37,2,3448.61,0.05,UPI,Returned
+O00049,C0417,2024-07-08,Fashion,Product 14,3,3118.93,0.05,COD,Returned
+O00050,C0409,2024-06-07,Home,Product 37,5,3495.39,0.0,Card,Cancelled
+O00051,C0283,2024-12-02,Electronics,Product 2,4,3743.98,0.05,COD,Cancelled
+O00052,C0189,2024-12-22,fashion ,Product 70,2,3718.41,0.05,COD,Completed
+O00053,C0493,2024-11-30, electronics ,Product 95,3,2617.85,0.15,UPI,Cancelled
+O00054,C0434,2023-05-14,ELECTRONICS,Product 1,3,1719.76,0.05,UPI,Completed
+O00055,C0316,2025-03-03,Home,Product 39,3,2503.7,0.1,UPI,Returned
+O00056,C0403,2023-07-08,fashion ,Product 21,3,2138.06,0.15,UPI,Cancelled
+O00057,C0185,2024-11-10,ELECTRONICS,Product 28,2,4756.51,0.15,COD,Returned
+O00058,C0464,2023-12-21,Home,Product 79,1,4601.18,0.05,UPI,Returned
+O00059,C0198,2025-03-26,ELECTRONICS,Product 70,3,3647.48,0.0,COD,Cancelled
+O00060,C0152,2024-04-01,Home,Product 25,5,1669.53,0.0,UPI,Completed
+O00061,C0344,2024-10-03,Home,Product 100,5,1144.56,0.15,UPI,Completed
+O00062,C0397,2025-06-18,Fashion,Product 83,5,4102.1,0.0,COD,Returned
+O00063,C0045,2025-01-04,Electronics,Product 7,2,972.16,0.1,COD,Completed
+O00064,C0231,2023-09-22,Home,Product 52,5,2221.82,0.0,Card,Returned
+O00065,C0033,2024-10-18,Home,Product 75,1,323.03,0.0,Card,Returned
+O00066,C0045,2024-12-03,ELECTRONICS,Product 98,1,4640.79,0.15,Card,Returned
+O00067,C0383,2024-06-30,Fashion,Product 102,1,4007.67,0.1,COD,Completed
+O00068,C0332,2025-03-25,ELECTRONICS,Product 2,3,2812.27,0.05,UPI,Completed
+O00069,C0485,2024-02-08,Electronics,Product 40,1,1129.26,0.1,UPI,Cancelled
+O00070,C0428,2023-07-08,ELECTRONICS,Product 25,5,661.65,0.0,COD,Cancelled
+O00071,C0051,2024-11-18, electronics ,Product 93,5,2944.92,0.1,Card,Completed
+O00072,C0100,2024-09-26,ELECTRONICS,Product 63,2,2308.17,0.1,COD,Returned
+O00073,C0491,2024-01-09,Fashion,Product 22,2,123.68,0.05,UPI,Returned
+O00074,C0376,2024-01-04,ELECTRONICS,Product 113,4,2451.77,0.15,Card,Cancelled
+O00075,C0042,2023-06-29,ELECTRONICS,Product 110,4,4149.57,0.05,Card,Returned
+O00076,C0324,2023-01-20,Electronics,Product 105,1,2951.26,0.15,COD,Completed
+O00077,C0277,2024-07-10,Fashion,Product 84,1,3898.47,0.1,Card,Completed
+O00078,C0257,2023-10-25,fashion ,Product 12,5,2044.25,0.0,COD,Completed
+O00079,C0229,2025-02-14, electronics ,Product 23,5,2875.15,0.05,COD,Returned
+O00080,C0250,2023-02-11, electronics ,Product 9,4,1395.35,0.05,UPI,Returned
+O00081,C0241,2025-03-21,Fashion,Product 113,2,327.54,0.1,UPI,Returned
+O00082,C0135,2023-10-08,fashion ,Product 70,5,2893.78,0.15,COD,Cancelled
+O00083,C0129,2025-05-05,Fashion,Product 117,3,1192.21,0.15,Card,Cancelled
+O00084,C0452,2027-01-01, electronics ,Product 57,4,911.47,0.0,COD,Returned
+O00085,C0309,2023-07-11,Home,Product 105,3,679.82,0.05,Card,Cancelled
+O00086,C0303,2024-05-05, electronics ,Product 83,1,4183.49,0.0,UPI,Completed
+O00087,C0263,2023-06-14,Electronics,Product 115,2,2904.12,0.0,UPI,Cancelled
+O00088,C0289,2024-02-20,Home,Product 3,2,4404.69,0.1,UPI,Completed
+O00089,C0088,2024-04-27, electronics ,Product 107,4,2112.76,0.05,COD,Completed
+O00090,C0352,2023-09-28,ELECTRONICS,Product 119,5,2322.0,0.0,UPI,Cancelled
+O00091,C0441,2023-01-17,fashion ,Product 88,4,2157.0,0.05,COD,Completed
+O00092,C0450,2024-09-21,fashion ,Product 65,2,3786.68,0.0,Card,Returned
+O00093,C0460,2024-07-06,Home,Product 84,2,2214.33,0.15,Card,Completed
+O00094,C0394,2025-04-01,Fashion,Product 45,5,2986.34,0.0,Card,Completed
+O00095,C0043,2023-08-27,ELECTRONICS,Product 77,3,4396.15,0.15,Card,Completed
+O00096,C0268,2027-01-01,Electronics,Product 67,1,135.25,0.05,COD,Cancelled
+O00097,C0300,2023-06-08,ELECTRONICS,Product 34,4,4289.39,0.15,COD,Cancelled
+O00098,C0105,2024-11-27,Fashion,Product 71,5,3940.56,0.15,UPI,Cancelled
+O00099,C0296,2023-09-17,ELECTRONICS,Product 100,5,3556.92,0.05,COD,Completed
+O00100,C0052,2024-12-17, electronics ,Product 66,2,2062.75,0.1,COD,Returned
+O00101,C0047,2027-01-01, electronics ,Product 61,1,4636.72,0.15,UPI,Completed
+O00102,C0371,2023-03-23,Fashion,Product 120,3,4923.8,0.1,COD,Returned
+O00103,C0254,2025-04-19,Fashion,Product 2,1,1088.37,0.1,UPI,Completed
+O00104,C0087,2024-12-16,Home,Product 5,5,1862.73,0.0,UPI,Completed
+O00105,C0208,2023-12-28,fashion ,Product 26,3,2636.94,0.0,UPI,Returned
+O00106,C0179,2024-07-26,ELECTRONICS,Product 105,3,1454.89,0.05,Card,Cancelled
+O00107,C0055,2023-06-29,fashion ,Product 10,-5,2565.53,0.1,UPI,Returned
+O00108,C0129,2025-04-12,,Product 57,3,4833.67,0.15,UPI,Cancelled
+O00109,C0247,2024-08-23,Electronics,Product 34,4,431.02,0.05,COD,Returned
+O00110,C0265,2024-02-27,fashion ,Product 2,2,3534.01,0.1,UPI,Cancelled
+O00111,C0039,2025-02-05,fashion ,Product 120,1,974.58,0.1,Card,Completed
+O00112,C0466,2025-02-03, electronics ,Product 64,5,3711.85,0.05,COD,Completed
+O00113,C0429,2023-07-27,fashion ,Product 46,3,864.38,0.0,UPI,Completed
+O00114,C0491,2025-02-21,Electronics,Product 109,4,2463.23,0.1,Card,Returned
+O00115,C0144,2025-02-21,Fashion,Product 29,3,3775.83,0.05,UPI,Returned
+O00116,C0178,2024-07-07,Fashion,Product 111,4,3463.06,0.05,Card,Completed
+O00117,C0346,2027-01-01, electronics ,Product 49,5,2946.94,0.1,Card,Returned
+O00118,C0242,2023-09-27,fashion ,Product 44,3,1893.03,0.15,Card,Completed
+O00119,C0206,2024-01-17,ELECTRONICS,Product 58,4,981.46,0.05,COD,Returned
+O00120,C0121,2025-01-08,fashion ,Product 56,2,4295.91,0.05,UPI,Returned
+O00121,C0256,2023-01-10, electronics ,Product 115,2,4262.01,0.1,Card,Cancelled
+O00122,C0051,2024-08-04,Home,Product 21,3,394.18,0.1,Card,Returned
+O00123,C0185,2023-12-09,fashion ,Product 72,1,4666.04,0.1,Card,Completed
+O00124,C0311,2025-06-07, electronics ,Product 74,4,2921.88,0.05,Card,Cancelled
+O00125,C0229,2024-05-14,Electronics,Product 49,3,3106.95,0.15,COD,Completed
+O00126,C0314,2023-12-12,fashion ,Product 52,2,4259.61,0.0,UPI,Completed
+O00127,C0364,2023-11-21,ELECTRONICS,Product 78,3,3258.76,0.1,Card,Cancelled
+O00128,C0095,2024-04-06,Electronics,Product 17,5,3666.08,0.1,COD,Returned
+O00129,C0033,2024-02-11,Fashion,Product 71,1,363.74,0.15,COD,Completed
+O00130,C0477,2023-06-09,Fashion,Product 40,1,1223.84,0.1,Card,Returned
+O00131,C0018,2025-05-08,Home,Product 46,2,4315.81,0.1,Card,Cancelled
+O00132,C0497,2024-07-15,Home,Product 70,5,967.48,0.15,COD,Returned
+O00133,C0159,2024-10-17,ELECTRONICS,Product 62,5,2744.37,0.0,Card,Cancelled
+O00134,C0001,2023-06-09,fashion ,Product 105,3,3815.64,0.05,Card,Cancelled
+O00135,C0485,2024-12-05,Fashion,Product 39,4,144.75,0.15,Card,Returned
+O00136,C0211,2024-07-15,fashion ,Product 56,2,2034.29,0.05,COD,Returned
+O00137,C0217,2023-08-14,Home,Product 31,4,2631.39,0.1,Card,Returned
+O00138,C0036,2024-02-27, electronics ,Product 18,5,1519.02,0.15,COD,Cancelled
+O00139,C0010,2024-05-18, electronics ,Product 7,3,4851.61,0.0,UPI,Completed
+O00140,C0005,2025-01-02, electronics ,Product 12,3,838.35,0.15,UPI,Cancelled
+O00141,C0191,2025-03-29,Fashion,Product 90,4,3977.98,0.1,UPI,Completed
+O00142,C0241,2024-02-06, electronics ,Product 25,1,4488.92,0.1,Card,Completed
+O00143,C0395,2025-01-01,Fashion,Product 32,1,3714.33,0.0,UPI,Cancelled
+O00144,C0349,2023-08-02,ELECTRONICS,Product 120,1,1683.01,0.0,COD,Returned
+O00145,C0102,2024-05-07,ELECTRONICS,Product 114,5,355.23,0.05,UPI,Completed
+O00146,C0300,2023-06-21,Electronics,Product 51,4,3966.8,0.0,UPI,Returned
+O00147,C0046,2023-06-08, electronics ,Product 21,4,2549.6,0.1,COD,Completed
+O00148,C0406,2023-06-07,Electronics,Product 17,1,2490.43,0.1,COD,Returned
+O00149,C0011,2024-03-25,Home,Product 49,3,1855.02,0.05,Card,Completed
+O00150,C0357,2024-07-26,Fashion,Product 25,4,2876.84,0.1,Card,Returned
+O00151,C0441,2025-05-01,fashion ,Product 21,4,437.5,0.05,Card,Cancelled
+O00152,C0327,2027-01-01,fashion ,Product 49,3,3694.92,0.0,COD,Cancelled
+O00153,C0496,2025-01-08,fashion ,Product 105,5,1998.71,0.15,COD,Completed
+O00154,C0057,2024-02-24,Electronics,Product 67,5,3328.57,0.0,UPI,Completed
+O00155,C0017,2024-05-12,fashion ,Product 83,1,4197.87,0.15,COD,Returned
+O00156,C0368,2024-01-11,Electronics,Product 2,5,4658.03,0.05,COD,Cancelled
+O00157,C0286,2024-10-16,Home,Product 114,1,2138.17,0.1,COD,Completed
+O00158,C0428,2023-02-11,ELECTRONICS,Product 10,5,4728.56,0.0,UPI,Returned
+O00159,C0337,2023-07-14, electronics ,Product 73,2,3164.09,0.05,COD,Returned
+O00160,C0296,2023-04-19,ELECTRONICS,Product 87,5,2347.73,0.15,UPI,Completed
+O00161,C0081,2024-05-31,fashion ,Product 77,2,2270.76,0.1,Card,Returned
+O00162,C0221,2024-02-27,Home,Product 42,3,3081.23,0.05,Card,Returned
+O00163,C0204,2024-04-08,Electronics,Product 93,3,269.85,0.1,COD,Completed
+O00164,C0114,2027-01-01, electronics ,Product 110,5,1643.03,0.1,COD,Returned
+O00165,C0020,2024-08-08,Fashion,Product 46,5,864.92,0.1,Card,Returned
+O00166,C0293,2025-04-10,Fashion,Product 73,2,4597.62,0.0,COD,Cancelled
+O00167,C0360,2025-04-25,fashion ,Product 105,4,4547.51,0.1,UPI,Returned
+O00168,C0395,2025-03-09,ELECTRONICS,Product 45,5,4410.98,0.15,Card,Completed
+O00169,C0006,2025-05-19,Home,Product 100,2,3197.75,0.0,Card,Returned
+O00170,C0258,2024-08-01,Home,Product 29,1,850.67,0.15,Card,Returned
+O00171,C0403,2023-08-16,Fashion,Product 19,5,747.73,0.0,Card,Returned
+O00172,C0257,2023-09-26,,Product 100,1,3519.57,0.05,Card,Returned
+O00173,C0288,2024-10-29,fashion ,Product 95,2,2668.81,0.05,UPI,Cancelled
+O00174,C0344,2024-08-12,Fashion,Product 55,4,1889.81,0.05,Card,Cancelled
+O00175,C0180,2025-02-27,fashion ,Product 106,5,4951.78,0.15,COD,Completed
+O00176,C0351,2025-04-17,ELECTRONICS,Product 20,4,3812.9,0.0,UPI,Returned
+O00177,C0445,2024-09-27,ELECTRONICS,Product 2,1,1782.03,0.0,Card,Cancelled
+O00178,C0109,2023-08-03, electronics ,Product 70,4,2664.0,0.1,COD,Cancelled
+O00179,C0343,2023-05-25,Electronics,Product 49,5,2956.72,0.0,Card,Completed
+O00180,C0139,2025-03-19,Electronics,Product 60,1,3308.31,0.0,UPI,Cancelled
+O00181,C0056,2024-11-06,Electronics,Product 38,3,4350.31,0.15,UPI,Cancelled
+O00182,C0249,2023-04-12,fashion ,Product 69,5,531.3,0.05,COD,Cancelled
+O00183,C0473,2023-01-23,fashion ,Product 40,5,1734.49,0.15,COD,Completed
+O00184,C0155,2023-12-27, electronics ,Product 65,1,1451.8,0.0,COD,Cancelled
+O00185,C0484,2025-04-14,fashion ,Product 36,4,1205.36,0.1,Card,Returned
+O00186,C0348,2024-01-27,fashion ,Product 112,2,3165.07,0.05,Card,Completed
+O00187,C0169,2023-11-16,Fashion,Product 70,5,745.68,0.05,COD,Returned
+O00188,C0461,2023-11-13,fashion ,Product 117,2,762.74,0.05,COD,Returned
+O00189,C0369,2024-07-24,Electronics,Product 24,2,1656.23,0.05,COD,Completed
+O00190,C0156,2024-02-28,Fashion,Product 96,3,4675.47,0.1,UPI,Completed
+O00191,C0314,2023-01-27,fashion ,Product 35,1,3067.46,0.05,COD,Completed
+O00192,C0400,2024-01-03,Fashion,Product 18,2,2561.39,0.15,COD,Returned
+O00193,C0071,2024-02-01, electronics ,Product 25,3,1208.74,0.15,UPI,Cancelled
+O00194,C0388,2024-11-18, electronics ,Product 9,4,967.68,0.15,COD,Cancelled
+O00195,C0398,2023-09-10,Electronics,Product 78,3,3703.13,0.15,COD,Cancelled
+O00196,C0275,2025-01-30,fashion ,Product 83,4,4391.34,0.0,COD,Completed
+O00197,C0126,2025-06-17,fashion ,Product 69,4,2038.49,0.0,COD,Cancelled
+O00198,C0226,2023-02-20,Fashion,Product 114,5,1592.32,0.1,Card,Completed
+O00199,C0463,2023-02-25, electronics ,Product 60,4,4166.48,0.15,UPI,Returned
+O00200,C0458,2025-03-08,Home,Product 70,5,763.0,0.15,Card,Cancelled
+O00201,C0459,2024-08-27, electronics ,Product 113,1,2327.95,0.1,Card,Returned
+O00202,C0362,2023-05-07,Fashion,Product 82,2,1878.42,0.15,COD,Returned
+O00203,C0023,2024-01-23, electronics ,Product 117,5,1742.45,0.05,UPI,Completed
+O00204,C0159,2023-02-22,Home,Product 99,2,4808.73,0.1,COD,Completed
+O00205,C0392,2027-01-01,ELECTRONICS,Product 2,1,2347.35,0.15,COD,Completed
+O00206,C0338,2023-09-01,Fashion,Product 59,5,2109.74,0.0,COD,Returned
+O00207,C0322,2024-07-14,fashion ,Product 105,1,4143.74,0.0,UPI,Completed
+O00208,C0017,2023-02-07,Home,Product 74,1,4206.27,0.1,Card,Completed
+O00209,C0146,2023-07-02,fashion ,Product 85,1,3488.42,0.05,Card,Returned
+O00210,C0154,2023-02-06,ELECTRONICS,Product 48,5,4497.9,0.0,Card,Returned
+O00211,C0441,2023-05-18,ELECTRONICS,Product 43,1,2682.56,0.05,COD,Completed
+O00212,C0323,2024-08-08,fashion ,Product 12,5,2469.95,0.1,Card,Returned
+O00213,C0182,2024-08-11, electronics ,Product 79,3,2856.91,0.15,Card,Completed
+O00214,C0001,2023-10-25,Electronics,Product 4,5,2377.94,0.0,COD,Completed
+O00215,C0180,2024-02-28,fashion ,Product 104,5,3223.77,0.0,COD,Completed
+O00216,C0260,2023-03-11,fashion ,Product 42,3,3858.46,0.0,COD,Cancelled
+O00217,C0015,2024-08-05, electronics ,Product 25,3,1719.52,0.1,COD,Cancelled
+O00218,C0080,2024-10-23,Home,Product 59,4,4471.09,0.1,Card,Cancelled
+O00219,C0348,2023-11-03,ELECTRONICS,Product 72,1,2725.84,0.05,COD,Returned
+O00220,C0497,2025-03-25, electronics ,Product 36,3,4219.62,0.1,Card,Returned
+O00221,C0096,2024-08-07,fashion ,Product 15,5,4336.51,0.1,COD,Cancelled
+O00222,C0122,2023-03-30,ELECTRONICS,Product 58,1,4164.34,0.1,UPI,Returned
+O00223,C0399,2024-01-19, electronics ,Product 117,3,553.76,0.0,Card,Returned
+O00224,C0269,2024-05-10,ELECTRONICS,Product 100,2,1703.96,0.0,COD,Returned
+O00225,C0366,2023-02-07,fashion ,Product 15,2,120.14,0.0,COD,Returned
+O00226,C0393,2023-02-17,Home,Product 96,1,1631.16,0.1,COD,Completed
+O00227,C0164,2023-10-21,Fashion,Product 86,3,676.49,0.05,UPI,Cancelled
+O00228,C0053,2024-09-29, electronics ,Product 70,-1,1816.56,0.1,Card,Completed
+O00229,C0314,2023-06-25,ELECTRONICS,Product 70,3,2273.87,0.05,UPI,Cancelled
+O00230,C0201,2023-02-25, electronics ,Product 91,1,3020.99,0.15,COD,Cancelled
+O00231,C0344,2023-07-22,fashion ,Product 11,3,4871.04,0.15,COD,Completed
+O00232,C0234,2024-12-16,ELECTRONICS,Product 88,1,3257.65,0.15,Card,Completed
+O00233,C0187,2024-09-23,Fashion,Product 24,2,3528.11,0.1,Card,Cancelled
+O00234,C0246,2024-05-01,Fashion,Product 109,4,936.93,0.1,COD,Returned
+O00235,C0408,2024-02-20,Electronics,Product 42,2,2825.13,0.0,Card,Returned
+O00236,C0125,2024-02-28,fashion ,Product 21,4,4872.07,0.15,UPI,Cancelled
+O00237,C0223,2024-08-28,fashion ,Product 101,2,1776.78,0.05,UPI,Returned
+O00238,C0250,2024-12-29,Electronics,Product 76,1,3020.77,0.1,COD,Completed
+O00239,C0056,2024-02-20,Home,Product 105,4,3022.39,0.15,Card,Cancelled
+O00240,C0298,2025-04-16,Home,Product 104,1,100.9,0.05,COD,Completed
+O00241,C0229,2024-02-04, electronics ,Product 27,4,3439.43,0.1,Card,Returned
+O00242,C0469,2024-03-21,ELECTRONICS,Product 12,3,2955.36,0.15,UPI,Cancelled
+O00243,C0001,2024-07-16,Home,Product 72,1,4121.69,0.1,UPI,Cancelled
+O00244,C0321,2024-12-20,ELECTRONICS,Product 92,1,1975.67,0.15,Card,Returned
+O00245,C0285,2024-05-01,Fashion,Product 108,2,4629.96,0.15,UPI,Cancelled
+O00246,C0074,2023-03-15,Home,Product 114,2,2484.84,0.15,UPI,Completed
+O00247,C0458,2024-03-01,Home,Product 78,2,4658.52,0.05,Card,Returned
+O00248,C0116,2024-04-05, electronics ,Product 55,4,3062.41,0.15,COD,Completed
+O00249,C0018,2024-07-13,Electronics,Product 73,5,2468.01,0.1,UPI,Returned
+O00250,C0375,2023-03-23,fashion ,Product 110,4,4919.98,0.1,Card,Returned
+O00251,C0242,2024-09-16,Home,Product 95,1,3352.31,0.0,COD,Returned
+O00252,C0463,2023-11-16,ELECTRONICS,Product 69,5,3914.78,0.15,Card,Returned
+O00253,C0492,2023-12-06,ELECTRONICS,Product 38,4,920.79,0.1,COD,Returned
+O00254,C0294,2024-04-29,Electronics,Product 85,3,4952.79,0.0,Card,Cancelled
+O00255,C0143,2023-03-20,ELECTRONICS,Product 17,1,3117.41,0.1,Card,Completed
+O00256,C0338,2024-08-28,Fashion,Product 48,1,4058.42,0.1,COD,Completed
+O00257,C0176,2024-06-24,Electronics,Product 19,4,3018.17,0.05,Card,Cancelled
+O00258,C0086,2024-03-26, electronics ,Product 74,4,3698.37,0.1,UPI,Returned
+O00259,C0238,2023-04-29,Fashion,Product 61,3,1576.7,0.05,Card,Returned
+O00260,C0223,2023-05-29,Electronics,Product 37,4,4643.39,0.15,Card,Returned
+O00261,C0050,2024-11-30,fashion ,Product 82,3,1833.76,0.15,COD,Returned
+O00262,C0131,2023-10-01,Home,Product 75,3,2016.65,0.05,COD,Returned
+O00263,C0354,2024-06-16, electronics ,Product 41,5,2783.3,0.0,UPI,Completed
+O00264,C0180,2023-04-17, electronics ,Product 93,4,1488.16,0.05,UPI,Completed
+O00265,C0428,2024-08-31, electronics ,Product 77,5,3226.61,0.0,UPI,Returned
+O00266,C0290,2025-02-21, electronics ,Product 115,2,643.14,0.05,Card,Cancelled
+O00267,C0473,2023-03-19,ELECTRONICS,Product 99,4,2192.22,0.1,Card,Completed
+O00268,C0171,2023-03-05,Electronics,Product 34,1,4782.47,0.1,UPI,Cancelled
+O00269,C0092,2023-07-25,Home,Product 63,1,631.31,0.15,UPI,Returned
+O00270,C0018,2025-01-02,Electronics,Product 10,1,2899.59,0.1,Card,Completed
+O00271,C0020,2027-01-01,Home,Product 50,4,1405.54,0.1,Card,Returned
+O00272,C0224,2025-02-28,Fashion,Product 109,1,3666.06,0.0,COD,Completed
+O00273,C0247,2024-12-06,Electronics,Product 73,1,2722.99,0.1,Card,Returned
+O00274,C0332,2024-10-09,Electronics,Product 47,3,2719.67,0.1,UPI,Cancelled
+O00275,C0496,2023-06-30,Fashion,Product 85,3,1035.92,0.15,UPI,Returned
+O00276,C0098,2024-10-09, electronics ,Product 5,3,1046.15,0.05,Card,Cancelled
+O00277,C0274,2024-10-20,Fashion,Product 3,1,281.51,0.0,Card,Returned
+O00278,C0342,2023-08-05,fashion ,Product 59,1,4706.44,0.05,COD,Returned
+O00279,C0251,2023-02-07,Home,Product 3,2,2408.98,0.0,UPI,Returned
+O00280,C0158,2024-10-09,Electronics,Product 59,-2,3095.01,0.0,UPI,Completed
+O00281,C0412,2024-09-22, electronics ,Product 55,4,1752.98,0.15,Card,Completed
+O00282,C0407,2023-11-26, electronics ,Product 98,5,323.37,0.05,Card,Completed
+O00283,C0357,2025-02-14,ELECTRONICS,Product 71,1,908.53,0.05,COD,Completed
+O00284,C0193,2025-05-17, electronics ,Product 3,2,4410.17,0.0,UPI,Completed
+O00285,C0455,2024-12-24,ELECTRONICS,Product 54,2,3498.17,0.15,COD,Completed
+O00286,C0211,2023-10-05, electronics ,Product 23,2,3091.64,0.0,COD,Completed
+O00287,C0401,2023-04-01,ELECTRONICS,Product 45,4,2152.05,0.05,UPI,Completed
+O00288,C0390,2024-09-25,fashion ,Product 65,5,1174.45,0.05,Card,Completed
+O00289,C0496,2023-06-02,Fashion,Product 64,2,963.99,0.0,UPI,Returned
+O00290,C0316,2024-03-21,Fashion,Product 6,3,611.66,0.0,COD,Completed
+O00291,C0037,2024-05-11, electronics ,Product 93,2,2279.62,0.1,Card,Completed
+O00292,C0051,2023-04-23, electronics ,Product 95,3,2121.72,0.05,Card,Completed
+O00293,C0224,2024-05-11, electronics ,Product 28,1,4646.65,0.15,UPI,Cancelled
+O00294,C0184,2025-01-07,ELECTRONICS,Product 26,3,1745.87,0.0,COD,Returned
+O00295,C0235,2023-04-24,Fashion,Product 22,1,3825.66,0.05,Card,Returned
+O00296,C0464,2024-10-15, electronics ,Product 74,2,4853.67,0.05,UPI,Cancelled
+O00297,C0429,2023-08-10,Fashion,Product 36,5,171.07,0.15,COD,Completed
+O00298,C0475,2024-08-16,,Product 20,2,4577.4,0.0,Card,Completed
+O00299,C0018,2025-01-21,Fashion,Product 68,1,2032.17,0.0,Card,Cancelled
+O00300,C0375,2025-02-10,Fashion,Product 28,2,750.29,0.1,UPI,Returned
+O00301,C0361,2024-11-16,Fashion,Product 110,-1,2894.87,0.0,Card,Cancelled
+O00302,C0447,2024-02-20,ELECTRONICS,Product 81,2,2375.05,0.0,COD,Completed
+O00303,C0152,2023-12-07,Fashion,Product 97,4,1421.97,0.05,COD,Completed
+O00304,C0264,2025-01-23,Home,Product 47,5,4451.09,0.0,Card,Cancelled
+O00305,C0332,2024-01-10,fashion ,Product 91,4,428.33,0.05,UPI,Cancelled
+O00306,C0481,2024-10-26,fashion ,Product 112,2,4799.61,0.05,COD,Completed
+O00307,C0217,2023-10-01,ELECTRONICS,Product 7,3,410.51,0.1,Card,Cancelled
+O00308,C0273,2023-05-06,Home,Product 106,5,2710.99,0.1,Card,Returned
+O00309,C0482,2024-12-10,Electronics,Product 25,3,4470.33,0.15,UPI,Completed
+O00310,C0040,2023-10-23,Electronics,Product 22,4,1452.12,0.05,Card,Completed
+O00311,C0214,2024-10-04,Home,Product 70,2,4665.44,0.15,Card,Cancelled
+O00312,C0033,2023-01-22,Electronics,Product 112,4,4029.75,0.1,Card,Returned
+O00313,C0304,2025-03-16,Home,Product 90,3,2697.81,0.15,Card,Cancelled
+O00314,C0405,2025-03-19,ELECTRONICS,Product 30,5,2472.79,0.1,UPI,Completed
+O00315,C0083,2023-06-20,Home,Product 69,3,1497.71,0.05,COD,Returned
+O00316,C0163,2023-04-30,fashion ,Product 17,2,2260.35,0.1,UPI,Completed
+O00317,C0177,2024-11-12, electronics ,Product 48,5,2297.3,0.05,COD,Cancelled
+O00318,C0394,2024-02-19, electronics ,Product 59,1,4646.28,0.05,UPI,Returned
+O00319,C0152,2023-12-06,Fashion,Product 115,5,1520.15,0.05,COD,Returned
+O00320,C0461,2023-04-26,Electronics,Product 18,4,3422.24,0.0,Card,Completed
+O00321,C0048,2023-08-14,ELECTRONICS,Product 8,4,3079.94,0.05,COD,Returned
+O00322,C0012,2025-02-24,Electronics,Product 69,2,4262.31,0.0,COD,Cancelled
+O00323,C0484,2024-09-09,Electronics,Product 117,2,3367.16,0.15,UPI,Returned
+O00324,C0177,2024-01-17,ELECTRONICS,Product 40,4,4889.87,0.0,UPI,Returned
+O00325,C0148,2024-03-01, electronics ,Product 104,4,3667.2,0.15,COD,Cancelled
+O00326,C0107,2024-09-04,ELECTRONICS,Product 61,2,4943.07,0.1,UPI,Returned
+O00327,C0140,2024-02-24,Fashion,Product 23,4,2823.49,0.05,UPI,Completed
+O00328,C0424,2024-05-17,ELECTRONICS,Product 107,4,2967.52,0.15,COD,Returned
+O00329,C0135,2027-01-01,ELECTRONICS,Product 82,4,4187.79,0.15,UPI,Returned
+O00330,C0331,2024-05-18, electronics ,Product 4,3,684.84,0.1,Card,Completed
+O00331,C0224,2024-08-18,ELECTRONICS,Product 81,5,3460.97,0.0,Card,Returned
+O00332,C0030,2023-09-23, electronics ,Product 41,-5,2359.12,0.05,Card,Completed
+O00333,C0490,2024-03-05,ELECTRONICS,Product 7,1,1520.3,0.0,COD,Completed
+O00334,C0279,2024-09-05,ELECTRONICS,Product 112,2,1649.43,0.1,Card,Returned
+O00335,C0074,2024-08-16,Electronics,Product 18,3,2639.04,0.1,Card,Cancelled
+O00336,C0080,2023-06-16,fashion ,Product 29,3,4174.71,0.0,Card,Cancelled
+O00337,C0246,2023-05-15,ELECTRONICS,Product 40,1,3486.15,0.05,Card,Returned
+O00338,C0156,2023-12-17,Electronics,Product 96,5,4091.41,0.05,UPI,Returned
+O00339,C0067,2023-11-11,Electronics,Product 55,2,3485.01,0.0,UPI,Completed
+O00340,C0017,2023-02-13,Home,Product 66,4,3006.56,0.15,UPI,Cancelled
+O00341,C0050,2024-11-14,Electronics,Product 118,1,3048.78,0.05,UPI,Returned
+O00342,C0483,2023-05-30,ELECTRONICS,Product 75,3,1804.4,0.05,COD,Returned
+O00343,C0420,2024-08-06,fashion ,Product 98,5,168.52,0.05,COD,Completed
+O00344,C0499,2025-02-11,Home,Product 13,3,4628.74,0.15,Card,Returned
+O00345,C0093,2024-11-20,ELECTRONICS,Product 49,5,2178.05,0.05,Card,Completed
+O00346,C0254,2023-04-23,ELECTRONICS,Product 91,3,1512.53,0.0,UPI,Cancelled
+O00347,C0377,2023-10-18,ELECTRONICS,Product 88,4,4883.28,0.15,UPI,Returned
+O00348,C0439,2025-05-25,Electronics,Product 115,4,4221.19,0.15,COD,Cancelled
+O00349,C0054,2024-11-21,Fashion,Product 57,-2,2661.05,0.0,UPI,Completed
+O00350,C0380,2024-08-27, electronics ,Product 9,4,1882.18,0.05,Card,Completed
+O00351,C0430,2024-02-18,Fashion,Product 93,5,2545.64,0.1,COD,Cancelled
+O00352,C0249,2024-09-09,fashion ,Product 36,3,822.13,0.15,UPI,Completed
+O00353,C0069,2023-08-25,Electronics,Product 13,3,3715.21,0.0,Card,Returned
+O00354,C0168,2024-01-27, electronics ,Product 39,1,3147.64,0.0,UPI,Returned
+O00355,C0151,2025-03-22,Home,Product 64,5,2502.23,0.1,COD,Cancelled
+O00356,C0221,2025-02-21,Electronics,Product 50,5,2305.57,0.15,Card,Cancelled
+O00357,C0400,2024-07-24,ELECTRONICS,Product 114,1,3559.69,0.15,Card,Completed
+O00358,C0292,2024-05-14,Home,Product 63,3,3334.39,0.15,Card,Returned
+O00359,C0303,2024-02-05,Fashion,Product 79,2,3414.79,0.1,Card,Completed
+O00360,C0179,2023-05-12,Home,Product 75,1,231.81,0.1,Card,Completed
+O00361,C0029,2024-01-01,Home,Product 32,4,1313.31,0.1,COD,Completed
+O00362,C0011,2023-04-28,fashion ,Product 42,1,283.15,0.15,COD,Returned
+O00363,C0012,2024-12-13,ELECTRONICS,Product 49,4,2894.73,0.1,COD,Completed
+O00364,C0255,2024-11-22,fashion ,Product 104,4,3848.03,0.1,UPI,Returned
+O00365,C0326,2024-03-22,Electronics,Product 108,3,4266.64,0.05,Card,Cancelled
+O00366,C0116,2024-08-10,fashion ,Product 96,1,4793.91,0.0,COD,Cancelled
+O00367,C0219,2025-03-31, electronics ,Product 45,3,3998.69,0.1,COD,Cancelled
+O00368,C0206,2023-11-17,ELECTRONICS,Product 80,4,2625.31,0.05,UPI,Returned
+O00369,C0339,2024-08-13,Home,Product 60,5,1412.89,0.15,COD,Returned
+O00370,C0124,2024-01-09, electronics ,Product 96,1,3458.0,0.1,Card,Cancelled
+O00371,C0434,2023-03-07,Fashion,Product 35,3,4136.18,0.05,Card,Returned
+O00372,C0099,2023-09-02,Electronics,Product 32,5,4005.52,0.1,Card,Cancelled
+O00373,C0019,2024-03-08, electronics ,Product 21,5,1436.29,0.0,Card,Cancelled
+O00374,C0370,2025-05-22,Fashion,Product 101,5,197.55,0.0,Card,Returned
+O00375,C0344,2024-02-21,Home,Product 114,3,542.5,0.05,UPI,Completed
+O00376,C0425,2023-05-04,fashion ,Product 100,5,4664.62,0.1,Card,Completed
+O00377,C0169,2025-03-02,fashion ,Product 95,2,2010.76,0.05,Card,Completed
+O00378,C0226,2023-08-08,Fashion,Product 33,2,4328.21,0.0,Card,Returned
+O00379,C0217,2023-04-26,Fashion,Product 88,3,1307.1,0.1,UPI,Cancelled
+O00380,C0331,2025-04-21,fashion ,Product 5,4,4223.22,0.0,COD,Returned
+O00381,C0491,2024-01-29,Home,Product 47,2,4525.47,0.0,COD,Completed
+O00382,C0470,2024-02-07,ELECTRONICS,Product 39,4,542.23,0.05,Card,Completed
+O00383,C0416,2024-10-08,Home,Product 53,2,3967.66,0.1,UPI,Cancelled
+O00384,C0217,2025-05-11,Electronics,Product 106,4,885.68,0.1,COD,Completed
+O00385,C0378,2025-01-16,ELECTRONICS,Product 59,3,3506.53,0.0,COD,Returned
+O00386,C0002,2025-03-21,Fashion,Product 26,2,3178.65,0.1,COD,Completed
+O00387,C0394,2024-06-12,Home,Product 98,1,737.46,0.15,Card,Cancelled
+O00388,C0352,2023-05-17,fashion ,Product 106,4,1705.14,0.1,UPI,Completed
+O00389,C0484,2024-02-07,fashion ,Product 29,4,201.6,0.0,COD,Returned
+O00390,C0102,2023-04-02,ELECTRONICS,Product 90,5,4273.97,0.0,Card,Returned
+O00391,C0189,2023-06-02, electronics ,Product 73,4,675.02,0.15,Card,Returned
+O00392,C0485,2024-12-31,ELECTRONICS,Product 37,4,3757.57,0.15,UPI,Cancelled
+O00393,C0347,2025-04-23, electronics ,Product 54,2,983.81,0.05,UPI,Cancelled
+O00394,C0190,2024-04-06,fashion ,Product 88,3,3271.45,0.0,UPI,Cancelled
+O00395,C0109,2024-12-10,Home,Product 50,2,3571.42,0.1,UPI,Completed
+O00396,C0242,2023-12-07,ELECTRONICS,Product 78,5,4702.68,0.0,UPI,Cancelled
+O00397,C0344,2023-11-06,ELECTRONICS,Product 17,5,4843.48,0.0,COD,Completed
+O00398,C0450,2024-05-19,Fashion,Product 17,3,539.28,0.15,UPI,Cancelled
+O00399,C0499,2023-05-11,ELECTRONICS,Product 96,1,1866.9,0.15,Card,Cancelled
+O00400,C0224,2023-09-28, electronics ,Product 41,5,3710.66,0.15,UPI,Returned
+O00401,C0094,2023-06-02,Electronics,Product 61,4,1375.1,0.15,Card,Completed
+O00402,C0288,2024-01-01,Fashion,Product 59,4,2515.64,0.05,UPI,Cancelled
+O00403,C0087,2023-10-18,Home,Product 66,1,4130.6,0.05,COD,Completed
+O00404,C0040,2023-07-04, electronics ,Product 99,5,2540.74,0.0,Card,Completed
+O00405,C0192,2024-11-27,fashion ,Product 119,3,4760.98,0.1,UPI,Completed
+O00406,C0233,2024-12-25,Home,Product 35,1,3011.6,0.0,Card,Completed
+O00407,C0376,2023-11-29,fashion ,Product 17,5,1135.7,0.0,COD,Cancelled
+O00408,C0488,2025-01-31,fashion ,Product 49,3,553.5,0.1,UPI,Completed
+O00409,C0199,2025-05-22,Fashion,Product 37,4,3271.12,0.05,UPI,Cancelled
+O00410,C0159,2025-01-23,Home,Product 78,4,743.3,0.0,Card,Returned
+O00411,C0289,2024-02-02,fashion ,Product 55,2,542.09,0.15,Card,Returned
+O00412,C0263,2024-03-12,ELECTRONICS,Product 60,2,3414.56,0.05,Card,Returned
+O00413,C0465,2024-04-24,Fashion,Product 39,5,828.17,0.05,COD,Cancelled
+O00414,C0283,2023-10-30,Electronics,Product 118,2,320.97,0.0,COD,Cancelled
+O00415,C0417,2024-11-07,ELECTRONICS,Product 46,4,1348.82,0.0,COD,Completed
+O00416,C0094,2024-04-18,Fashion,Product 6,1,508.12,0.1,Card,Returned
+O00417,C0136,2024-04-05,ELECTRONICS,Product 118,4,4369.59,0.05,UPI,Completed
+O00418,C0345,2024-09-10,Electronics,Product 56,1,2718.44,0.0,Card,Completed
+O00419,C0208,2024-05-03,Home,Product 96,1,3049.25,0.15,Card,Returned
+O00420,C0346,2024-11-20,Fashion,Product 103,5,1583.02,0.05,UPI,Completed
+O00421,C0097,2023-01-17,Electronics,Product 27,2,2457.47,0.05,COD,Completed
+O00422,C0098,2025-05-28,Electronics,Product 39,4,3871.63,0.05,Card,Cancelled
+O00423,C0228,2023-06-06,Fashion,Product 61,1,196.18,0.15,COD,Completed
+O00424,C0027,2025-04-29,ELECTRONICS,Product 2,2,603.05,0.15,Card,Cancelled
+O00425,C0019,2024-07-21,Fashion,Product 52,5,2481.89,0.15,UPI,Returned
+O00426,C0284,2024-03-08,Electronics,Product 35,1,4475.1,0.15,Card,Completed
+O00427,C0358,2024-10-23,Fashion,Product 3,4,890.53,0.05,Card,Cancelled
+O00428,C0351,2023-08-13,ELECTRONICS,Product 118,4,3050.29,0.15,UPI,Cancelled
+O00429,C0335,2025-05-03,Home,Product 47,4,4000.27,0.05,COD,Completed
+O00430,C0067,2023-03-30, electronics ,Product 26,3,865.94,0.15,UPI,Cancelled
+O00431,C0010,2023-08-03,ELECTRONICS,Product 113,4,1377.96,0.05,UPI,Returned
+O00432,C0317,2023-12-12, electronics ,Product 16,1,2853.71,0.15,Card,Cancelled
+O00433,C0137,2025-02-27, electronics ,Product 110,3,3481.66,0.0,COD,Completed
+O00434,C0500,2025-05-11,Electronics,Product 101,4,3091.81,0.0,COD,Completed
+O00435,C0106,2024-10-07,ELECTRONICS,Product 21,5,3668.91,0.15,COD,Cancelled
+O00436,C0071,2024-01-08,Electronics,Product 109,1,1089.26,0.15,UPI,Completed
+O00437,C0137,2024-06-01,ELECTRONICS,Product 92,4,3798.74,0.1,COD,Returned
+O00438,C0404,2025-02-10, electronics ,Product 18,2,4028.67,0.15,Card,Cancelled
+O00439,C0227,2024-01-06,,Product 99,5,148.75,0.0,UPI,Cancelled
+O00440,C0032,2025-03-01,,Product 98,3,281.76,0.05,COD,Completed
+O00441,C0349,2024-03-05,Home,Product 71,5,4380.38,0.1,Card,Completed
+O00442,C0359,2024-09-17,Fashion,Product 58,3,3255.01,0.15,COD,Cancelled
+O00443,C0276,2023-11-05,,Product 50,4,3652.98,0.05,COD,Returned
+O00444,C0267,2024-06-07,ELECTRONICS,Product 97,3,3214.86,0.0,UPI,Returned
+O00445,C0372,2025-05-02,Fashion,Product 65,5,641.17,0.0,Card,Cancelled
+O00446,C0482,2023-02-18,Electronics,Product 58,5,1560.01,0.0,Card,Cancelled
+O00447,C0458,2024-08-18,Home,Product 86,2,2713.11,0.05,Card,Cancelled
+O00448,C0345,2025-04-14, electronics ,Product 92,3,1950.56,0.05,UPI,Cancelled
+O00449,C0233,2025-04-22,Electronics,Product 19,5,3587.04,0.15,UPI,Completed
+O00450,C0229,2023-05-14,Electronics,Product 48,1,3416.43,0.15,COD,Returned
+O00451,C0256,2025-06-11,Home,Product 55,5,4982.91,0.15,COD,Cancelled
+O00452,C0235,2023-05-11, electronics ,Product 91,2,2614.61,0.0,COD,Completed
+O00453,C0287,2025-02-03,ELECTRONICS,Product 118,4,4763.93,0.15,UPI,Completed
+O00454,C0061,2023-02-11,ELECTRONICS,Product 40,3,4956.0,0.1,Card,Cancelled
+O00455,C0216,2023-05-26,Electronics,Product 120,1,4481.84,0.1,UPI,Completed
+O00456,C0446,2024-07-14,Electronics,Product 54,-4,2457.76,0.1,COD,Cancelled
+O00457,C0427,2024-05-01,fashion ,Product 17,3,3833.56,0.15,Card,Returned
+O00458,C0410,2025-01-15,fashion ,Product 86,4,3155.59,0.15,UPI,Cancelled
+O00459,C0377,2024-11-17,ELECTRONICS,Product 83,3,533.8,0.05,COD,Completed
+O00460,C0288,2025-03-01,Home,Product 16,5,3255.18,0.0,UPI,Returned
+O00461,C0268,2023-02-24, electronics ,Product 97,5,2431.59,0.0,UPI,Returned
+O00462,C0106,2023-01-20, electronics ,Product 107,5,3557.53,0.15,UPI,Returned
+O00463,C0442,2024-08-26,Electronics,Product 44,5,2241.39,0.15,UPI,Returned
+O00464,C0051,2023-04-04,fashion ,Product 22,3,1498.22,0.05,Card,Completed
+O00465,C0031,2024-02-22,fashion ,Product 42,2,989.14,0.0,Card,Cancelled
+O00466,C0133,2024-02-27,Fashion,Product 106,1,4507.56,0.0,UPI,Completed
+O00467,C0259,2024-05-19,Fashion,Product 15,5,1419.51,0.1,Card,Returned
+O00468,C0120,2023-01-30,Electronics,Product 35,4,2814.97,0.0,UPI,Returned
+O00469,C0434,2024-02-21,,Product 65,2,1096.94,0.05,Card,Returned
+O00470,C0493,2024-07-04,fashion ,Product 58,2,304.78,0.15,COD,Cancelled
+O00471,C0129,2024-05-08,Home,Product 49,-2,4996.29,0.05,COD,Returned
+O00472,C0036,2025-01-26,ELECTRONICS,Product 12,3,2036.99,0.0,UPI,Returned
+O00473,C0313,2025-06-18,fashion ,Product 103,5,1659.69,0.1,COD,Cancelled
+O00474,C0175,2024-11-09, electronics ,Product 59,4,4799.06,0.1,UPI,Returned
+O00475,C0003,2023-01-03,Electronics,Product 87,2,950.33,0.15,Card,Returned
+O00476,C0276,2024-10-26,Electronics,Product 115,1,4177.21,0.15,COD,Completed
+O00477,C0184,2024-01-21,Fashion,Product 23,3,4211.81,0.0,UPI,Cancelled
+O00478,C0381,2027-01-01,Electronics,Product 98,3,1477.56,0.1,UPI,Completed
+O00479,C0120,2025-04-07,Fashion,Product 47,5,280.3,0.15,COD,Returned
+O00480,C0327,2023-07-20,Fashion,Product 15,5,4362.59,0.15,UPI,Returned
+O00481,C0309,2024-08-02,fashion ,Product 23,2,420.27,0.05,COD,Completed
+O00482,C0452,2024-08-06,fashion ,Product 94,2,3933.04,0.05,COD,Completed
+O00483,C0233,2024-11-28,Electronics,Product 55,5,3240.73,0.0,Card,Cancelled
+O00484,C0254,2024-11-27,ELECTRONICS,Product 67,4,3819.21,0.05,UPI,Cancelled
+O00485,C0100,2027-01-01,ELECTRONICS,Product 11,4,4412.48,0.0,COD,Completed
+O00486,C0169,2023-09-13,ELECTRONICS,Product 9,4,3167.37,0.0,UPI,Cancelled
+O00487,C0479,2024-08-29,ELECTRONICS,Product 108,4,1327.01,0.0,Card,Completed
+O00488,C0407,2025-04-21, electronics ,Product 10,3,3901.17,0.15,UPI,Returned
+O00489,C0470,2023-03-29,Electronics,Product 49,4,1635.07,0.0,UPI,Completed
+O00490,C0034,2024-09-17,Electronics,Product 87,4,373.37,0.0,Card,Cancelled
+O00491,C0443,2025-02-09,fashion ,Product 101,4,3332.65,0.0,Card,Cancelled
+O00492,C0174,2024-09-27,Home,Product 87,4,3936.35,0.15,COD,Cancelled
+O00493,C0366,2023-04-16,Electronics,Product 76,5,3968.14,0.05,COD,Completed
+O00494,C0318,2024-03-07,Fashion,Product 24,5,1291.45,0.0,UPI,Completed
+O00495,C0387,2024-06-09,ELECTRONICS,Product 40,3,2959.96,0.05,UPI,Cancelled
+O00496,C0005,2023-10-26,fashion ,Product 76,3,3322.62,0.05,UPI,Completed
+O00497,C0217,2024-07-26,ELECTRONICS,Product 26,5,4884.9,0.05,UPI,Cancelled
+O00498,C0240,2024-12-12,fashion ,Product 89,2,1722.61,0.1,COD,Cancelled
+O00499,C0405,2023-04-18,Electronics,Product 64,4,1175.09,0.0,COD,Completed
+O00500,C0377,2023-08-07,ELECTRONICS,Product 104,2,3726.4,0.05,Card,Completed
+O00501,C0285,2023-03-17,Electronics,Product 19,1,1523.82,0.05,COD,Returned
+O00502,C0146,2023-01-31, electronics ,Product 29,3,4438.37,0.05,Card,Returned
+O00503,C0135,2023-01-23,Electronics,Product 3,2,4174.08,0.05,Card,Returned
+O00504,C0123,2023-08-04,ELECTRONICS,Product 104,1,1924.52,0.05,COD,Returned
+O00505,C0452,2023-03-08, electronics ,Product 102,4,1029.24,0.15,COD,Cancelled
+O00506,C0024,2024-10-13,fashion ,Product 76,3,1026.6,0.1,UPI,Cancelled
+O00507,C0065,2025-03-25,fashion ,Product 75,2,4440.59,0.05,COD,Completed
+O00508,C0261,2024-09-21,Fashion,Product 97,4,4423.87,0.1,Card,Returned
+O00509,C0356,2024-12-30,Fashion,Product 92,4,4783.18,0.15,Card,Returned
+O00510,C0019,2025-03-20, electronics ,Product 29,4,4484.93,0.15,UPI,Cancelled
+O00511,C0479,2024-01-22,ELECTRONICS,Product 33,2,2797.7,0.05,UPI,Cancelled
+O00512,C0239,2023-08-24,fashion ,Product 80,4,1748.23,0.15,Card,Cancelled
+O00513,C0196,2024-05-24,Electronics,Product 23,4,2264.27,0.1,COD,Completed
+O00514,C0263,2023-10-29,fashion ,Product 83,3,482.98,0.1,UPI,Completed
+O00515,C0171,2023-02-09, electronics ,Product 87,1,1713.28,0.1,COD,Returned
+O00516,C0438,2024-09-10,Home,Product 95,3,2761.32,0.1,UPI,Cancelled
+O00517,C0485,2025-03-12,Fashion,Product 106,3,2941.77,0.0,Card,Returned
+O00518,C0117,2023-06-02, electronics ,Product 93,5,3770.77,0.15,UPI,Returned
+O00519,C0417,2025-02-14,Fashion,Product 44,5,3980.38,0.1,UPI,Cancelled
+O00520,C0016,2024-04-05,ELECTRONICS,Product 18,4,2929.79,0.05,Card,Returned
+O00521,C0174,2024-11-05, electronics ,Product 54,1,2186.02,0.15,COD,Returned
+O00522,C0017,2023-01-24, electronics ,Product 20,3,4888.49,0.1,COD,Returned
+O00523,C0196,2024-08-10, electronics ,Product 51,5,412.18,0.15,UPI,Cancelled
+O00524,C0156,2024-04-07,Electronics,Product 22,1,611.13,0.05,UPI,Returned
+O00525,C0467,2023-07-11,Fashion,Product 37,5,1108.87,0.1,COD,Returned
+O00526,C0088,2024-01-13,ELECTRONICS,Product 111,1,4558.08,0.15,UPI,Completed
+O00527,C0200,2024-05-04, electronics ,Product 17,2,4365.2,0.1,Card,Returned
+O00528,C0301,2024-08-11,,Product 65,4,3612.18,0.15,Card,Completed
+O00529,C0205,2024-04-01,fashion ,Product 104,1,1309.52,0.1,COD,Cancelled
+O00530,C0148,2023-02-10,Home,Product 113,4,4602.59,0.1,COD,Returned
+O00531,C0090,2025-04-23,Fashion,Product 32,3,979.93,0.15,Card,Cancelled
+O00532,C0485,2023-04-08,Electronics,Product 31,2,4439.15,0.05,Card,Returned
+O00533,C0370,2023-03-10, electronics ,Product 117,5,2518.09,0.0,Card,Completed
+O00534,C0231,2025-03-09, electronics ,Product 33,1,1116.12,0.0,Card,Completed
+O00535,C0196,2024-11-22,ELECTRONICS,Product 96,1,2056.77,0.05,Card,Completed
+O00536,C0168,2024-12-27,,Product 96,1,2374.8,0.15,UPI,Completed
+O00537,C0072,2024-12-31,Fashion,Product 106,5,1467.8,0.05,UPI,Completed
+O00538,C0380,2023-10-29,Fashion,Product 22,5,480.17,0.0,COD,Cancelled
+O00539,C0018,2023-07-02,Home,Product 69,2,1159.22,0.0,COD,Returned
+O00540,C0307,2023-11-12,Electronics,Product 7,1,3884.81,0.05,UPI,Cancelled
+O00541,C0008,2023-01-17,ELECTRONICS,Product 106,2,1041.54,0.0,UPI,Completed
+O00542,C0056,2023-02-15,ELECTRONICS,Product 42,2,2854.07,0.05,COD,Completed
+O00543,C0110,2024-03-14,Electronics,Product 46,5,1684.5,0.0,Card,Returned
+O00544,C0034,2023-08-06,Home,Product 105,-3,1464.44,0.1,UPI,Completed
+O00545,C0053,2025-02-24,Home,Product 69,2,3977.17,0.05,Card,Completed
+O00546,C0348,2024-10-08,Home,Product 18,5,1727.03,0.1,COD,Cancelled
+O00547,C0230,2024-09-15,Fashion,Product 66,1,3238.9,0.05,COD,Returned
+O00548,C0064,2024-09-23,ELECTRONICS,Product 31,1,3715.78,0.05,COD,Completed
+O00549,C0078,2024-05-25,Fashion,Product 27,1,3245.99,0.05,COD,Returned
+O00550,C0163,2023-12-03,Home,Product 101,4,3826.42,0.15,COD,Cancelled
+O00551,C0125,2025-01-20, electronics ,Product 70,1,364.96,0.05,COD,Returned
+O00552,C0094,2024-01-26,Fashion,Product 81,2,129.61,0.15,UPI,Completed
+O00553,C0065,2023-05-25,Electronics,Product 23,1,3003.89,0.05,UPI,Returned
+O00554,C0370,2024-04-23, electronics ,Product 32,1,2177.68,0.05,Card,Cancelled
+O00555,C0442,2024-10-12,Fashion,Product 11,5,4759.96,0.1,Card,Cancelled
+O00556,C0377,2024-03-08,Fashion,Product 98,2,863.8,0.15,UPI,Cancelled
+O00557,C0154,2025-02-16,fashion ,Product 69,4,848.71,0.05,Card,Cancelled
+O00558,C0311,2023-10-18,Fashion,Product 10,4,1732.85,0.15,UPI,Completed
+O00559,C0372,2025-06-01,ELECTRONICS,Product 63,-2,2082.32,0.15,Card,Returned
+O00560,C0302,2023-11-12,Electronics,Product 53,3,4436.5,0.0,Card,Returned
+O00561,C0395,2024-03-22,Home,Product 45,2,2597.08,0.15,COD,Returned
+O00562,C0218,2024-10-28,Home,Product 32,3,1287.53,0.0,Card,Returned
+O00563,C0310,2024-10-22,Fashion,Product 88,1,822.1,0.05,COD,Returned
+O00564,C0365,2025-02-28,Fashion,Product 51,-2,3559.74,0.0,COD,Completed
+O00565,C0155,2024-03-13,fashion ,Product 69,4,3326.58,0.15,COD,Cancelled
+O00566,C0056,2025-01-15,Home,Product 74,4,3905.79,0.1,UPI,Cancelled
+O00567,C0004,2024-02-12, electronics ,Product 105,2,2509.44,0.0,UPI,Returned
+O00568,C0221,2024-11-01, electronics ,Product 23,4,1935.79,0.05,UPI,Cancelled
+O00569,C0417,2023-04-23, electronics ,Product 24,2,1084.61,0.05,UPI,Cancelled
+O00570,C0326,2024-10-01, electronics ,Product 11,4,1536.32,0.15,UPI,Cancelled
+O00571,C0249,2024-08-22,Home,Product 98,1,593.96,0.0,Card,Completed
+O00572,C0268,2023-02-12,Electronics,Product 49,5,3054.63,0.1,Card,Cancelled
+O00573,C0456,2023-12-11,ELECTRONICS,Product 41,3,4102.55,0.1,COD,Cancelled
+O00574,C0413,2023-12-31,Electronics,Product 1,4,2338.9,0.15,COD,Completed
+O00575,C0487,2025-06-08,Home,Product 97,1,4093.75,0.1,Card,Returned
+O00576,C0327,2024-11-07,ELECTRONICS,Product 3,4,3205.51,0.0,COD,Cancelled
+O00577,C0314,2024-05-11,Electronics,Product 45,4,2196.79,0.15,COD,Returned
+O00578,C0365,2023-10-28, electronics ,Product 112,1,2648.27,0.0,UPI,Cancelled
+O00579,C0448,2024-11-20,Fashion,Product 22,1,4492.4,0.0,Card,Returned
+O00580,C0484,2023-08-05,Home,Product 90,5,538.22,0.15,COD,Completed
+O00581,C0393,2023-12-01,ELECTRONICS,Product 29,2,3623.96,0.15,COD,Completed
+O00582,C0047,2024-10-10,Home,Product 43,2,4372.51,0.0,COD,Cancelled
+O00583,C0196,2025-01-30,Home,Product 83,4,3946.9,0.15,UPI,Completed
+O00584,C0175,2023-03-31,Home,Product 76,3,4692.33,0.0,COD,Cancelled
+O00585,C0001,2024-01-25,ELECTRONICS,Product 8,2,2991.29,0.05,Card,Cancelled
+O00586,C0408,2025-03-27, electronics ,Product 67,3,3352.34,0.05,UPI,Cancelled
+O00587,C0418,2024-04-16,ELECTRONICS,Product 108,1,1172.63,0.15,UPI,Returned
+O00588,C0424,2024-11-12,Home,Product 5,3,3034.51,0.1,COD,Returned
+O00589,C0245,2025-05-18,Home,Product 107,1,1156.95,0.1,COD,Cancelled
+O00590,C0367,2023-12-08,,Product 109,1,3690.02,0.05,COD,Returned
+O00591,C0250,2025-03-05,Home,Product 51,1,1565.6,0.05,UPI,Returned
+O00592,C0179,2024-11-25,Fashion,Product 51,4,451.93,0.1,Card,Returned
+O00593,C0068,2024-07-15,ELECTRONICS,Product 97,2,3977.26,0.0,COD,Cancelled
+O00594,C0357,2024-08-14,Fashion,Product 38,4,4496.37,0.05,UPI,Returned
+O00595,C0439,2023-01-10,fashion ,Product 14,2,3423.76,0.05,Card,Cancelled
+O00596,C0243,2023-04-09, electronics ,Product 7,2,675.0,0.1,COD,Cancelled
+O00597,C0061,2024-02-18, electronics ,Product 51,2,2494.27,0.05,COD,Returned
+O00598,C0046,2025-03-25,Fashion,Product 111,4,4109.16,0.15,Card,Returned
+O00599,C0063,2023-05-03,Fashion,Product 83,4,3377.08,0.05,UPI,Returned
+O00600,C0382,2024-05-06,Electronics,Product 102,5,3005.11,0.15,Card,Returned
+O00601,C0033,2023-05-09,Home,Product 117,4,4324.83,0.05,Card,Returned
+O00602,C0416,2025-04-17,fashion ,Product 63,1,413.27,0.0,UPI,Returned
+O00603,C0003,2024-09-05,fashion ,Product 58,1,4022.51,0.0,UPI,Completed
+O00604,C0132,2023-06-15,Electronics,Product 11,5,4901.65,0.1,Card,Returned
+O00605,C0154,2027-01-01,Electronics,Product 67,2,4532.64,0.1,COD,Returned
+O00606,C0268,2024-05-17,ELECTRONICS,Product 78,4,2737.23,0.05,COD,Completed
+O00607,C0439,2023-07-12, electronics ,Product 18,1,3050.51,0.05,COD,Cancelled
+O00608,C0282,2024-09-29,,Product 34,3,1970.73,0.05,Card,Cancelled
+O00609,C0356,2024-11-23, electronics ,Product 69,1,1098.44,0.1,COD,Returned
+O00610,C0421,2024-07-31,fashion ,Product 78,2,903.81,0.05,Card,Cancelled
+O00611,C0139,2024-09-10,Electronics,Product 69,4,638.95,0.15,UPI,Cancelled
+O00612,C0075,2023-12-08, electronics ,Product 36,1,148.33,0.15,UPI,Cancelled
+O00613,C0373,2023-05-07,ELECTRONICS,Product 76,1,4124.58,0.15,UPI,Returned
+O00614,C0139,2025-06-05,,Product 13,3,4493.19,0.05,Card,Cancelled
+O00615,C0404,2025-01-29,fashion ,Product 71,2,3013.62,0.15,Card,Returned
+O00616,C0080,2024-12-04,Home,Product 17,2,799.08,0.1,UPI,Returned
+O00617,C0215,2023-09-13,Home,Product 59,3,997.21,0.1,Card,Returned
+O00618,C0368,2024-03-14, electronics ,Product 40,3,3214.61,0.0,Card,Cancelled
+O00619,C0374,2024-10-11, electronics ,Product 12,3,909.05,0.0,UPI,Returned
+O00620,C0006,2024-05-19,Fashion,Product 87,3,2592.54,0.05,Card,Cancelled
+O00621,C0358,2024-11-24,Electronics,Product 52,5,168.11,0.05,COD,Completed
+O00622,C0379,2025-02-06,Home,Product 118,4,4134.48,0.0,COD,Cancelled
+O00623,C0116,2025-02-21, electronics ,Product 10,2,1898.55,0.05,COD,Cancelled
+O00624,C0497,2024-01-24,Electronics,Product 44,1,4578.82,0.05,COD,Completed
+O00625,C0002,2023-10-28,Home,Product 81,3,2887.33,0.05,Card,Returned
+O00626,C0457,2023-02-06,fashion ,Product 109,5,2492.51,0.1,UPI,Returned
+O00627,C0180,2023-12-29,Home,Product 24,4,2070.13,0.0,UPI,Cancelled
+O00628,C0079,2024-06-25,Fashion,Product 16,4,4574.23,0.0,UPI,Returned
+O00629,C0187,2024-02-09,Fashion,Product 115,3,992.69,0.1,UPI,Cancelled
+O00630,C0003,2023-12-29,ELECTRONICS,Product 114,4,4365.52,0.05,UPI,Completed
+O00631,C0170,2024-02-09,Electronics,Product 21,3,3364.4,0.15,COD,Cancelled
+O00632,C0350,2024-07-17,Home,Product 17,1,1691.95,0.15,COD,Returned
+O00633,C0065,2023-04-21, electronics ,Product 45,4,2550.0,0.05,UPI,Returned
+O00634,C0223,2024-09-03,Fashion,Product 38,3,1482.89,0.0,Card,Completed
+O00635,C0144,2024-06-07,Electronics,Product 111,5,1391.3,0.05,COD,Cancelled
+O00636,C0359,2025-03-12,Home,Product 65,2,3094.39,0.05,COD,Returned
+O00637,C0141,2023-05-16, electronics ,Product 119,2,816.42,0.0,COD,Completed
+O00638,C0157,2024-01-25,Home,Product 82,1,4902.61,0.05,Card,Cancelled
+O00639,C0156,2024-03-13,Electronics,Product 35,4,1881.52,0.1,COD,Cancelled
+O00640,C0001,2023-02-18,Electronics,Product 85,2,3749.3,0.05,Card,Cancelled
+O00641,C0130,2023-04-14,Fashion,Product 47,3,1737.98,0.0,UPI,Returned
+O00642,C0170,2025-02-27,ELECTRONICS,Product 95,1,4069.17,0.1,UPI,Returned
+O00643,C0055,2024-01-29,,Product 81,3,3738.68,0.0,UPI,Returned
+O00644,C0039,2024-04-01,fashion ,Product 80,2,1780.2,0.15,UPI,Returned
+O00645,C0365,2023-07-16,ELECTRONICS,Product 115,2,4397.67,0.1,Card,Cancelled
+O00646,C0269,2023-03-11,fashion ,Product 102,1,207.19,0.1,COD,Completed
+O00647,C0498,2024-08-02,Home,Product 25,3,3729.5,0.15,Card,Returned
+O00648,C0385,2023-03-18,fashion ,Product 50,5,2856.24,0.15,Card,Returned
+O00649,C0112,2023-01-04,fashion ,Product 90,3,143.42,0.15,COD,Returned
+O00650,C0363,2025-05-22,ELECTRONICS,Product 71,5,683.61,0.05,UPI,Returned
+O00651,C0453,2024-10-16,ELECTRONICS,Product 119,2,751.56,0.0,COD,Completed
+O00652,C0324,2023-01-02,fashion ,Product 48,2,1690.35,0.1,COD,Completed
+O00653,C0030,2023-10-29,Home,Product 105,4,151.0,0.1,UPI,Returned
+O00654,C0445,2023-01-17,fashion ,Product 14,3,3640.75,0.15,COD,Cancelled
+O00655,C0167,2025-04-16,ELECTRONICS,Product 27,5,2950.15,0.15,UPI,Cancelled
+O00656,C0462,2024-03-20,,Product 12,2,2530.21,0.15,UPI,Completed
+O00657,C0145,2025-01-16,Electronics,Product 40,2,898.3,0.05,Card,Returned
+O00658,C0126,2023-05-27,Fashion,Product 117,5,3261.08,0.15,UPI,Returned
+O00659,C0309,2025-02-07,Electronics,Product 49,5,1981.55,0.0,UPI,Returned
+O00660,C0074,2025-02-27,Home,Product 77,1,166.13,0.0,UPI,Returned
+O00661,C0246,2023-03-29,fashion ,Product 115,3,2277.2,0.05,Card,Cancelled
+O00662,C0137,2023-02-27,Home,Product 70,4,703.07,0.0,UPI,Returned
+O00663,C0001,2025-05-06, electronics ,Product 4,3,1210.71,0.15,UPI,Cancelled
+O00664,C0352,2025-06-19,Home,Product 106,3,4517.91,0.15,UPI,Completed
+O00665,C0316,2023-10-16,ELECTRONICS,Product 16,2,1866.42,0.0,UPI,Returned
+O00666,C0093,2024-06-27,Home,Product 55,2,836.08,0.1,COD,Cancelled
+O00667,C0339,2023-10-05,ELECTRONICS,Product 120,3,1400.46,0.0,UPI,Completed
+O00668,C0408,2024-02-04,Fashion,Product 105,2,429.84,0.15,COD,Cancelled
+O00669,C0198,2023-05-11,ELECTRONICS,Product 41,2,2521.61,0.15,COD,Cancelled
+O00670,C0484,2023-12-08,Home,Product 118,5,1304.95,0.15,COD,Cancelled
+O00671,C0118,2024-06-29,Fashion,Product 11,5,2946.72,0.15,COD,Returned
+O00672,C0105,2023-08-29,Electronics,Product 47,2,2836.03,0.05,UPI,Completed
+O00673,C0420,2025-05-19, electronics ,Product 38,3,2355.9,0.15,UPI,Completed
+O00674,C0357,2023-05-22,Home,Product 19,2,1949.56,0.0,COD,Cancelled
+O00675,C0038,2023-04-19,Fashion,Product 108,3,3010.24,0.05,UPI,Completed
+O00676,C0292,2023-09-08,Fashion,Product 20,3,3850.55,0.15,COD,Completed
+O00677,C0370,2023-11-03,ELECTRONICS,Product 57,5,3928.84,0.0,Card,Completed
+O00678,C0385,2024-10-19, electronics ,Product 65,2,885.71,0.15,Card,Returned
+O00679,C0293,2025-04-29,fashion ,Product 40,4,3575.83,0.15,UPI,Cancelled
+O00680,C0206,2023-05-09,,Product 8,1,1172.64,0.05,COD,Returned
+O00681,C0245,2025-04-16,ELECTRONICS,Product 84,5,3245.27,0.15,UPI,Completed
+O00682,C0054,2023-07-19,Electronics,Product 47,3,3055.63,0.1,UPI,Completed
+O00683,C0306,2023-04-20,Electronics,Product 97,3,4557.47,0.05,COD,Completed
+O00684,C0290,2023-03-29,Electronics,Product 73,1,4933.82,0.15,UPI,Completed
+O00685,C0183,2027-01-01,ELECTRONICS,Product 51,3,2551.06,0.1,Card,Returned
+O00686,C0170,2024-12-20,Fashion,Product 115,3,3733.11,0.0,COD,Completed
+O00687,C0445,2024-01-27,Electronics,Product 38,1,889.99,0.15,UPI,Returned
+O00688,C0414,2023-08-26,Home,Product 84,1,790.23,0.05,COD,Returned
+O00689,C0403,2025-02-26, electronics ,Product 44,5,1525.12,0.15,UPI,Returned
+O00690,C0491,2024-09-17, electronics ,Product 73,4,3176.17,0.15,UPI,Completed
+O00691,C0497,2023-11-13,Electronics,Product 64,2,561.16,0.1,UPI,Cancelled
+O00692,C0046,2024-08-13,Electronics,Product 23,2,3582.21,0.15,Card,Cancelled
+O00693,C0072,2024-03-28,Electronics,Product 73,3,2492.47,0.1,Card,Cancelled
+O00694,C0188,2024-11-27,fashion ,Product 109,4,3160.7,0.1,Card,Completed
+O00695,C0350,2023-09-27,Electronics,Product 80,4,4889.42,0.0,COD,Completed
+O00696,C0193,2025-05-23, electronics ,Product 73,-5,2056.47,0.0,UPI,Cancelled
+O00697,C0329,2023-12-24,fashion ,Product 116,4,4109.62,0.0,UPI,Completed
+O00698,C0103,2024-02-11,Fashion,Product 43,1,415.91,0.1,COD,Cancelled
+O00699,C0233,2024-05-02,Electronics,Product 70,2,863.13,0.15,UPI,Returned
+O00700,C0397,2023-02-02,Fashion,Product 8,2,4688.65,0.1,Card,Cancelled
+O00701,C0389,2025-06-07,Home,Product 55,2,1422.26,0.05,UPI,Completed
+O00702,C0365,2023-03-25,Fashion,Product 112,1,2156.64,0.05,COD,Cancelled
+O00703,C0220,2023-04-05,ELECTRONICS,Product 97,2,1554.83,0.05,Card,Cancelled
+O00704,C0495,2024-12-06,,Product 56,4,1837.99,0.15,UPI,Returned
+O00705,C0316,2025-01-10, electronics ,Product 42,5,3353.91,0.1,UPI,Completed
+O00706,C0059,2024-05-26,Home,Product 53,4,1387.73,0.0,Card,Completed
+O00707,C0112,2024-08-15,Home,Product 25,4,2158.86,0.05,COD,Cancelled
+O00708,C0296,2023-07-15,Electronics,Product 48,2,4087.52,0.0,Card,Cancelled
+O00709,C0333,2023-05-08,Fashion,Product 53,5,2110.9,0.1,COD,Cancelled
+O00710,C0091,2023-12-10,Fashion,Product 55,5,1928.3,0.05,COD,Cancelled
+O00711,C0224,2024-11-06,Home,Product 37,4,3540.25,0.0,UPI,Completed
+O00712,C0054,2024-09-23,Fashion,Product 96,1,3783.46,0.0,COD,Cancelled
+O00713,C0437,2023-02-03,Fashion,Product 28,5,1192.11,0.15,COD,Cancelled
+O00714,C0180,2024-04-25,Fashion,Product 53,1,4549.17,0.15,UPI,Cancelled
+O00715,C0136,2023-10-02,ELECTRONICS,Product 108,2,4523.1,0.15,COD,Completed
+O00716,C0014,2024-02-29, electronics ,Product 102,1,1934.59,0.1,Card,Completed
+O00717,C0201,2023-09-05, electronics ,Product 79,5,3257.73,0.0,COD,Cancelled
+O00718,C0089,2024-02-04,Fashion,Product 116,2,1658.81,0.05,Card,Completed
+O00719,C0324,2023-05-10,fashion ,Product 101,1,2020.86,0.1,COD,Completed
+O00720,C0006,2023-04-06,Home,Product 99,3,3007.11,0.0,COD,Returned
+O00721,C0013,2023-03-22,Home,Product 94,5,739.69,0.15,COD,Returned
+O00722,C0153,2024-10-30, electronics ,Product 69,3,4218.24,0.15,Card,Returned
+O00723,C0327,2023-05-28,fashion ,Product 111,1,606.75,0.15,COD,Completed
+O00724,C0048,2023-09-26,Electronics,Product 64,1,4238.66,0.05,Card,Completed
+O00725,C0492,2024-02-28,Home,Product 10,4,1130.45,0.15,Card,Cancelled
+O00726,C0463,2023-07-04, electronics ,Product 85,4,2879.74,0.0,UPI,Cancelled
+O00727,C0003,2024-09-20, electronics ,Product 67,3,3734.31,0.0,UPI,Returned
+O00728,C0079,2024-06-14, electronics ,Product 111,1,1887.96,0.05,UPI,Cancelled
+O00729,C0065,2025-01-15,ELECTRONICS,Product 36,2,2459.72,0.0,Card,Returned
+O00730,C0254,2024-04-23,Fashion,Product 66,5,4737.09,0.05,Card,Completed
+O00731,C0202,2025-01-04,Electronics,Product 75,2,3986.45,0.1,UPI,Completed
+O00732,C0383,2024-04-01,ELECTRONICS,Product 105,4,1661.87,0.0,COD,Cancelled
+O00733,C0324,2023-12-28,Electronics,Product 58,4,919.52,0.0,COD,Cancelled
+O00734,C0331,2024-09-10,fashion ,Product 46,5,2051.7,0.0,UPI,Cancelled
+O00735,C0111,2024-01-02,Home,Product 48,4,1922.62,0.1,UPI,Completed
+O00736,C0239,2025-01-04,fashion ,Product 102,3,1675.65,0.05,COD,Completed
+O00737,C0053,2023-08-06,fashion ,Product 36,4,3609.7,0.0,COD,Returned
+O00738,C0164,2024-03-21, electronics ,Product 26,4,343.33,0.15,Card,Completed
+O00739,C0308,2023-05-08,ELECTRONICS,Product 76,3,1976.0,0.0,Card,Completed
+O00740,C0431,2024-04-17,Fashion,Product 5,5,4489.56,0.0,Card,Returned
+O00741,C0213,2023-04-08,Home,Product 39,1,1445.9,0.1,Card,Completed
+O00742,C0202,2024-05-20,ELECTRONICS,Product 90,5,4921.44,0.15,COD,Completed
+O00743,C0025,2023-04-16,Electronics,Product 18,3,615.16,0.1,COD,Returned
+O00744,C0462,2023-04-01,ELECTRONICS,Product 105,4,4524.11,0.0,COD,Completed
+O00745,C0485,2023-02-14,ELECTRONICS,Product 10,3,1392.26,0.15,Card,Returned
+O00746,C0065,2024-08-20,ELECTRONICS,Product 111,2,825.21,0.15,COD,Cancelled
+O00747,C0339,2023-09-04,Fashion,Product 36,1,1677.37,0.15,UPI,Completed
+O00748,C0286,2024-12-29, electronics ,Product 85,3,3270.96,0.05,COD,Completed
+O00749,C0344,2023-03-03,,Product 60,1,4110.71,0.05,Card,Completed
+O00750,C0264,2024-08-27,ELECTRONICS,Product 98,3,4727.47,0.15,COD,Completed
+O00751,C0187,2023-05-14,Fashion,Product 58,5,4352.51,0.05,Card,Completed
+O00752,C0488,2023-06-18,fashion ,Product 83,1,600.12,0.15,UPI,Returned
+O00753,C0015,2024-04-16,Fashion,Product 85,1,2701.34,0.1,Card,Completed
+O00754,C0204,2024-03-17,fashion ,Product 56,5,2588.84,0.0,Card,Cancelled
+O00755,C0476,2024-10-26,Fashion,Product 25,3,1540.63,0.15,UPI,Returned
+O00756,C0056,2024-05-20,Home,Product 7,3,3267.09,0.0,UPI,Completed
+O00757,C0034,2024-08-12,fashion ,Product 13,1,1449.75,0.15,Card,Cancelled
+O00758,C0138,2025-04-23,Fashion,Product 27,1,938.04,0.05,Card,Returned
+O00759,C0049,2023-10-22, electronics ,Product 65,3,4548.13,0.15,COD,Cancelled
+O00760,C0096,2024-11-28,ELECTRONICS,Product 116,2,2330.56,0.0,COD,Cancelled
+O00761,C0452,2023-07-01,Electronics,Product 22,4,3428.09,0.0,COD,Cancelled
+O00762,C0242,2024-05-15,Electronics,Product 6,4,4112.74,0.1,UPI,Returned
+O00763,C0052,2023-05-31,ELECTRONICS,Product 103,5,3707.31,0.15,Card,Returned
+O00764,C0130,2023-09-21,ELECTRONICS,Product 59,3,166.45,0.1,Card,Returned
+O00765,C0443,2025-03-04,fashion ,Product 62,3,652.53,0.0,UPI,Cancelled
+O00766,C0016,2023-05-26, electronics ,Product 74,2,3730.96,0.15,Card,Completed
+O00767,C0495,2024-01-22,ELECTRONICS,Product 113,1,3171.77,0.15,COD,Completed
+O00768,C0201,2023-12-24,,Product 54,3,4731.81,0.1,Card,Completed
+O00769,C0314,2024-12-19,Electronics,Product 56,1,3997.13,0.1,Card,Completed
+O00770,C0349,2024-12-02, electronics ,Product 67,1,4836.69,0.05,Card,Cancelled
+O00771,C0021,2023-10-29, electronics ,Product 37,3,4144.81,0.0,UPI,Cancelled
+O00772,C0001,2023-12-27,Electronics,Product 33,-3,774.82,0.1,COD,Returned
+O00773,C0074,2023-03-30,Home,Product 26,5,2217.05,0.0,Card,Completed
+O00774,C0348,2023-12-30,Home,Product 50,1,2170.56,0.0,Card,Cancelled
+O00775,C0449,2024-07-31,ELECTRONICS,Product 103,5,2933.02,0.05,Card,Completed
+O00776,C0153,2023-11-05,fashion ,Product 119,4,3178.76,0.05,Card,Cancelled
+O00777,C0258,2024-03-28,Home,Product 92,1,1852.04,0.1,Card,Cancelled
+O00778,C0287,2024-04-17,Electronics,Product 99,4,2162.5,0.05,COD,Cancelled
+O00779,C0279,2024-01-18,fashion ,Product 113,2,1537.38,0.15,UPI,Cancelled
+O00780,C0236,2025-02-20,Electronics,Product 11,1,367.99,0.0,Card,Returned
+O00781,C0170,2024-08-02,Electronics,Product 16,1,3728.32,0.0,COD,Completed
+O00782,C0070,2025-01-28, electronics ,Product 115,5,3410.84,0.05,Card,Returned
+O00783,C0320,2023-01-07,Home,Product 26,3,662.07,0.0,UPI,Returned
+O00784,C0243,2023-09-11,Electronics,Product 107,1,2578.44,0.15,UPI,Completed
+O00785,C0431,2023-07-08,fashion ,Product 34,3,4126.26,0.15,COD,Returned
+O00786,C0073,2024-10-13,Home,Product 85,1,1279.34,0.05,Card,Cancelled
+O00787,C0253,2023-04-13,ELECTRONICS,Product 86,3,1448.39,0.15,COD,Completed
+O00788,C0146,2024-03-11,Fashion,Product 16,4,2864.62,0.0,COD,Cancelled
+O00789,C0022,2024-11-03,ELECTRONICS,Product 18,1,2392.74,0.15,Card,Completed
+O00790,C0108,2025-05-26,ELECTRONICS,Product 116,2,3560.5,0.15,COD,Completed
+O00791,C0289,2023-12-27,ELECTRONICS,Product 59,2,3604.39,0.05,Card,Returned
+O00792,C0331,2023-03-11,Fashion,Product 49,3,4816.52,0.05,COD,Returned
+O00793,C0358,2024-06-22,ELECTRONICS,Product 76,5,4780.45,0.1,COD,Returned
+O00794,C0082,2023-01-31, electronics ,Product 13,4,3359.78,0.15,COD,Cancelled
+O00795,C0376,2025-03-01, electronics ,Product 14,3,4508.99,0.05,COD,Cancelled
+O00796,C0059,2023-03-05,Electronics,Product 109,4,3774.68,0.15,Card,Returned
+O00797,C0231,2023-11-25,Fashion,Product 18,1,4945.47,0.05,UPI,Cancelled
+O00798,C0380,2023-10-20, electronics ,Product 56,4,4087.8,0.05,UPI,Returned
+O00799,C0018,2024-11-15, electronics ,Product 115,1,125.66,0.15,COD,Returned
+O00800,C0467,2024-11-29,Home,Product 83,1,2687.96,0.05,UPI,Returned
+O00801,C0287,2024-01-01, electronics ,Product 103,4,429.06,0.15,COD,Cancelled
+O00802,C0153,2023-05-11,Electronics,Product 16,1,2543.69,0.0,COD,Returned
+O00803,C0473,2025-04-21,ELECTRONICS,Product 50,3,3546.04,0.0,UPI,Cancelled
+O00804,C0478,2023-09-05,fashion ,Product 65,1,1629.97,0.0,COD,Returned
+O00805,C0017,2023-09-27,ELECTRONICS,Product 54,1,1378.32,0.1,UPI,Completed
+O00806,C0388,2025-01-21,Home,Product 117,2,4403.52,0.05,Card,Completed
+O00807,C0414,2024-12-20,Electronics,Product 45,5,4907.17,0.15,COD,Returned
+O00808,C0067,2024-07-18,ELECTRONICS,Product 93,5,304.53,0.0,Card,Returned
+O00809,C0401,2024-03-17, electronics ,Product 3,2,4663.11,0.0,UPI,Returned
+O00810,C0010,2024-11-29,fashion ,Product 62,5,355.49,0.15,COD,Completed
+O00811,C0225,2024-07-16,Electronics,Product 115,4,3116.7,0.1,Card,Completed
+O00812,C0048,2023-03-01,fashion ,Product 2,3,1212.92,0.0,UPI,Returned
+O00813,C0225,2023-03-20, electronics ,Product 37,2,314.23,0.1,COD,Returned
+O00814,C0246,2023-05-13,Home,Product 16,2,3317.29,0.0,Card,Returned
+O00815,C0460,2025-01-22, electronics ,Product 57,2,3594.36,0.1,COD,Cancelled
+O00816,C0278,2023-10-01,fashion ,Product 14,2,364.59,0.15,COD,Returned
+O00817,C0431,2023-07-28,fashion ,Product 30,4,1594.2,0.05,UPI,Cancelled
+O00818,C0333,2023-08-29,Fashion,Product 15,2,204.32,0.0,Card,Cancelled
+O00819,C0031,2025-04-27,ELECTRONICS,Product 110,5,3087.76,0.15,UPI,Cancelled
+O00820,C0095,2023-08-18,Home,Product 56,4,2709.21,0.1,UPI,Returned
+O00821,C0173,2024-09-15,ELECTRONICS,Product 104,3,3791.26,0.05,UPI,Cancelled
+O00822,C0476,2024-03-13,,Product 97,5,379.88,0.0,COD,Cancelled
+O00823,C0294,2024-07-01,Home,Product 73,3,3868.16,0.1,UPI,Cancelled
+O00824,C0008,2023-09-01,ELECTRONICS,Product 103,4,3444.73,0.1,UPI,Completed
+O00825,C0316,2024-08-07,ELECTRONICS,Product 47,5,1416.86,0.1,COD,Returned
+O00826,C0429,2024-08-05,ELECTRONICS,Product 109,1,976.04,0.15,UPI,Cancelled
+O00827,C0433,2024-01-03,fashion ,Product 28,1,2102.19,0.0,Card,Returned
+O00828,C0133,2023-03-07,ELECTRONICS,Product 34,5,4358.37,0.05,UPI,Returned
+O00829,C0120,2024-09-24,Electronics,Product 84,2,288.66,0.15,COD,Cancelled
+O00830,C0366,2023-08-22,ELECTRONICS,Product 33,1,178.98,0.1,COD,Returned
+O00831,C0260,2023-12-25,Fashion,Product 15,1,2604.07,0.05,UPI,Cancelled
+O00832,C0037,2025-04-22,Home,Product 55,5,4391.68,0.05,UPI,Cancelled
+O00833,C0460,2023-12-10,Home,Product 48,5,2406.36,0.1,COD,Completed
+O00834,C0467,2023-10-25,fashion ,Product 4,2,620.54,0.05,Card,Returned
+O00835,C0111,2024-12-30,Fashion,Product 107,5,2955.16,0.05,Card,Returned
+O00836,C0295,2023-08-18,Home,Product 71,1,3696.36,0.0,COD,Completed
+O00837,C0163,2024-06-21,ELECTRONICS,Product 25,5,4196.44,0.1,UPI,Cancelled
+O00838,C0162,2024-01-06,Home,Product 15,2,3496.06,0.15,COD,Cancelled
+O00839,C0469,2024-07-27,ELECTRONICS,Product 84,3,2472.36,0.05,Card,Cancelled
+O00840,C0474,2025-04-26,fashion ,Product 32,2,3904.6,0.15,COD,Returned
+O00841,C0161,2025-03-25,Electronics,Product 11,2,2101.66,0.05,COD,Cancelled
+O00842,C0086,2025-06-16,Electronics,Product 54,2,1390.54,0.15,COD,Completed
+O00843,C0354,2025-05-03, electronics ,Product 10,2,748.65,0.15,Card,Cancelled
+O00844,C0151,2024-07-24,Electronics,Product 44,2,4497.39,0.1,COD,Returned
+O00845,C0379,2025-01-09,ELECTRONICS,Product 58,5,4562.3,0.15,COD,Cancelled
+O00846,C0094,2024-12-17,Home,Product 99,3,2988.83,0.0,UPI,Completed
+O00847,C0195,2024-11-21,ELECTRONICS,Product 57,5,965.94,0.1,UPI,Completed
+O00848,C0460,2023-02-19,fashion ,Product 75,3,2590.32,0.15,Card,Cancelled
+O00849,C0022,2023-07-02,Home,Product 113,4,4947.11,0.05,Card,Returned
+O00850,C0178,2024-09-22,ELECTRONICS,Product 22,3,680.9,0.1,Card,Cancelled
+O00851,C0133,2023-10-23,fashion ,Product 97,2,619.99,0.05,COD,Cancelled
+O00852,C0387,2024-07-19,,Product 4,2,3032.12,0.0,COD,Returned
+O00853,C0190,2025-05-02, electronics ,Product 37,-2,4714.85,0.15,COD,Cancelled
+O00854,C0057,2024-04-09,Home,Product 91,5,4604.0,0.0,Card,Cancelled
+O00855,C0143,2025-06-04,Home,Product 86,4,670.67,0.1,UPI,Returned
+O00856,C0172,2023-12-01,ELECTRONICS,Product 59,2,3190.06,0.0,COD,Returned
+O00857,C0478,2023-02-09,Home,Product 102,3,2654.35,0.05,COD,Returned
+O00858,C0071,2027-01-01,fashion ,Product 49,1,4373.36,0.05,COD,Completed
+O00859,C0376,2024-05-11,Fashion,Product 37,3,745.78,0.0,COD,Returned
+O00860,C0313,2023-03-10, electronics ,Product 91,-2,972.76,0.15,COD,Cancelled
+O00861,C0179,2024-08-20,Fashion,Product 68,5,3319.01,0.05,Card,Completed
+O00862,C0201,2024-05-16,fashion ,Product 46,3,2762.73,0.1,UPI,Completed
+O00863,C0215,2025-02-12,Fashion,Product 42,1,1312.24,0.15,UPI,Completed
+O00864,C0357,2024-11-07,Fashion,Product 91,4,727.48,0.15,Card,Returned
+O00865,C0260,2023-01-30, electronics ,Product 114,4,4269.84,0.15,UPI,Returned
+O00866,C0415,2023-11-22,Fashion,Product 55,3,2053.53,0.0,Card,Cancelled
+O00867,C0230,2025-04-18,Fashion,Product 29,2,2905.28,0.05,COD,Completed
+O00868,C0067,2024-09-20,fashion ,Product 70,1,197.61,0.0,Card,Completed
+O00869,C0033,2025-02-24,Home,Product 7,3,2641.38,0.1,COD,Completed
+O00870,C0118,2024-02-10,ELECTRONICS,Product 103,2,890.88,0.1,Card,Cancelled
+O00871,C0019,2023-09-12,Electronics,Product 97,2,4707.74,0.0,COD,Cancelled
+O00872,C0118,2023-10-17,Home,Product 99,4,3471.54,0.0,Card,Returned
+O00873,C0068,2024-01-22,Home,Product 113,1,1422.99,0.0,UPI,Completed
+O00874,C0011,2025-02-19,Electronics,Product 96,5,4168.23,0.05,UPI,Returned
+O00875,C0440,2023-07-18,ELECTRONICS,Product 101,5,1686.26,0.0,Card,Cancelled
+O00876,C0296,2023-09-28,Fashion,Product 49,4,1527.07,0.0,UPI,Cancelled
+O00877,C0274,2023-10-19,fashion ,Product 32,5,1973.8,0.15,COD,Cancelled
+O00878,C0115,2025-01-01,fashion ,Product 4,3,2047.01,0.05,Card,Cancelled
+O00879,C0074,2024-10-20,Home,Product 11,4,567.41,0.05,UPI,Cancelled
+O00880,C0430,2023-05-25,Fashion,Product 67,5,3642.86,0.05,UPI,Cancelled
+O00881,C0078,2025-01-28,Electronics,Product 42,3,3476.09,0.15,UPI,Cancelled
+O00882,C0256,2025-03-24,ELECTRONICS,Product 84,2,1255.12,0.15,COD,Cancelled
+O00883,C0042,2025-01-27,Electronics,Product 55,5,3526.35,0.15,UPI,Completed
+O00884,C0225,2023-05-05,Electronics,Product 5,2,4438.96,0.15,UPI,Returned
+O00885,C0215,2025-02-05,Fashion,Product 2,5,1554.08,0.15,Card,Returned
+O00886,C0289,2024-09-21,Home,Product 22,3,793.44,0.05,COD,Returned
+O00887,C0108,2023-09-15,ELECTRONICS,Product 119,3,3759.14,0.05,UPI,Returned
+O00888,C0241,2024-03-02,Electronics,Product 1,-4,1628.02,0.05,UPI,Returned
+O00889,C0320,2023-12-05,Fashion,Product 77,1,866.62,0.1,COD,Returned
+O00890,C0141,2023-01-15,ELECTRONICS,Product 106,2,4566.4,0.15,COD,Returned
+O00891,C0131,2025-02-24,fashion ,Product 70,3,3243.84,0.05,UPI,Returned
+O00892,C0135,2023-08-10,fashion ,Product 14,2,720.85,0.15,Card,Returned
+O00893,C0316,2025-04-06,Home,Product 117,5,2419.69,0.05,UPI,Completed
+O00894,C0074,2025-04-02, electronics ,Product 61,2,4385.61,0.1,UPI,Completed
+O00895,C0242,2024-03-26,ELECTRONICS,Product 39,2,2551.84,0.0,UPI,Returned
+O00896,C0182,2024-01-30,ELECTRONICS,Product 108,4,2657.73,0.0,COD,Completed
+O00897,C0074,2025-05-03,Fashion,Product 72,2,2264.07,0.1,COD,Completed
+O00898,C0013,2024-10-29,ELECTRONICS,Product 110,5,2383.77,0.1,COD,Cancelled
+O00899,C0481,2025-06-16,,Product 49,2,1933.61,0.0,UPI,Cancelled
+O00900,C0169,2023-01-06,Electronics,Product 117,3,1907.45,0.1,COD,Completed
+O00901,C0246,2024-10-24,Fashion,Product 6,5,4979.12,0.1,Card,Returned
+O00902,C0368,2025-04-23,Fashion,Product 78,1,3197.98,0.15,UPI,Cancelled
+O00903,C0314,2023-02-09,Home,Product 20,5,3557.63,0.05,UPI,Completed
+O00904,C0327,2023-05-03,Home,Product 8,4,1639.76,0.1,UPI,Returned
+O00905,C0435,2023-12-07,ELECTRONICS,Product 115,5,3575.61,0.1,COD,Completed
+O00906,C0034,2024-11-14, electronics ,Product 106,4,3830.34,0.05,COD,Cancelled
+O00907,C0102,2023-02-15,Home,Product 65,1,2105.33,0.0,Card,Cancelled
+O00908,C0429,2023-12-16,Home,Product 12,5,2874.33,0.15,UPI,Completed
+O00909,C0303,2023-03-30,Home,Product 3,1,3856.94,0.0,UPI,Returned
+O00910,C0127,2025-06-17,ELECTRONICS,Product 108,3,3436.36,0.05,COD,Returned
+O00911,C0092,2024-01-24,ELECTRONICS,Product 18,2,2868.7,0.15,UPI,Completed
+O00912,C0133,2023-07-01,Home,Product 57,3,1396.27,0.15,Card,Returned
+O00913,C0425,2024-10-19,Home,Product 88,3,4175.48,0.0,COD,Cancelled
+O00914,C0223,2023-08-04,ELECTRONICS,Product 83,2,4073.45,0.1,UPI,Cancelled
+O00915,C0047,2025-01-30,fashion ,Product 99,5,1132.54,0.05,Card,Cancelled
+O00916,C0096,2024-06-13,Fashion,Product 18,1,2389.51,0.1,Card,Returned
+O00917,C0054,2023-02-04,Home,Product 46,4,4359.71,0.0,UPI,Cancelled
+O00918,C0096,2024-10-25,ELECTRONICS,Product 40,4,897.45,0.05,UPI,Cancelled
+O00919,C0375,2024-08-12,Fashion,Product 61,5,4187.07,0.1,COD,Cancelled
+O00920,C0021,2024-11-25, electronics ,Product 98,5,4680.3,0.0,Card,Cancelled
+O00921,C0084,2024-02-15,fashion ,Product 22,3,4619.53,0.05,COD,Completed
+O00922,C0497,2025-03-18,Electronics,Product 40,2,3985.03,0.05,Card,Cancelled
+O00923,C0103,2023-01-01, electronics ,Product 39,4,1606.88,0.05,UPI,Completed
+O00924,C0285,2023-09-08,ELECTRONICS,Product 1,4,2438.99,0.1,UPI,Cancelled
+O00925,C0242,2024-12-16,Home,Product 49,5,4173.6,0.05,UPI,Cancelled
+O00926,C0168,2023-05-17,ELECTRONICS,Product 105,2,3406.27,0.15,COD,Cancelled
+O00927,C0497,2024-05-15,fashion ,Product 4,5,1186.3,0.05,UPI,Cancelled
+O00928,C0307,2027-01-01,Fashion,Product 118,3,478.62,0.05,UPI,Cancelled
+O00929,C0174,2023-11-06,Fashion,Product 84,2,981.39,0.05,Card,Cancelled
+O00930,C0491,2024-05-07,Fashion,Product 23,4,901.36,0.0,Card,Completed
+O00931,C0208,2023-04-14,Electronics,Product 21,3,1663.23,0.15,COD,Cancelled
+O00932,C0395,2024-11-17,Electronics,Product 39,1,2182.41,0.0,COD,Cancelled
+O00933,C0433,2024-04-29,fashion ,Product 47,5,647.19,0.05,Card,Returned
+O00934,C0173,2023-03-23,Home,Product 76,4,1363.4,0.15,Card,Completed
+O00935,C0236,2023-05-05,ELECTRONICS,Product 7,4,4456.91,0.1,Card,Cancelled
+O00936,C0278,2025-02-24,ELECTRONICS,Product 23,3,1536.87,0.15,UPI,Cancelled
+O00937,C0183,2023-02-06,Home,Product 5,3,2703.22,0.15,UPI,Completed
+O00938,C0325,2023-05-10,Fashion,Product 56,1,4474.31,0.1,Card,Returned
+O00939,C0478,2025-04-25,Home,Product 106,5,2665.44,0.15,UPI,Completed
+O00940,C0371,2023-05-31,Home,Product 104,3,4421.98,0.15,COD,Returned
+O00941,C0217,2024-10-14,Fashion,Product 3,1,1001.26,0.1,COD,Returned
+O00942,C0407,2024-03-19, electronics ,Product 74,1,1378.78,0.1,COD,Returned
+O00943,C0026,2023-09-07,ELECTRONICS,Product 74,5,2417.3,0.15,Card,Returned
+O00944,C0205,2024-11-18, electronics ,Product 87,2,1496.07,0.0,Card,Completed
+O00945,C0137,2024-11-03,Fashion,Product 77,1,3972.27,0.1,UPI,Completed
+O00946,C0314,2023-11-29,ELECTRONICS,Product 94,-2,3588.96,0.15,COD,Cancelled
+O00947,C0286,2024-02-03,Electronics,Product 44,5,1768.92,0.1,Card,Completed
+O00948,C0358,2024-05-25, electronics ,Product 87,4,2011.3,0.15,UPI,Returned
+O00949,C0177,2024-10-08,Electronics,Product 27,5,3765.25,0.1,Card,Cancelled
+O00950,C0320,2024-04-23,fashion ,Product 22,3,3158.9,0.15,Card,Completed
+O00951,C0193,2024-05-17,fashion ,Product 17,3,1954.3,0.0,UPI,Cancelled
+O00952,C0092,2023-04-24, electronics ,Product 99,2,3909.87,0.15,COD,Cancelled
+O00953,C0143,2024-03-04,ELECTRONICS,Product 99,3,1879.56,0.0,COD,Returned
+O00954,C0440,2024-06-29,Fashion,Product 64,3,3808.46,0.1,Card,Completed
+O00955,C0172,2023-01-04,Fashion,Product 84,2,944.13,0.0,Card,Returned
+O00956,C0015,2024-02-25,fashion ,Product 29,4,779.0,0.0,COD,Returned
+O00957,C0086,2023-11-29,fashion ,Product 81,4,2412.38,0.0,Card,Completed
+O00958,C0262,2024-10-31, electronics ,Product 109,5,4574.71,0.15,Card,Returned
+O00959,C0166,2024-12-30, electronics ,Product 38,2,417.58,0.0,UPI,Returned
+O00960,C0124,2024-12-01, electronics ,Product 60,4,2551.05,0.0,COD,Cancelled
+O00961,C0004,2025-01-09,Home,Product 5,2,3441.92,0.15,COD,Cancelled
+O00962,C0453,2024-03-03,Home,Product 69,4,692.81,0.0,Card,Cancelled
+O00963,C0372,2024-02-12,Electronics,Product 47,1,2057.2,0.15,Card,Completed
+O00964,C0297,2023-09-26,Electronics,Product 93,1,927.87,0.15,COD,Cancelled
+O00965,C0136,2025-03-25,Electronics,Product 43,2,3245.97,0.0,Card,Returned
+O00966,C0152,2025-02-14,Home,Product 57,4,1720.24,0.15,COD,Cancelled
+O00967,C0076,2023-02-06,fashion ,Product 37,5,227.11,0.1,COD,Cancelled
+O00968,C0325,2025-01-03,ELECTRONICS,Product 61,3,3594.09,0.1,UPI,Returned
+O00969,C0132,2023-10-27,Home,Product 30,2,237.22,0.05,COD,Cancelled
+O00970,C0261,2023-09-23,Home,Product 112,2,4980.98,0.15,Card,Returned
+O00971,C0437,2024-10-21,fashion ,Product 41,2,2664.35,0.15,Card,Returned
+O00972,C0460,2024-05-08,Fashion,Product 2,2,3376.85,0.0,Card,Completed
+O00973,C0399,2023-06-03,Home,Product 102,3,686.0,0.05,Card,Cancelled
+O00974,C0431,2024-10-15,Home,Product 109,4,4112.59,0.05,COD,Completed
+O00975,C0488,2024-02-13,ELECTRONICS,Product 65,3,429.27,0.0,UPI,Cancelled
+O00976,C0379,2023-09-08, electronics ,Product 89,5,4688.03,0.05,UPI,Returned
+O00977,C0143,2024-09-15,Electronics,Product 96,4,1031.07,0.0,UPI,Returned
+O00978,C0390,2023-08-22,fashion ,Product 62,3,2374.93,0.0,Card,Returned
+O00979,C0244,2023-04-30, electronics ,Product 13,1,2757.61,0.05,COD,Cancelled
+O00980,C0464,2024-08-18,Electronics,Product 93,3,4443.94,0.05,COD,Returned
+O00981,C0209,2023-01-01,fashion ,Product 35,5,2513.77,0.05,Card,Returned
+O00982,C0445,2024-10-22,fashion ,Product 32,4,1771.6,0.1,COD,Cancelled
+O00983,C0164,2023-07-06,fashion ,Product 61,1,2529.36,0.05,UPI,Cancelled
+O00984,C0327,2025-06-01,Home,Product 69,3,4130.53,0.05,UPI,Completed
+O00985,C0272,2023-11-09,Fashion,Product 14,2,3455.26,0.05,COD,Returned
+O00986,C0403,2023-07-16, electronics ,Product 110,2,873.92,0.05,Card,Returned
+O00987,C0372,2025-03-18,ELECTRONICS,Product 30,4,4670.93,0.15,Card,Cancelled
+O00988,C0382,2025-01-14,ELECTRONICS,Product 58,2,1609.28,0.15,Card,Completed
+O00989,C0413,2024-02-23, electronics ,Product 59,4,3858.54,0.0,COD,Completed
+O00990,C0192,2023-09-20,Electronics,Product 42,2,2194.74,0.15,Card,Returned
+O00991,C0258,2025-03-27,Fashion,Product 110,5,1442.42,0.0,UPI,Completed
+O00992,C0488,2025-01-08,Electronics,Product 100,3,3331.15,0.15,UPI,Cancelled
+O00993,C0328,2023-03-02,ELECTRONICS,Product 36,5,2735.69,0.15,Card,Completed
+O00994,C0397,2025-02-06,Home,Product 53,4,4139.12,0.05,COD,Cancelled
+O00995,C0168,2023-04-01,fashion ,Product 70,5,3837.66,0.1,COD,Returned
+O00996,C0035,2023-05-24,Home,Product 92,3,3721.39,0.1,Card,Returned
+O00997,C0186,2024-04-24,ELECTRONICS,Product 26,2,3420.58,0.1,Card,Returned
+O00998,C0203,2024-10-19,Fashion,Product 103,1,335.35,0.0,COD,Cancelled
+O00999,C0448,2023-02-02,ELECTRONICS,Product 102,1,2740.17,0.1,COD,Cancelled
+O01000,C0286,2024-08-01,Electronics,Product 69,1,875.3,0.0,COD,Cancelled
+O01001,C0393,2023-07-15,Home,Product 56,5,4107.0,0.15,Card,Returned
+O01002,C0295,2023-03-16,ELECTRONICS,Product 59,2,2685.8,0.15,UPI,Cancelled
+O01003,C0010,2024-09-30,Electronics,Product 29,5,1679.68,0.05,Card,Completed
+O01004,C0335,2023-12-01,Home,Product 26,5,3872.65,0.1,COD,Returned
+O01005,C0093,2023-06-01,Electronics,Product 4,2,2713.77,0.0,UPI,Returned
+O01006,C0476,2023-12-02, electronics ,Product 85,3,1123.16,0.1,UPI,Cancelled
+O01007,C0014,2023-08-11, electronics ,Product 113,3,4504.51,0.15,UPI,Cancelled
+O01008,C0107,2025-01-31,Fashion,Product 7,1,2289.38,0.15,UPI,Completed
+O01009,C0090,2023-05-08,fashion ,Product 117,4,2933.69,0.0,UPI,Completed
+O01010,C0384,2025-01-28,ELECTRONICS,Product 54,1,1035.81,0.0,COD,Cancelled
+O01011,C0009,2023-04-25,Electronics,Product 49,4,4036.72,0.15,UPI,Cancelled
+O01012,C0485,2025-05-06,Home,Product 39,3,1223.86,0.0,COD,Returned
+O01013,C0141,2023-01-17,Home,Product 83,4,4496.92,0.0,UPI,Completed
+O01014,C0072,2023-05-12,Home,Product 61,2,3835.21,0.0,COD,Completed
+O01015,C0215,2024-02-29, electronics ,Product 23,3,4687.83,0.05,COD,Returned
+O01016,C0016,2023-04-23,Fashion,Product 27,2,1599.72,0.1,Card,Returned
+O01017,C0456,2023-01-27,Fashion,Product 5,3,3701.26,0.05,Card,Completed
+O01018,C0087,2024-09-04, electronics ,Product 13,5,173.2,0.05,UPI,Cancelled
+O01019,C0213,2024-05-02,fashion ,Product 57,1,758.59,0.0,Card,Cancelled
+O01020,C0337,2023-09-21,fashion ,Product 47,4,4788.84,0.0,Card,Cancelled
+O01021,C0413,2023-08-13, electronics ,Product 29,5,3330.13,0.0,COD,Cancelled
+O01022,C0129,2023-04-18, electronics ,Product 94,3,3330.91,0.1,COD,Cancelled
+O01023,C0137,2024-08-14, electronics ,Product 42,5,2167.9,0.05,COD,Returned
+O01024,C0025,2025-03-29, electronics ,Product 24,1,170.18,0.0,UPI,Completed
+O01025,C0440,2024-08-08,ELECTRONICS,Product 25,4,3180.69,0.15,Card,Completed
+O01026,C0382,2024-07-12,ELECTRONICS,Product 84,4,3865.7,0.1,Card,Completed
+O01027,C0282,2025-06-11,Fashion,Product 85,3,572.87,0.1,COD,Cancelled
+O01028,C0494,2024-03-12,fashion ,Product 17,1,563.46,0.15,UPI,Completed
+O01029,C0158,2023-05-10,Fashion,Product 56,5,2811.16,0.0,COD,Completed
+O01030,C0431,2024-06-07,Home,Product 29,4,3901.97,0.05,COD,Returned
+O01031,C0441,2025-03-09,fashion ,Product 68,3,330.28,0.1,COD,Completed
+O01032,C0085,2023-06-12,Home,Product 82,5,4308.81,0.05,COD,Completed
+O01033,C0104,2024-09-16,ELECTRONICS,Product 7,5,4799.38,0.15,Card,Cancelled
+O01034,C0070,2024-05-02,Home,Product 39,5,101.73,0.1,COD,Returned
+O01035,C0492,2025-01-21,Electronics,Product 8,3,3800.33,0.05,UPI,Cancelled
+O01036,C0125,2025-04-06,Fashion,Product 101,2,881.27,0.15,Card,Returned
+O01037,C0494,2023-12-25,ELECTRONICS,Product 18,2,4473.93,0.0,COD,Returned
+O01038,C0073,2023-06-05,Home,Product 36,5,3826.86,0.0,COD,Completed
+O01039,C0307,2023-04-16,Fashion,Product 30,5,3336.07,0.1,UPI,Returned
+O01040,C0387,2023-03-14,Home,Product 44,5,4388.65,0.0,Card,Cancelled
+O01041,C0449,2024-03-12,Home,Product 89,1,4340.98,0.15,Card,Completed
+O01042,C0307,2025-01-19,ELECTRONICS,Product 31,5,4359.87,0.15,COD,Cancelled
+O01043,C0144,2023-04-18,Home,Product 94,4,1451.74,0.1,COD,Returned
+O01044,C0183,2025-05-06,Electronics,Product 2,3,595.54,0.15,UPI,Returned
+O01045,C0054,2024-03-20,Home,Product 63,4,2847.29,0.15,COD,Returned
+O01046,C0407,2023-04-21,Home,Product 13,4,2920.57,0.0,UPI,Cancelled
+O01047,C0202,2024-09-10,Home,Product 96,5,295.34,0.15,Card,Returned
+O01048,C0322,2024-02-13,Home,Product 100,5,2215.81,0.0,UPI,Returned
+O01049,C0472,2023-12-03,Fashion,Product 103,2,239.04,0.15,Card,Cancelled
+O01050,C0402,2023-09-12,Electronics,Product 42,3,2345.2,0.1,UPI,Completed
+O01051,C0380,2024-07-14,Fashion,Product 97,5,1807.84,0.05,Card,Completed
+O01052,C0429,2024-07-05, electronics ,Product 41,3,4160.55,0.0,COD,Completed
+O01053,C0388,2024-05-24,Fashion,Product 26,4,1396.93,0.15,Card,Cancelled
+O01054,C0087,2025-02-11,ELECTRONICS,Product 3,4,646.25,0.1,COD,Returned
+O01055,C0204,2024-07-27,fashion ,Product 90,5,472.08,0.0,UPI,Returned
+O01056,C0135,2024-11-10, electronics ,Product 92,5,1766.8,0.1,Card,Completed
+O01057,C0455,2025-01-23,ELECTRONICS,Product 79,4,2893.52,0.0,Card,Completed
+O01058,C0342,2023-09-09,ELECTRONICS,Product 4,4,2523.02,0.05,UPI,Completed
+O01059,C0152,2023-08-10, electronics ,Product 3,4,4301.9,0.15,Card,Cancelled
+O01060,C0096,2024-08-04,fashion ,Product 75,5,2058.12,0.15,COD,Cancelled
+O01061,C0187,2023-09-27, electronics ,Product 41,3,2747.81,0.0,COD,Completed
+O01062,C0276,2024-12-20,fashion ,Product 17,3,573.44,0.15,COD,Cancelled
+O01063,C0179,2024-09-10,Home,Product 90,1,3260.33,0.05,Card,Cancelled
+O01064,C0255,2024-04-16,fashion ,Product 56,5,416.82,0.05,UPI,Returned
+O01065,C0245,2023-02-28,Home,Product 19,4,412.51,0.1,UPI,Returned
+O01066,C0307,2025-01-15,Fashion,Product 56,3,3550.67,0.05,Card,Completed
+O01067,C0170,2024-12-14, electronics ,Product 73,4,4012.24,0.15,UPI,Returned
+O01068,C0028,2023-01-07,Home,Product 97,5,1855.91,0.0,UPI,Returned
+O01069,C0100,2025-01-17, electronics ,Product 77,1,3891.3,0.05,UPI,Completed
+O01070,C0485,2023-12-06,Fashion,Product 74,4,3534.55,0.15,Card,Cancelled
+O01071,C0160,2023-12-18,ELECTRONICS,Product 23,4,3565.59,0.1,Card,Completed
+O01072,C0332,2023-07-25,Home,Product 11,2,1764.63,0.0,COD,Cancelled
+O01073,C0031,2023-03-04,Home,Product 48,1,567.9,0.0,COD,Completed
+O01074,C0464,2023-11-10,fashion ,Product 73,1,1936.7,0.0,UPI,Completed
+O01075,C0177,2024-07-02,Electronics,Product 112,5,3447.59,0.05,COD,Cancelled
+O01076,C0451,2024-03-27, electronics ,Product 65,5,829.36,0.15,UPI,Returned
+O01077,C0414,2025-03-23,ELECTRONICS,Product 120,1,1528.01,0.1,COD,Completed
+O01078,C0309,2023-04-13, electronics ,Product 79,5,4608.0,0.15,COD,Returned
+O01079,C0034,2023-04-30,ELECTRONICS,Product 32,4,1891.9,0.05,Card,Completed
+O01080,C0472,2023-03-02,Fashion,Product 104,4,4233.65,0.0,COD,Completed
+O01081,C0273,2024-07-30,fashion ,Product 51,3,3808.93,0.05,Card,Cancelled
+O01082,C0321,2023-07-22,Fashion,Product 52,2,2232.18,0.0,Card,Completed
+O01083,C0200,2024-07-28,ELECTRONICS,Product 64,4,4962.21,0.1,COD,Returned
+O01084,C0046,2023-02-12,ELECTRONICS,Product 115,1,2978.6,0.05,COD,Cancelled
+O01085,C0198,2023-02-18, electronics ,Product 46,1,4824.52,0.0,COD,Cancelled
+O01086,C0349,2023-07-02,Home,Product 6,5,4562.24,0.0,Card,Completed
+O01087,C0254,2023-03-16, electronics ,Product 74,2,3238.06,0.0,UPI,Cancelled
+O01088,C0003,2023-04-30, electronics ,Product 85,2,4086.82,0.1,UPI,Cancelled
+O01089,C0080,2025-05-07, electronics ,Product 77,2,1306.25,0.1,Card,Returned
+O01090,C0482,2024-10-03,Home,Product 95,5,4577.31,0.15,COD,Completed
+O01091,C0462,2024-01-22, electronics ,Product 105,4,3918.2,0.1,COD,Completed
+O01092,C0340,2025-02-24,Home,Product 29,4,445.57,0.0,UPI,Completed
+O01093,C0484,2024-07-03,Home,Product 33,4,4781.05,0.15,Card,Returned
+O01094,C0390,2024-08-06,Electronics,Product 51,3,4132.1,0.05,UPI,Returned
+O01095,C0241,2024-06-14,Fashion,Product 14,4,645.89,0.0,Card,Completed
+O01096,C0224,2025-04-05,fashion ,Product 48,1,2246.73,0.05,Card,Returned
+O01097,C0097,2024-05-30, electronics ,Product 93,1,1657.81,0.0,UPI,Cancelled
+O01098,C0462,2023-12-25,Home,Product 8,3,2017.43,0.05,Card,Returned
+O01099,C0337,2024-10-04,Home,Product 57,1,224.02,0.15,UPI,Completed
+O01100,C0281,2024-07-24,ELECTRONICS,Product 8,5,645.69,0.0,Card,Returned
+O01101,C0478,2025-01-07,ELECTRONICS,Product 48,-5,288.31,0.0,COD,Completed
+O01102,C0199,2024-07-30,fashion ,Product 16,1,4299.31,0.0,COD,Returned
+O01103,C0480,2025-04-23,fashion ,Product 83,-1,1991.67,0.15,Card,Returned
+O01104,C0326,2024-09-19,Fashion,Product 62,2,4605.19,0.05,Card,Returned
+O01105,C0090,2023-10-21,Fashion,Product 33,3,4421.49,0.1,COD,Completed
+O01106,C0211,2023-05-28,Home,Product 113,4,2753.34,0.05,Card,Completed
+O01107,C0214,2024-02-20,Fashion,Product 94,3,2316.33,0.15,Card,Cancelled
+O01108,C0272,2024-02-13, electronics ,Product 32,3,1163.1,0.05,COD,Completed
+O01109,C0392,2024-04-19,Fashion,Product 48,5,3255.6,0.05,Card,Completed
+O01110,C0464,2024-10-29,fashion ,Product 53,4,349.34,0.05,Card,Returned
+O01111,C0483,2024-06-13,Fashion,Product 4,2,3500.45,0.15,COD,Returned
+O01112,C0394,2025-02-02, electronics ,Product 83,2,2069.19,0.05,UPI,Cancelled
+O01113,C0391,2025-06-07,Fashion,Product 41,3,3090.75,0.0,COD,Completed
+O01114,C0446,2023-01-09,Electronics,Product 43,1,4277.74,0.1,Card,Completed
+O01115,C0186,2023-11-11,fashion ,Product 117,2,1645.95,0.15,Card,Cancelled
+O01116,C0082,2023-04-14, electronics ,Product 21,2,2134.41,0.15,UPI,Returned
+O01117,C0354,2024-12-17, electronics ,Product 15,5,3352.96,0.05,Card,Completed
+O01118,C0245,2024-01-26, electronics ,Product 99,1,197.78,0.1,Card,Returned
+O01119,C0485,2023-01-21,Home,Product 73,5,1784.76,0.1,UPI,Cancelled
+O01120,C0202,2024-10-01, electronics ,Product 15,1,4965.19,0.05,COD,Cancelled
+O01121,C0309,2025-03-16,Fashion,Product 3,3,3147.12,0.15,UPI,Cancelled
+O01122,C0463,2023-10-14,Electronics,Product 63,3,1660.98,0.05,UPI,Returned
+O01123,C0222,2023-09-27,ELECTRONICS,Product 6,2,1436.9,0.15,COD,Completed
+O01124,C0475,2023-05-14,fashion ,Product 2,3,3699.74,0.0,Card,Cancelled
+O01125,C0356,2024-01-25,Home,Product 35,2,3514.59,0.1,Card,Returned
+O01126,C0178,2023-12-17,Home,Product 34,4,2806.67,0.15,Card,Cancelled
+O01127,C0342,2024-11-18,ELECTRONICS,Product 111,1,2593.08,0.0,UPI,Completed
+O01128,C0079,2023-07-01,fashion ,Product 103,1,1261.03,0.0,UPI,Completed
+O01129,C0317,2023-12-16,Electronics,Product 20,1,2955.5,0.15,COD,Cancelled
+O01130,C0103,2023-02-27,Home,Product 119,1,497.66,0.0,COD,Completed
+O01131,C0026,2024-12-03,Home,Product 11,1,1995.81,0.05,Card,Completed
+O01132,C0375,2023-07-10,Home,Product 76,4,4338.54,0.0,Card,Completed
+O01133,C0135,2023-06-30, electronics ,Product 113,-5,2755.79,0.05,COD,Completed
+O01134,C0117,2025-05-18, electronics ,Product 51,1,3212.95,0.1,COD,Cancelled
+O01135,C0423,2023-08-12,ELECTRONICS,Product 95,5,1279.78,0.0,COD,Returned
+O01136,C0033,2023-06-15,Fashion,Product 45,3,4523.2,0.0,COD,Cancelled
+O01137,C0382,2025-01-03,Home,Product 12,1,1660.15,0.1,COD,Returned
+O01138,C0373,2023-03-09,ELECTRONICS,Product 58,5,1854.75,0.15,Card,Cancelled
+O01139,C0382,2023-11-17, electronics ,Product 30,3,2977.42,0.0,COD,Cancelled
+O01140,C0408,2024-04-17,Fashion,Product 60,4,4356.54,0.15,Card,Completed
+O01141,C0013,2024-01-30, electronics ,Product 101,2,1651.95,0.05,Card,Cancelled
+O01142,C0089,2025-04-17, electronics ,Product 76,1,4735.61,0.05,UPI,Completed
+O01143,C0012,2023-10-05,Fashion,Product 51,4,875.75,0.1,UPI,Completed
+O01144,C0486,2024-05-26, electronics ,Product 63,4,4848.59,0.0,Card,Completed
+O01145,C0149,2024-12-23, electronics ,Product 31,1,2641.94,0.15,UPI,Cancelled
+O01146,C0174,2023-11-12,Home,Product 40,-4,3451.88,0.15,COD,Completed
+O01147,C0192,2023-10-16,Home,Product 111,5,727.85,0.15,UPI,Completed
+O01148,C0168,2023-09-10,Home,Product 30,4,4559.72,0.1,COD,Cancelled
+O01149,C0358,2024-08-14, electronics ,Product 116,3,722.95,0.1,COD,Returned
+O01150,C0420,2024-09-16, electronics ,Product 63,2,2860.16,0.0,Card,Returned
+O01151,C0042,2023-06-01,fashion ,Product 63,1,2367.18,0.1,UPI,Cancelled
+O01152,C0365,2025-03-21, electronics ,Product 47,4,4254.09,0.0,Card,Completed
+O01153,C0318,2023-12-02,Fashion,Product 72,2,815.99,0.1,Card,Cancelled
+O01154,C0416,2024-07-03,Home,Product 25,3,4792.86,0.0,Card,Returned
+O01155,C0259,2023-07-19,ELECTRONICS,Product 32,1,3974.48,0.15,COD,Completed
+O01156,C0015,2023-05-28,Home,Product 83,3,3835.63,0.0,Card,Cancelled
+O01157,C0305,2024-01-27,Fashion,Product 98,2,1639.03,0.1,Card,Cancelled
+O01158,C0301,2024-04-09, electronics ,Product 42,2,4784.92,0.0,UPI,Cancelled
+O01159,C0369,2023-05-26,Fashion,Product 71,5,224.78,0.15,COD,Cancelled
+O01160,C0018,2024-09-19,Home,Product 37,4,1687.67,0.0,COD,Completed
+O01161,C0053,2023-03-11,fashion ,Product 21,2,4706.6,0.05,UPI,Cancelled
+O01162,C0036,2024-02-27,Fashion,Product 52,3,2771.05,0.15,COD,Cancelled
+O01163,C0230,2023-04-02, electronics ,Product 15,2,3837.54,0.1,UPI,Completed
+O01164,C0330,2024-07-25,Home,Product 29,1,2445.6,0.0,UPI,Completed
+O01165,C0166,2023-05-21,Fashion,Product 97,2,3208.22,0.15,UPI,Returned
+O01166,C0213,2024-11-16,fashion ,Product 9,3,296.64,0.0,UPI,Completed
+O01167,C0298,2023-12-24,ELECTRONICS,Product 66,5,4503.04,0.05,Card,Completed
+O01168,C0145,2024-10-04,ELECTRONICS,Product 72,2,1934.07,0.15,UPI,Completed
+O01169,C0134,2023-07-20,Fashion,Product 16,5,3287.27,0.15,UPI,Cancelled
+O01170,C0208,2024-11-18, electronics ,Product 24,5,652.2,0.15,UPI,Returned
+O01171,C0153,2024-08-06,Home,Product 87,2,1150.28,0.1,Card,Cancelled
+O01172,C0453,2023-08-24,ELECTRONICS,Product 28,1,2604.39,0.1,UPI,Completed
+O01173,C0369,2023-07-31,Fashion,Product 93,2,1704.06,0.15,COD,Completed
+O01174,C0342,2024-09-03, electronics ,Product 10,4,3120.21,0.0,UPI,Returned
+O01175,C0156,2023-10-08,Fashion,Product 49,1,3670.87,0.05,UPI,Completed
+O01176,C0380,2023-07-15,ELECTRONICS,Product 10,3,1471.9,0.0,Card,Completed
+O01177,C0478,2023-09-27, electronics ,Product 16,1,4605.09,0.0,Card,Completed
+O01178,C0446,2025-01-12,fashion ,Product 89,1,2831.48,0.1,UPI,Returned
+O01179,C0111,2025-01-18,Electronics,Product 51,5,3422.29,0.0,UPI,Cancelled
+O01180,C0007,2024-02-27,fashion ,Product 115,4,315.77,0.0,Card,Returned
+O01181,C0013,2023-07-27,Home,Product 35,3,4819.63,0.05,UPI,Returned
+O01182,C0289,2024-10-27,Fashion,Product 72,4,4765.52,0.15,UPI,Returned
+O01183,C0234,2023-04-01,Fashion,Product 70,1,903.08,0.1,COD,Returned
+O01184,C0209,2025-01-22, electronics ,Product 75,5,2068.72,0.15,Card,Cancelled
+O01185,C0346,2025-02-08,fashion ,Product 53,2,1865.61,0.15,UPI,Returned
+O01186,C0331,2023-12-07,Fashion,Product 58,3,3793.15,0.05,UPI,Cancelled
+O01187,C0175,2024-10-02,fashion ,Product 81,5,4176.86,0.05,COD,Completed
+O01188,C0215,2024-02-10,Electronics,Product 65,2,2765.58,0.0,COD,Completed
+O01189,C0379,2024-11-11, electronics ,Product 88,3,3577.79,0.1,Card,Completed
+O01190,C0480,2025-03-27,Fashion,Product 67,3,3318.77,0.15,UPI,Returned
+O01191,C0055,2024-12-05, electronics ,Product 82,3,3255.12,0.05,COD,Completed
+O01192,C0254,2024-05-31, electronics ,Product 118,1,453.81,0.1,UPI,Cancelled
+O01193,C0488,2024-07-08, electronics ,Product 4,3,179.48,0.1,UPI,Completed
+O01194,C0130,2024-11-27,,Product 16,2,2167.4,0.1,COD,Cancelled
+O01195,C0192,2023-11-04, electronics ,Product 39,1,2199.77,0.15,COD,Returned
+O01196,C0256,2024-05-18,ELECTRONICS,Product 45,5,252.1,0.15,Card,Returned
+O01197,C0180,2024-08-24,Home,Product 63,1,4973.73,0.15,UPI,Cancelled
+O01198,C0126,2024-07-10,Home,Product 107,1,3606.48,0.0,Card,Cancelled
+O01199,C0159,2024-04-25,fashion ,Product 100,3,3549.8,0.15,UPI,Returned
+O01200,C0442,2024-12-01,Home,Product 100,4,238.36,0.15,UPI,Returned
+O01201,C0411,2024-12-14,fashion ,Product 84,2,3649.22,0.1,COD,Completed
+O01202,C0084,2024-04-07,Electronics,Product 38,5,3045.49,0.15,UPI,Returned
+O01203,C0249,2023-03-20, electronics ,Product 1,2,1997.79,0.05,Card,Completed
+O01204,C0299,2023-12-15,Fashion,Product 30,3,3597.76,0.0,UPI,Completed
+O01205,C0225,2024-09-11,Fashion,Product 47,2,3992.25,0.15,UPI,Returned
+O01206,C0055,2024-01-13,Fashion,Product 61,5,264.33,0.15,COD,Returned
+O01207,C0486,2023-03-31,Home,Product 46,4,2425.67,0.05,UPI,Completed
+O01208,C0101,2024-08-07,Fashion,Product 85,1,4982.95,0.1,COD,Cancelled
+O01209,C0299,2025-03-19,Fashion,Product 15,4,2842.37,0.05,UPI,Completed
+O01210,C0191,2024-12-19,Electronics,Product 66,3,3961.63,0.0,COD,Returned
+O01211,C0416,2023-01-10, electronics ,Product 41,3,4611.59,0.15,UPI,Completed
+O01212,C0199,2023-08-08,fashion ,Product 82,4,3172.45,0.0,UPI,Returned
+O01213,C0035,2023-05-29,Fashion,Product 66,2,4950.35,0.0,COD,Completed
+O01214,C0186,2024-02-28, electronics ,Product 106,2,1386.1,0.0,Card,Completed
+O01215,C0372,2023-01-29,ELECTRONICS,Product 51,3,2304.16,0.05,COD,Completed
+O01216,C0209,2025-03-20,Home,Product 112,4,3801.61,0.05,UPI,Returned
+O01217,C0308,2025-03-02,Electronics,Product 54,5,425.04,0.0,COD,Completed
+O01218,C0333,2024-02-07,,Product 39,1,4197.99,0.1,Card,Cancelled
+O01219,C0353,2025-02-14,fashion ,Product 89,5,2844.92,0.05,Card,Cancelled
+O01220,C0316,2023-12-17,Home,Product 9,1,1332.81,0.1,Card,Cancelled
+O01221,C0166,2023-11-17, electronics ,Product 73,5,1037.21,0.1,UPI,Cancelled
+O01222,C0218,2023-10-13,Home,Product 85,5,1022.93,0.05,COD,Cancelled
+O01223,C0284,2024-01-06,ELECTRONICS,Product 27,2,4010.35,0.05,UPI,Returned
+O01224,C0325,2023-07-30,ELECTRONICS,Product 24,3,4447.64,0.15,Card,Completed
+O01225,C0236,2023-10-05,fashion ,Product 44,4,817.07,0.0,Card,Completed
+O01226,C0097,2027-01-01,ELECTRONICS,Product 119,4,2525.77,0.1,COD,Returned
+O01227,C0322,2023-02-22,Fashion,Product 77,4,629.59,0.15,Card,Cancelled
+O01228,C0411,2023-05-06,Electronics,Product 6,1,4251.16,0.1,UPI,Returned
+O01229,C0381,2025-03-13,Home,Product 55,5,1103.97,0.0,UPI,Completed
+O01230,C0221,2025-01-06, electronics ,Product 30,3,1180.14,0.1,COD,Cancelled
+O01231,C0391,2024-07-20, electronics ,Product 22,2,4047.98,0.15,UPI,Returned
+O01232,C0380,2023-06-14,fashion ,Product 35,-5,4066.8,0.0,UPI,Completed
+O01233,C0457,2024-04-15, electronics ,Product 118,4,1179.67,0.0,UPI,Completed
+O01234,C0198,2025-05-31,Fashion,Product 28,3,1237.69,0.0,Card,Returned
+O01235,C0436,2025-01-26,fashion ,Product 97,4,1962.8,0.1,UPI,Returned
+O01236,C0165,2025-06-15,Electronics,Product 64,4,2587.04,0.15,Card,Returned
+O01237,C0429,2024-12-21,Home,Product 88,2,1950.55,0.15,UPI,Completed
+O01238,C0149,2023-10-08, electronics ,Product 49,3,3042.13,0.15,UPI,Returned
+O01239,C0366,2024-12-15,Electronics,Product 50,5,2901.12,0.1,Card,Completed
+O01240,C0046,2024-04-01,Fashion,Product 33,4,1806.33,0.1,Card,Cancelled
+O01241,C0331,2023-08-13,fashion ,Product 77,4,2701.59,0.05,UPI,Cancelled
+O01242,C0469,2023-08-23, electronics ,Product 12,3,3115.7,0.0,Card,Completed
+O01243,C0073,2024-04-08,Fashion,Product 36,5,4367.94,0.05,UPI,Cancelled
+O01244,C0048,2023-03-10,fashion ,Product 7,3,2905.78,0.05,Card,Returned
+O01245,C0414,2023-06-21, electronics ,Product 78,4,3591.39,0.0,UPI,Cancelled
+O01246,C0390,2025-03-08,ELECTRONICS,Product 93,2,976.73,0.05,UPI,Completed
+O01247,C0417,2025-02-23,Electronics,Product 65,3,2572.1,0.0,Card,Completed
+O01248,C0124,2023-06-09,fashion ,Product 107,2,1899.24,0.1,Card,Completed
+O01249,C0083,2023-04-23,Home,Product 78,4,3797.12,0.0,Card,Completed
+O01250,C0347,2024-06-25,Fashion,Product 71,1,2753.2,0.15,COD,Cancelled
+O01251,C0429,2024-09-12,Home,Product 52,5,3782.99,0.15,UPI,Returned
+O01252,C0308,2023-02-07,ELECTRONICS,Product 108,4,1562.37,0.15,Card,Cancelled
+O01253,C0385,2023-11-19,Electronics,Product 28,3,2234.13,0.05,Card,Returned
+O01254,C0073,2023-11-06,Electronics,Product 116,2,1212.65,0.15,Card,Cancelled
+O01255,C0105,2024-04-21,Fashion,Product 17,4,2137.42,0.0,UPI,Completed
+O01256,C0466,2023-02-24,Fashion,Product 114,1,3301.82,0.15,UPI,Returned
+O01257,C0021,2024-06-08,Fashion,Product 9,3,1827.16,0.05,Card,Returned
+O01258,C0365,2023-04-14,fashion ,Product 35,-2,393.45,0.05,COD,Returned
+O01259,C0314,2024-02-18,Fashion,Product 45,3,3146.69,0.1,Card,Completed
+O01260,C0222,2024-03-24,fashion ,Product 5,5,3364.97,0.0,UPI,Cancelled
+O01261,C0326,2024-03-26,ELECTRONICS,Product 19,3,796.84,0.05,UPI,Returned
+O01262,C0156,2023-08-14,Electronics,Product 18,4,1053.02,0.05,Card,Completed
+O01263,C0108,2023-09-19,Electronics,Product 9,4,900.62,0.0,Card,Returned
+O01264,C0085,2023-08-13,Home,Product 64,4,659.76,0.15,Card,Returned
+O01265,C0281,2023-09-22,Home,Product 43,3,3194.47,0.1,COD,Completed
+O01266,C0399,2023-10-13,,Product 29,5,4093.17,0.15,Card,Cancelled
+O01267,C0371,2023-11-04,Fashion,Product 7,3,4765.29,0.1,Card,Completed
+O01268,C0451,2025-05-14, electronics ,Product 60,2,4535.36,0.0,COD,Returned
+O01269,C0291,2025-01-30,ELECTRONICS,Product 39,5,497.53,0.05,COD,Cancelled
+O01270,C0418,2023-02-28,Fashion,Product 20,1,2129.69,0.0,Card,Cancelled
+O01271,C0252,2024-05-13,Fashion,Product 76,1,1148.74,0.15,UPI,Cancelled
+O01272,C0307,2023-06-18,ELECTRONICS,Product 76,2,1946.55,0.0,UPI,Completed
+O01273,C0220,2023-01-09,Fashion,Product 115,1,552.34,0.05,UPI,Completed
+O01274,C0432,2023-05-17,ELECTRONICS,Product 87,4,3459.74,0.1,COD,Returned
+O01275,C0020,2023-11-14,fashion ,Product 11,1,4942.1,0.0,UPI,Completed
+O01276,C0304,2024-05-17,ELECTRONICS,Product 79,4,4200.56,0.0,COD,Cancelled
+O01277,C0081,2024-09-12,,Product 100,2,3529.72,0.0,Card,Returned
+O01278,C0174,2023-02-02,Home,Product 21,2,3505.05,0.15,Card,Returned
+O01279,C0215,2024-12-23, electronics ,Product 102,3,4924.53,0.1,COD,Cancelled
+O01280,C0019,2023-06-02,Electronics,Product 8,2,2979.65,0.0,UPI,Completed
+O01281,C0395,2025-01-10,ELECTRONICS,Product 89,4,1667.76,0.05,COD,Cancelled
+O01282,C0344,2024-10-21,,Product 94,4,2979.59,0.05,Card,Returned
+O01283,C0034,2024-02-05,Electronics,Product 5,1,4221.49,0.1,Card,Completed
+O01284,C0442,2024-02-12,ELECTRONICS,Product 58,4,751.23,0.1,COD,Returned
+O01285,C0359,2025-02-08, electronics ,Product 1,4,4358.95,0.05,Card,Cancelled
+O01286,C0453,2023-12-09, electronics ,Product 31,1,2612.64,0.15,Card,Completed
+O01287,C0185,2027-01-01,Home,Product 44,2,4021.02,0.1,Card,Completed
+O01288,C0104,2025-04-24, electronics ,Product 19,1,1729.34,0.1,COD,Cancelled
+O01289,C0101,2024-09-19,Fashion,Product 99,5,4754.1,0.0,Card,Returned
+O01290,C0234,2024-07-05,Electronics,Product 37,5,1729.77,0.15,COD,Returned
+O01291,C0238,2025-06-18,fashion ,Product 74,1,1231.63,0.1,COD,Completed
+O01292,C0419,2024-10-29, electronics ,Product 86,4,4531.46,0.1,Card,Cancelled
+O01293,C0421,2023-02-11,Fashion,Product 31,1,2045.2,0.15,UPI,Completed
+O01294,C0009,2024-07-13,fashion ,Product 112,3,4767.73,0.1,COD,Returned
+O01295,C0339,2024-08-17,fashion ,Product 37,1,3920.41,0.05,Card,Returned
+O01296,C0351,2024-11-02,Fashion,Product 11,3,1711.0,0.05,Card,Completed
+O01297,C0087,2025-02-06,Home,Product 38,1,3391.87,0.15,UPI,Cancelled
+O01298,C0478,2024-01-06,ELECTRONICS,Product 40,2,4989.64,0.0,UPI,Completed
+O01299,C0034,2023-01-04,ELECTRONICS,Product 23,1,655.52,0.15,Card,Completed
+O01300,C0262,2025-03-09,Electronics,Product 62,5,3373.19,0.1,UPI,Cancelled
+O01301,C0280,2024-02-02,ELECTRONICS,Product 93,1,189.31,0.0,UPI,Completed
+O01302,C0274,2024-06-18, electronics ,Product 62,2,4956.46,0.1,UPI,Cancelled
+O01303,C0263,2024-03-18,Fashion,Product 28,4,920.86,0.15,COD,Returned
+O01304,C0337,2025-02-01,Fashion,Product 72,1,3877.11,0.15,Card,Returned
+O01305,C0097,2023-02-12,Electronics,Product 74,3,1841.57,0.1,COD,Cancelled
+O01306,C0442,2023-01-08,Fashion,Product 11,4,756.99,0.0,COD,Returned
+O01307,C0254,2024-08-30,fashion ,Product 71,5,3656.93,0.1,UPI,Returned
+O01308,C0160,2024-10-15,,Product 106,1,2185.64,0.0,UPI,Completed
+O01309,C0418,2023-05-21,Fashion,Product 20,3,1475.27,0.15,UPI,Returned
+O01310,C0209,2023-11-12,Electronics,Product 4,3,4908.14,0.1,UPI,Returned
+O01311,C0437,2024-06-21,Electronics,Product 47,1,655.53,0.1,Card,Cancelled
+O01312,C0041,2023-08-06, electronics ,Product 7,1,1454.92,0.0,COD,Returned
+O01313,C0283,2024-07-13,Home,Product 39,5,592.14,0.15,UPI,Cancelled
+O01314,C0027,2023-12-08, electronics ,Product 9,4,562.14,0.0,UPI,Cancelled
+O01315,C0055,2024-01-05,ELECTRONICS,Product 21,1,2995.18,0.05,UPI,Cancelled
+O01316,C0054,2024-08-05,Home,Product 104,2,182.54,0.05,COD,Returned
+O01317,C0261,2025-04-21, electronics ,Product 53,2,125.9,0.1,COD,Returned
+O01318,C0109,2023-09-01,fashion ,Product 86,2,2003.36,0.1,Card,Completed
+O01319,C0148,2024-02-26,ELECTRONICS,Product 32,4,3120.29,0.0,COD,Cancelled
+O01320,C0059,2027-01-01,Fashion,Product 76,3,1036.71,0.1,COD,Completed
+O01321,C0496,2024-10-18,Home,Product 32,5,749.0,0.0,UPI,Completed
+O01322,C0495,2024-12-01, electronics ,Product 36,1,4801.06,0.0,COD,Completed
+O01323,C0175,2023-01-15, electronics ,Product 58,1,807.48,0.0,Card,Cancelled
+O01324,C0228,2024-06-15,,Product 26,4,4303.01,0.05,UPI,Cancelled
+O01325,C0340,2024-11-12, electronics ,Product 63,3,2495.68,0.1,Card,Completed
+O01326,C0401,2024-04-19,Electronics,Product 96,-3,2347.86,0.1,UPI,Cancelled
+O01327,C0091,2023-05-25,Fashion,Product 99,1,167.46,0.0,COD,Cancelled
+O01328,C0353,2023-08-18,ELECTRONICS,Product 108,3,2436.49,0.15,Card,Completed
+O01329,C0121,2023-05-17,Home,Product 63,4,1984.45,0.05,UPI,Cancelled
+O01330,C0442,2024-12-07,Home,Product 67,3,4017.36,0.15,UPI,Completed
+O01331,C0145,2023-04-20,ELECTRONICS,Product 104,5,1297.04,0.05,COD,Cancelled
+O01332,C0354,2023-01-21,fashion ,Product 54,-5,2882.96,0.0,Card,Completed
+O01333,C0218,2023-11-10,ELECTRONICS,Product 90,2,4042.51,0.05,COD,Cancelled
+O01334,C0242,2024-01-01,fashion ,Product 26,5,4462.26,0.1,UPI,Cancelled
+O01335,C0253,2023-09-04, electronics ,Product 56,3,4791.76,0.0,COD,Completed
+O01336,C0444,2023-05-21,Electronics,Product 27,1,2388.71,0.0,UPI,Returned
+O01337,C0110,2023-05-19, electronics ,Product 48,5,574.6,0.1,UPI,Returned
+O01338,C0456,2023-10-15,Fashion,Product 115,4,1124.51,0.1,UPI,Returned
+O01339,C0275,2023-09-14,Home,Product 81,1,4697.53,0.05,UPI,Cancelled
+O01340,C0374,2024-11-04,Electronics,Product 119,3,4226.03,0.05,Card,Cancelled
+O01341,C0295,2024-08-19,ELECTRONICS,Product 1,1,2192.82,0.1,Card,Cancelled
+O01342,C0322,2023-01-28,fashion ,Product 3,5,3369.76,0.05,UPI,Completed
+O01343,C0424,2025-01-20, electronics ,Product 26,2,749.88,0.15,UPI,Returned
+O01344,C0372,2023-05-18,Home,Product 27,4,1896.55,0.1,COD,Cancelled
+O01345,C0243,2025-05-03,Fashion,Product 1,2,939.74,0.0,COD,Completed
+O01346,C0038,2025-02-21, electronics ,Product 54,4,631.35,0.05,COD,Completed
+O01347,C0347,2024-12-31,fashion ,Product 116,3,4667.06,0.1,Card,Completed
+O01348,C0230,2024-08-03,Fashion,Product 23,5,3093.65,0.15,Card,Cancelled
+O01349,C0428,2025-01-21,Electronics,Product 26,3,2088.5,0.15,COD,Cancelled
+O01350,C0065,2023-04-29,Electronics,Product 30,1,3711.32,0.0,COD,Cancelled
+O01351,C0419,2024-08-17, electronics ,Product 7,4,2637.98,0.05,UPI,Completed
+O01352,C0038,2024-09-13, electronics ,Product 69,1,2806.16,0.1,COD,Returned
+O01353,C0424,2023-12-07, electronics ,Product 6,1,2195.83,0.05,UPI,Completed
+O01354,C0217,2024-10-01,Home,Product 82,1,2778.96,0.1,Card,Completed
+O01355,C0392,2023-12-12,Electronics,Product 100,3,233.88,0.0,COD,Completed
+O01356,C0327,2025-02-14,fashion ,Product 11,1,504.9,0.05,Card,Completed
+O01357,C0030,2024-07-05,Home,Product 96,4,4846.35,0.0,COD,Completed
+O01358,C0469,2024-11-19,fashion ,Product 83,3,1520.32,0.1,Card,Completed
+O01359,C0296,2023-06-01,fashion ,Product 62,1,1507.2,0.0,UPI,Completed
+O01360,C0195,2025-03-18,Fashion,Product 6,3,2585.0,0.15,UPI,Completed
+O01361,C0126,2024-11-08,Fashion,Product 45,5,3219.67,0.0,Card,Returned
+O01362,C0289,2023-06-03,Electronics,Product 31,5,2123.56,0.1,COD,Completed
+O01363,C0421,2023-02-20, electronics ,Product 101,3,2926.44,0.0,COD,Returned
+O01364,C0124,2023-02-24,Fashion,Product 78,1,4294.53,0.15,COD,Cancelled
+O01365,C0481,2025-03-08,fashion ,Product 24,1,716.26,0.0,Card,Completed
+O01366,C0064,2023-09-16,fashion ,Product 118,1,2693.52,0.0,Card,Returned
+O01367,C0486,2024-10-21,Fashion,Product 64,3,4414.22,0.05,COD,Completed
+O01368,C0033,2023-07-12,Fashion,Product 35,4,1286.91,0.0,UPI,Returned
+O01369,C0268,2023-10-30,fashion ,Product 83,4,3380.53,0.1,Card,Cancelled
+O01370,C0368,2025-06-19, electronics ,Product 48,2,3639.02,0.15,UPI,Completed
+O01371,C0448,2023-09-15,Electronics,Product 106,3,2011.9,0.15,UPI,Cancelled
+O01372,C0096,2025-06-06,Fashion,Product 101,3,1222.49,0.1,Card,Returned
+O01373,C0012,2025-06-05,Home,Product 11,2,2402.18,0.1,Card,Cancelled
+O01374,C0470,2025-04-14,Electronics,Product 99,3,1206.75,0.0,Card,Completed
+O01375,C0142,2024-06-15,ELECTRONICS,Product 93,5,4865.13,0.15,COD,Returned
+O01376,C0352,2023-12-15,Home,Product 8,1,4966.32,0.1,UPI,Completed
+O01377,C0100,2025-02-22,fashion ,Product 33,2,2976.9,0.0,Card,Returned
+O01378,C0049,2025-04-05,Home,Product 77,2,2328.25,0.15,COD,Completed
+O01379,C0047,2023-07-23,Home,Product 87,5,1070.15,0.05,UPI,Cancelled
+O01380,C0438,2023-02-10,Electronics,Product 93,3,476.52,0.0,COD,Returned
+O01381,C0049,2023-12-02,Fashion,Product 65,4,4306.05,0.0,UPI,Completed
+O01382,C0055,2025-04-10,ELECTRONICS,Product 100,2,2133.61,0.05,COD,Returned
+O01383,C0327,2024-01-22,Home,Product 64,1,1393.05,0.1,COD,Completed
+O01384,C0201,2024-09-27,ELECTRONICS,Product 79,4,3981.2,0.05,UPI,Completed
+O01385,C0270,2025-04-07,Home,Product 99,3,2917.64,0.0,COD,Cancelled
+O01386,C0430,2024-06-26,Electronics,Product 76,2,782.54,0.15,UPI,Completed
+O01387,C0076,2024-09-13,Electronics,Product 31,2,2311.33,0.1,Card,Cancelled
+O01388,C0439,2023-02-07,Home,Product 38,1,737.26,0.15,COD,Completed
+O01389,C0122,2025-03-07,Fashion,Product 120,3,2037.93,0.15,COD,Completed
+O01390,C0219,2023-04-30,Electronics,Product 6,5,4724.85,0.0,COD,Completed
+O01391,C0447,2024-09-14,Electronics,Product 50,3,854.56,0.15,UPI,Cancelled
+O01392,C0131,2023-06-29,ELECTRONICS,Product 46,2,355.06,0.15,COD,Returned
+O01393,C0434,2023-04-22,Fashion,Product 55,2,3838.95,0.05,COD,Completed
+O01394,C0021,2023-10-25,Electronics,Product 31,5,1589.63,0.0,COD,Cancelled
+O01395,C0342,2023-09-01,fashion ,Product 95,2,4479.25,0.05,Card,Completed
+O01396,C0064,2024-01-19,Electronics,Product 14,2,3368.43,0.15,COD,Returned
+O01397,C0290,2023-02-18,fashion ,Product 91,1,417.72,0.1,Card,Returned
+O01398,C0131,2025-01-01,fashion ,Product 104,2,911.45,0.15,COD,Returned
+O01399,C0283,2024-11-03,Home,Product 78,4,3821.52,0.15,UPI,Returned
+O01400,C0197,2025-03-13,Home,Product 73,3,1316.18,0.1,COD,Completed
+O01401,C0292,2024-05-27,fashion ,Product 102,3,4876.78,0.05,UPI,Completed
+O01402,C0115,2025-03-10,ELECTRONICS,Product 100,1,792.33,0.15,Card,Returned
+O01403,C0359,2023-02-26,Electronics,Product 72,5,2417.59,0.15,COD,Completed
+O01404,C0090,2023-02-01,Home,Product 28,4,1616.56,0.05,COD,Returned
+O01405,C0186,2024-11-09,Home,Product 32,2,4502.76,0.05,COD,Returned
+O01406,C0460,2023-10-19,ELECTRONICS,Product 53,1,4447.69,0.0,UPI,Returned
+O01407,C0412,2023-12-16,,Product 52,5,2993.51,0.1,COD,Returned
+O01408,C0282,2023-09-30,Fashion,Product 74,2,1953.65,0.15,COD,Completed
+O01409,C0051,2024-05-08,Home,Product 107,-2,3459.79,0.05,UPI,Returned
+O01410,C0432,2025-02-07, electronics ,Product 100,3,1408.53,0.05,UPI,Returned
+O01411,C0021,2023-10-06,Electronics,Product 107,3,4800.19,0.15,UPI,Completed
+O01412,C0201,2024-06-10,Fashion,Product 9,1,4992.37,0.0,Card,Returned
+O01413,C0314,2024-11-15,ELECTRONICS,Product 106,2,4850.51,0.0,UPI,Completed
+O01414,C0042,2024-09-18,ELECTRONICS,Product 81,4,3072.02,0.1,UPI,Cancelled
+O01415,C0101,2025-06-02,fashion ,Product 57,4,3246.16,0.05,UPI,Returned
+O01416,C0459,2023-10-14,Fashion,Product 57,3,2269.21,0.1,Card,Completed
+O01417,C0372,2024-04-04,Fashion,Product 98,1,4328.78,0.05,COD,Completed
+O01418,C0447,2025-03-28,Fashion,Product 93,-3,3164.41,0.15,Card,Completed
+O01419,C0399,2024-09-08,ELECTRONICS,Product 3,2,2046.67,0.1,UPI,Completed
+O01420,C0068,2023-08-26,ELECTRONICS,Product 46,2,3603.1,0.05,UPI,Cancelled
+O01421,C0238,2024-07-11,Electronics,Product 27,4,4262.77,0.05,COD,Completed
+O01422,C0113,2023-01-01,Fashion,Product 31,1,4143.32,0.1,UPI,Cancelled
+O01423,C0098,2023-12-20, electronics ,Product 58,4,464.25,0.1,Card,Cancelled
+O01424,C0166,2023-06-22,Electronics,Product 19,5,4334.2,0.1,COD,Completed
+O01425,C0122,2023-10-19,Fashion,Product 27,1,3442.04,0.0,Card,Cancelled
+O01426,C0380,2023-05-26,Fashion,Product 86,5,2615.61,0.05,UPI,Completed
+O01427,C0421,2025-06-18,fashion ,Product 69,2,4153.88,0.0,COD,Completed
+O01428,C0280,2024-03-05,ELECTRONICS,Product 95,3,4165.76,0.15,UPI,Cancelled
+O01429,C0059,2024-07-06,fashion ,Product 23,2,2763.21,0.1,Card,Completed
+O01430,C0379,2025-02-07,Electronics,Product 64,3,3949.48,0.15,Card,Returned
+O01431,C0441,2024-12-17,Fashion,Product 31,1,4511.53,0.05,UPI,Cancelled
+O01432,C0431,2023-05-28, electronics ,Product 24,1,1197.15,0.1,Card,Returned
+O01433,C0338,2024-02-07,ELECTRONICS,Product 2,2,3908.7,0.15,UPI,Returned
+O01434,C0268,2023-06-03,Home,Product 99,3,4691.63,0.0,COD,Completed
+O01435,C0489,2024-04-12,Electronics,Product 72,3,2994.1,0.1,UPI,Cancelled
+O01436,C0445,2023-10-23,Electronics,Product 21,5,721.68,0.0,Card,Completed
+O01437,C0278,2023-08-24,Fashion,Product 93,5,3031.29,0.1,COD,Cancelled
+O01438,C0377,2024-09-12,fashion ,Product 66,2,2812.35,0.0,COD,Completed
+O01439,C0235,2024-10-03,Electronics,Product 89,3,3308.68,0.0,Card,Completed
+O01440,C0245,2024-02-16, electronics ,Product 70,2,3868.63,0.05,UPI,Returned
+O01441,C0315,2025-03-09,Electronics,Product 93,4,3176.31,0.15,Card,Returned
+O01442,C0320,2024-07-08,fashion ,Product 118,5,2238.68,0.15,COD,Completed
+O01443,C0384,2024-08-13,Electronics,Product 102,2,3252.2,0.1,COD,Returned
+O01444,C0406,2023-07-10, electronics ,Product 48,1,354.17,0.1,UPI,Returned
+O01445,C0318,2024-02-04,ELECTRONICS,Product 88,3,2337.51,0.0,UPI,Returned
+O01446,C0383,2024-07-08,ELECTRONICS,Product 110,1,1935.19,0.1,UPI,Returned
+O01447,C0181,2024-02-08,fashion ,Product 38,4,1009.88,0.05,COD,Completed
+O01448,C0201,2025-05-17, electronics ,Product 111,5,4708.97,0.0,Card,Cancelled
+O01449,C0168,2024-12-01, electronics ,Product 69,2,3831.34,0.15,UPI,Cancelled
+O01450,C0485,2024-08-12,fashion ,Product 29,4,4354.84,0.05,Card,Returned
+O01451,C0441,2024-01-14,fashion ,Product 14,5,2843.67,0.15,Card,Cancelled
+O01452,C0490,2024-05-16,Fashion,Product 109,1,2837.56,0.0,COD,Cancelled
+O01453,C0115,2023-10-22,,Product 25,4,1602.43,0.0,COD,Returned
+O01454,C0247,2025-05-02,fashion ,Product 62,5,907.59,0.05,COD,Returned
+O01455,C0045,2023-10-03,ELECTRONICS,Product 27,3,2033.2,0.0,Card,Cancelled
+O01456,C0055,2025-04-27, electronics ,Product 94,4,950.2,0.05,Card,Cancelled
+O01457,C0436,2025-03-28,ELECTRONICS,Product 6,5,178.68,0.1,UPI,Returned
+O01458,C0019,2025-02-27,ELECTRONICS,Product 23,1,2337.5,0.0,COD,Returned
+O01459,C0428,2023-03-03, electronics ,Product 97,5,2442.27,0.1,Card,Completed
+O01460,C0393,2024-06-23,ELECTRONICS,Product 52,2,897.67,0.05,Card,Returned
+O01461,C0299,2023-11-29,fashion ,Product 54,4,3982.25,0.15,COD,Cancelled
+O01462,C0362,2023-06-21,ELECTRONICS,Product 66,3,1752.7,0.1,COD,Returned
+O01463,C0408,2024-03-08,ELECTRONICS,Product 101,3,3592.11,0.1,UPI,Returned
+O01464,C0496,2024-09-21,Electronics,Product 104,2,3496.58,0.1,UPI,Completed
+O01465,C0158,2023-02-13,ELECTRONICS,Product 82,1,1224.91,0.05,UPI,Completed
+O01466,C0424,2025-04-25,Electronics,Product 103,2,1697.3,0.1,UPI,Completed
+O01467,C0105,2024-05-07,Home,Product 82,1,2185.85,0.05,COD,Completed
+O01468,C0316,2025-05-21,Fashion,Product 50,3,2973.52,0.15,UPI,Cancelled
+O01469,C0369,2024-10-14,ELECTRONICS,Product 83,2,2125.07,0.0,UPI,Cancelled
+O01470,C0189,2024-12-21,ELECTRONICS,Product 27,5,4753.55,0.0,COD,Completed
+O01471,C0378,2025-04-07, electronics ,Product 25,2,4198.06,0.05,UPI,Returned
+O01472,C0157,2027-01-01,fashion ,Product 12,2,389.02,0.0,UPI,Returned
+O01473,C0368,2024-05-16,fashion ,Product 60,2,1790.53,0.05,Card,Cancelled
+O01474,C0403,2024-11-12, electronics ,Product 116,5,1815.43,0.15,Card,Cancelled
+O01475,C0195,2023-09-30, electronics ,Product 111,3,2898.97,0.0,Card,Completed
+O01476,C0343,2025-04-16,Home,Product 59,5,1973.82,0.05,COD,Completed
+O01477,C0226,2025-06-08,Electronics,Product 83,4,2396.99,0.0,Card,Returned
+O01478,C0112,2025-03-17,fashion ,Product 84,2,2954.52,0.05,UPI,Cancelled
+O01479,C0466,2024-08-13,fashion ,Product 28,2,3730.87,0.05,UPI,Returned
+O01480,C0039,2024-11-04,Home,Product 39,4,1257.73,0.05,UPI,Completed
+O01481,C0405,2024-12-20,fashion ,Product 110,3,4483.16,0.05,Card,Returned
+O01482,C0331,2023-05-06,Fashion,Product 95,3,3743.93,0.15,UPI,Completed
+O01483,C0134,2023-01-21,ELECTRONICS,Product 74,4,4072.74,0.15,COD,Returned
+O01484,C0435,2024-04-02,fashion ,Product 57,1,113.17,0.05,Card,Completed
+O01485,C0306,2023-09-10,Fashion,Product 98,2,2682.3,0.15,COD,Completed
+O01486,C0297,2025-04-17,fashion ,Product 118,2,2642.83,0.05,UPI,Completed
+O01487,C0405,2024-01-09,Home,Product 111,1,366.02,0.05,UPI,Completed
+O01488,C0416,2024-07-21,Home,Product 114,1,2381.45,0.15,Card,Returned
+O01489,C0191,2025-01-09,Home,Product 66,2,1851.08,0.05,COD,Returned
+O01490,C0385,2025-03-28,Electronics,Product 26,4,184.95,0.1,UPI,Cancelled
+O01491,C0165,2025-05-25,Electronics,Product 59,1,425.4,0.05,UPI,Returned
+O01492,C0399,2025-06-07, electronics ,Product 83,5,2928.22,0.1,COD,Completed
+O01493,C0445,2024-05-04,Home,Product 66,1,1044.97,0.05,UPI,Returned
+O01494,C0304,2023-03-26,Fashion,Product 12,4,3082.62,0.0,UPI,Cancelled
+O01495,C0107,2025-01-19,,Product 16,1,4346.98,0.15,Card,Cancelled
+O01496,C0345,2024-09-12,Electronics,Product 15,2,652.28,0.15,UPI,Completed
+O01497,C0229,2024-09-24, electronics ,Product 93,2,1780.4,0.15,UPI,Completed
+O01498,C0293,2023-08-08, electronics ,Product 56,5,1963.39,0.05,COD,Completed
+O01499,C0155,2025-06-16,fashion ,Product 14,2,833.2,0.1,UPI,Completed
+O01500,C0203,2025-03-19,Home,Product 68,1,788.99,0.1,UPI,Returned
+O01501,C0193,2023-06-03, electronics ,Product 3,3,4215.96,0.05,COD,Cancelled
+O01502,C0415,2025-05-09,Home,Product 95,3,3310.27,0.05,COD,Returned
+O01503,C0299,2023-05-12,Fashion,Product 106,5,183.73,0.0,UPI,Cancelled
+O01504,C0184,2023-07-15,fashion ,Product 42,1,2744.23,0.15,Card,Completed
+O01505,C0455,2023-09-23,Home,Product 100,2,865.24,0.05,Card,Completed
+O01506,C0119,2024-09-20,fashion ,Product 64,4,1461.86,0.05,COD,Returned
+O01507,C0221,2025-01-08,Fashion,Product 111,1,2994.98,0.15,UPI,Completed
+O01508,C0462,2024-06-27,Electronics,Product 44,2,1665.23,0.05,COD,Returned
+O01509,C0017,2024-12-28, electronics ,Product 8,1,711.0,0.1,Card,Cancelled
+O01510,C0217,2024-10-17,ELECTRONICS,Product 80,5,417.92,0.15,COD,Returned
+O01511,C0485,2024-03-11, electronics ,Product 33,3,2449.9,0.0,UPI,Cancelled
+O01512,C0031,2023-04-24,Electronics,Product 103,4,3939.64,0.0,UPI,Completed
+O01513,C0284,2025-01-24, electronics ,Product 13,1,2301.7,0.1,UPI,Cancelled
+O01514,C0265,2023-02-13,Electronics,Product 104,2,3661.14,0.1,Card,Completed
+O01515,C0499,2025-06-08,ELECTRONICS,Product 91,2,397.93,0.0,UPI,Returned
+O01516,C0237,2023-04-15,Home,Product 30,1,1727.48,0.0,Card,Cancelled
+O01517,C0411,2024-05-18,Fashion,Product 23,5,659.61,0.05,UPI,Completed
+O01518,C0271,2023-12-24,Home,Product 46,5,2289.42,0.15,COD,Cancelled
+O01519,C0171,2023-05-04, electronics ,Product 86,4,4037.9,0.05,COD,Cancelled
+O01520,C0430,2024-03-26,Fashion,Product 114,2,2028.76,0.05,UPI,Cancelled
+O01521,C0359,2023-09-04,Fashion,Product 3,5,257.21,0.1,Card,Cancelled
+O01522,C0013,2023-12-05,Electronics,Product 102,4,670.75,0.15,COD,Cancelled
+O01523,C0384,2023-09-16,Home,Product 34,4,2969.27,0.0,COD,Returned
+O01524,C0363,2023-11-19,Electronics,Product 41,3,3943.84,0.0,Card,Returned
+O01525,C0332,2025-04-07,fashion ,Product 106,5,2534.84,0.15,COD,Returned
+O01526,C0238,2024-10-25,fashion ,Product 57,4,3457.26,0.15,Card,Returned
+O01527,C0196,2023-04-15,Electronics,Product 20,5,1159.79,0.1,UPI,Cancelled
+O01528,C0090,2023-09-12,ELECTRONICS,Product 56,4,996.78,0.1,COD,Returned
+O01529,C0035,2024-04-01,Home,Product 106,1,4564.25,0.05,Card,Returned
+O01530,C0236,2024-04-23,fashion ,Product 109,2,940.49,0.0,Card,Completed
+O01531,C0412,2024-11-06,Home,Product 81,2,1371.51,0.0,UPI,Cancelled
+O01532,C0400,2024-09-01,fashion ,Product 58,5,4514.08,0.0,UPI,Cancelled
+O01533,C0301,2024-07-04,ELECTRONICS,Product 119,1,3341.28,0.0,UPI,Returned
+O01534,C0083,2023-11-08,Electronics,Product 58,4,4739.34,0.1,COD,Returned
+O01535,C0192,2024-03-26,Fashion,Product 120,2,156.52,0.05,UPI,Completed
+O01536,C0243,2024-03-04,Home,Product 12,3,4161.17,0.05,UPI,Cancelled
+O01537,C0392,2024-09-01,Home,Product 86,5,511.76,0.05,COD,Cancelled
+O01538,C0217,2023-06-19,fashion ,Product 116,5,2572.96,0.15,COD,Cancelled
+O01539,C0245,2024-11-17,Home,Product 82,5,345.12,0.0,COD,Cancelled
+O01540,C0046,2023-09-22,fashion ,Product 55,2,651.22,0.15,UPI,Cancelled
+O01541,C0346,2023-07-01,Home,Product 71,5,2835.12,0.1,COD,Cancelled
+O01542,C0440,2024-04-16,Home,Product 86,3,3241.77,0.05,Card,Returned
+O01543,C0145,2024-03-07,fashion ,Product 49,1,1980.28,0.05,COD,Cancelled
+O01544,C0160,2023-09-30, electronics ,Product 9,5,2275.34,0.05,COD,Cancelled
+O01545,C0183,2023-06-13,fashion ,Product 98,1,1291.47,0.15,Card,Returned
+O01546,C0492,2024-05-29, electronics ,Product 35,5,2719.65,0.05,COD,Completed
+O01547,C0078,2023-09-22,fashion ,Product 57,4,3049.52,0.0,Card,Completed
+O01548,C0110,2023-04-02,Electronics,Product 76,5,4490.69,0.05,Card,Returned
+O01549,C0448,2023-06-17, electronics ,Product 92,5,2096.16,0.05,UPI,Cancelled
+O01550,C0128,2023-12-16,,Product 118,4,1347.11,0.0,Card,Cancelled
+O01551,C0143,2024-01-04,ELECTRONICS,Product 64,1,808.76,0.0,COD,Completed
+O01552,C0357,2023-02-02,ELECTRONICS,Product 36,4,238.45,0.15,Card,Completed
+O01553,C0477,2024-05-10,Home,Product 9,4,3884.76,0.05,COD,Cancelled
+O01554,C0022,2025-02-10,fashion ,Product 70,5,4786.49,0.0,Card,Cancelled
+O01555,C0139,2023-10-06,Fashion,Product 67,5,4254.18,0.0,UPI,Cancelled
+O01556,C0485,2024-02-08,ELECTRONICS,Product 70,5,2168.71,0.05,COD,Returned
+O01557,C0477,2024-07-16,fashion ,Product 49,4,2879.38,0.0,Card,Cancelled
+O01558,C0026,2023-11-18,Electronics,Product 16,5,3107.12,0.05,UPI,Returned
+O01559,C0196,2023-09-10,Home,Product 6,4,1821.18,0.0,Card,Completed
+O01560,C0306,2023-03-05,fashion ,Product 97,4,3879.33,0.15,UPI,Cancelled
+O01561,C0052,2024-12-27,fashion ,Product 75,3,1373.54,0.1,COD,Completed
+O01562,C0336,2023-02-20,,Product 74,4,1575.55,0.05,Card,Returned
+O01563,C0193,2023-02-18,Fashion,Product 88,5,4339.4,0.15,Card,Cancelled
+O01564,C0083,2025-03-19,Electronics,Product 105,4,3973.46,0.1,Card,Cancelled
+O01565,C0457,2024-03-29,Electronics,Product 74,3,2308.04,0.1,Card,Completed
+O01566,C0218,2025-04-04, electronics ,Product 32,2,4299.48,0.1,Card,Cancelled
+O01567,C0395,2025-05-24,Fashion,Product 44,4,3532.93,0.0,UPI,Cancelled
+O01568,C0028,2023-12-22,Electronics,Product 89,3,4666.39,0.15,UPI,Completed
+O01569,C0391,2023-10-29,Fashion,Product 55,1,4825.24,0.15,COD,Returned
+O01570,C0314,2023-05-18,Electronics,Product 50,4,235.97,0.0,UPI,Cancelled
+O01571,C0490,2025-05-22,ELECTRONICS,Product 69,1,4004.72,0.15,UPI,Completed
+O01572,C0203,2024-04-30,Fashion,Product 92,-5,2523.22,0.05,UPI,Completed
+O01573,C0403,2024-01-02,Electronics,Product 120,2,4029.38,0.15,UPI,Returned
+O01574,C0416,2025-05-23,Fashion,Product 10,4,821.65,0.0,UPI,Completed
+O01575,C0453,2023-08-23,Fashion,Product 44,2,1217.08,0.1,COD,Returned
+O01576,C0284,2024-06-29,ELECTRONICS,Product 105,4,3214.23,0.1,Card,Returned
+O01577,C0356,2023-05-07,,Product 65,2,1689.06,0.1,Card,Cancelled
+O01578,C0335,2024-03-15,ELECTRONICS,Product 37,1,3295.81,0.1,COD,Completed
+O01579,C0484,2023-03-20, electronics ,Product 20,2,4679.81,0.15,Card,Returned
+O01580,C0350,2025-01-18,fashion ,Product 94,5,4096.43,0.0,Card,Cancelled
+O01581,C0331,2023-09-06,Home,Product 87,4,3737.08,0.15,UPI,Completed
+O01582,C0351,2024-07-22, electronics ,Product 105,2,456.6,0.15,Card,Returned
+O01583,C0035,2023-03-04,fashion ,Product 101,1,1996.42,0.05,UPI,Cancelled
+O01584,C0312,2023-07-19, electronics ,Product 42,3,3624.01,0.05,Card,Returned
+O01585,C0007,2023-08-24,Electronics,Product 110,2,4612.08,0.0,COD,Completed
+O01586,C0464,2024-06-01,Electronics,Product 108,4,2182.42,0.05,Card,Cancelled
+O01587,C0219,2024-01-04,Electronics,Product 106,3,2705.51,0.1,COD,Completed
+O01588,C0402,2023-08-11,,Product 14,4,176.29,0.1,UPI,Returned
+O01589,C0258,2024-07-03,fashion ,Product 85,5,1351.74,0.15,COD,Returned
+O01590,C0398,2024-08-23, electronics ,Product 114,5,4444.95,0.0,Card,Cancelled
+O01591,C0054,2023-05-17,ELECTRONICS,Product 108,4,2302.13,0.05,Card,Cancelled
+O01592,C0307,2023-04-02,fashion ,Product 96,2,4821.18,0.1,UPI,Cancelled
+O01593,C0116,2025-05-01,fashion ,Product 58,2,897.4,0.05,UPI,Returned
+O01594,C0338,2023-04-26,fashion ,Product 64,1,247.41,0.05,COD,Completed
+O01595,C0365,2024-06-11,fashion ,Product 72,2,4628.2,0.05,UPI,Completed
+O01596,C0090,2023-01-16,Electronics,Product 3,1,408.85,0.15,Card,Cancelled
+O01597,C0324,2023-01-31,fashion ,Product 86,4,4352.39,0.15,COD,Cancelled
+O01598,C0097,2023-03-27,ELECTRONICS,Product 50,-1,4004.61,0.1,UPI,Returned
+O01599,C0333,2023-10-24, electronics ,Product 83,2,4722.69,0.0,Card,Cancelled
+O01600,C0329,2025-02-23, electronics ,Product 25,4,1642.82,0.15,COD,Cancelled
+O01601,C0009,2023-07-23,Fashion,Product 107,1,3782.82,0.05,UPI,Cancelled
+O01602,C0225,2025-01-30,Electronics,Product 43,3,195.77,0.0,Card,Cancelled
+O01603,C0464,2023-04-05,Home,Product 51,4,4589.09,0.1,UPI,Returned
+O01604,C0001,2023-08-19,Fashion,Product 70,1,1687.26,0.15,COD,Returned
+O01605,C0315,2024-04-25,Electronics,Product 48,3,3887.73,0.05,Card,Cancelled
+O01606,C0274,2024-07-21,Home,Product 73,5,2866.55,0.15,UPI,Cancelled
+O01607,C0277,2023-01-16,Fashion,Product 72,5,2821.56,0.0,Card,Returned
+O01608,C0190,2023-03-16,fashion ,Product 55,4,984.99,0.15,UPI,Returned
+O01609,C0122,2023-01-24, electronics ,Product 3,4,4722.01,0.05,Card,Returned
+O01610,C0287,2024-10-08, electronics ,Product 49,3,171.99,0.0,COD,Completed
+O01611,C0402,2023-05-23,Fashion,Product 47,5,1744.51,0.1,UPI,Cancelled
+O01612,C0383,2024-12-24, electronics ,Product 63,4,1554.31,0.05,UPI,Completed
+O01613,C0075,2025-05-04,ELECTRONICS,Product 12,5,3081.9,0.15,UPI,Cancelled
+O01614,C0245,2023-05-25,ELECTRONICS,Product 66,3,2979.41,0.15,UPI,Returned
+O01615,C0068,2024-01-11,Electronics,Product 106,3,2812.41,0.1,Card,Cancelled
+O01616,C0002,2025-03-09,fashion ,Product 19,1,719.01,0.1,Card,Completed
+O01617,C0324,2025-01-21,Fashion,Product 29,-5,4634.17,0.1,Card,Cancelled
+O01618,C0143,2023-08-05,Fashion,Product 23,1,2565.18,0.1,COD,Cancelled
+O01619,C0485,2024-05-12,fashion ,Product 24,1,888.5,0.1,COD,Cancelled
+O01620,C0483,2024-03-05,fashion ,Product 119,2,4663.04,0.1,UPI,Cancelled
+O01621,C0329,2023-12-26,Home,Product 97,1,4749.08,0.0,UPI,Returned
+O01622,C0238,2024-09-17,Electronics,Product 105,3,3318.99,0.1,UPI,Cancelled
+O01623,C0117,2023-02-14,Fashion,Product 7,1,4122.0,0.05,UPI,Completed
+O01624,C0161,2025-04-09,Home,Product 2,1,122.56,0.15,Card,Returned
+O01625,C0288,2024-08-10,Home,Product 42,1,3525.72,0.05,COD,Completed
+O01626,C0294,2024-02-28, electronics ,Product 111,5,4301.57,0.1,UPI,Returned
+O01627,C0212,2024-04-28,Home,Product 12,3,4800.75,0.05,Card,Completed
+O01628,C0395,2023-03-26,Home,Product 100,3,446.54,0.1,Card,Completed
+O01629,C0207,2024-07-28, electronics ,Product 88,2,997.56,0.15,Card,Completed
+O01630,C0422,2024-06-20, electronics ,Product 44,3,4369.65,0.05,Card,Returned
+O01631,C0223,2023-10-07,Electronics,Product 96,1,2203.41,0.05,COD,Returned
+O01632,C0477,2023-09-15,fashion ,Product 65,2,1056.64,0.1,UPI,Cancelled
+O01633,C0497,2025-03-27,ELECTRONICS,Product 52,2,4583.52,0.0,Card,Cancelled
+O01634,C0361,2024-03-30,Electronics,Product 51,1,1864.52,0.1,Card,Completed
+O01635,C0094,2023-06-13,Home,Product 106,3,147.69,0.0,COD,Cancelled
+O01636,C0159,2024-05-20,Home,Product 4,3,3363.8,0.0,UPI,Completed
+O01637,C0482,2024-04-18,Fashion,Product 13,1,3045.03,0.0,UPI,Cancelled
+O01638,C0028,2024-03-31,Home,Product 90,3,968.02,0.0,Card,Returned
+O01639,C0471,2023-08-28,ELECTRONICS,Product 90,5,4708.43,0.05,UPI,Completed
+O01640,C0461,2023-11-18,fashion ,Product 46,2,4372.42,0.0,UPI,Completed
+O01641,C0041,2024-12-17,ELECTRONICS,Product 15,4,1752.58,0.05,Card,Returned
+O01642,C0174,2024-10-10,Electronics,Product 57,5,1484.35,0.15,UPI,Cancelled
+O01643,C0026,2024-04-19,ELECTRONICS,Product 91,2,3741.5,0.1,COD,Completed
+O01644,C0005,2025-04-29,Fashion,Product 37,2,4791.22,0.05,Card,Returned
+O01645,C0143,2024-08-15,ELECTRONICS,Product 17,1,4694.67,0.05,Card,Completed
+O01646,C0037,2025-02-17,fashion ,Product 39,5,3171.62,0.0,UPI,Returned
+O01647,C0492,2024-09-23,fashion ,Product 46,3,1795.93,0.05,Card,Returned
+O01648,C0037,2023-02-16,Electronics,Product 8,5,2097.03,0.15,COD,Returned
+O01649,C0483,2024-02-12,fashion ,Product 8,1,461.07,0.15,COD,Cancelled
+O01650,C0124,2025-03-07,Fashion,Product 65,4,1408.57,0.05,COD,Completed
+O01651,C0358,2023-10-23,ELECTRONICS,Product 111,2,1202.64,0.0,Card,Cancelled
+O01652,C0172,2025-05-18,ELECTRONICS,Product 2,4,1168.03,0.1,UPI,Completed
+O01653,C0067,2024-01-24,Fashion,Product 24,4,1500.76,0.15,COD,Cancelled
+O01654,C0485,2024-10-04,fashion ,Product 90,2,3917.58,0.05,UPI,Cancelled
+O01655,C0404,2023-03-13,Electronics,Product 74,3,295.19,0.15,COD,Completed
+O01656,C0277,2024-10-14,fashion ,Product 117,3,2128.62,0.1,UPI,Completed
+O01657,C0202,2023-04-30,Fashion,Product 29,2,3993.43,0.0,Card,Returned
+O01658,C0449,2024-04-12,fashion ,Product 72,3,3970.78,0.15,Card,Returned
+O01659,C0395,2024-08-30,Fashion,Product 40,2,920.69,0.0,UPI,Completed
+O01660,C0453,2023-07-03,Home,Product 19,4,2342.11,0.1,COD,Completed
+O01661,C0356,2024-04-19,fashion ,Product 17,1,105.38,0.15,UPI,Completed
+O01662,C0282,2023-08-20,Electronics,Product 24,3,1026.32,0.05,UPI,Returned
+O01663,C0465,2023-06-25,fashion ,Product 101,5,710.02,0.15,COD,Completed
+O01664,C0058,2024-03-20,fashion ,Product 56,3,1136.04,0.1,Card,Returned
+O01665,C0292,2024-08-25,Home,Product 60,5,3482.31,0.15,UPI,Returned
+O01666,C0026,2024-06-13,ELECTRONICS,Product 118,1,1258.03,0.05,UPI,Returned
+O01667,C0298,2023-06-08,Fashion,Product 116,4,944.65,0.1,Card,Cancelled
+O01668,C0370,2024-06-10,Fashion,Product 21,1,105.97,0.05,COD,Completed
+O01669,C0430,2023-05-11, electronics ,Product 18,5,3346.18,0.05,UPI,Cancelled
+O01670,C0336,2024-05-13, electronics ,Product 94,1,745.23,0.0,UPI,Cancelled
+O01671,C0006,2024-12-28,Home,Product 17,3,3705.02,0.0,UPI,Completed
+O01672,C0357,2023-10-11, electronics ,Product 29,2,4276.64,0.05,COD,Cancelled
+O01673,C0053,2023-05-11, electronics ,Product 48,4,3617.48,0.0,UPI,Returned
+O01674,C0203,2023-02-18, electronics ,Product 1,1,3442.69,0.0,Card,Returned
+O01675,C0236,2025-04-28,ELECTRONICS,Product 51,5,4525.16,0.0,COD,Returned
+O01676,C0334,2023-03-14, electronics ,Product 77,2,539.33,0.0,Card,Cancelled
+O01677,C0082,2023-02-11,fashion ,Product 96,4,4783.35,0.05,UPI,Completed
+O01678,C0142,2025-01-29,Electronics,Product 80,3,1996.79,0.05,UPI,Returned
+O01679,C0215,2023-07-27,Fashion,Product 2,1,2555.33,0.1,Card,Returned
+O01680,C0465,2024-03-03,Fashion,Product 59,3,4774.83,0.0,Card,Completed
+O01681,C0412,2023-03-28,,Product 47,4,1872.19,0.1,COD,Cancelled
+O01682,C0221,2023-02-07,Fashion,Product 26,3,3455.8,0.05,COD,Completed
+O01683,C0310,2023-01-09,Fashion,Product 22,5,2322.72,0.05,UPI,Cancelled
+O01684,C0152,2025-05-04, electronics ,Product 33,2,1160.57,0.15,COD,Completed
+O01685,C0137,2024-07-22,Home,Product 20,3,596.92,0.0,COD,Returned
+O01686,C0317,2024-08-31,Electronics,Product 95,4,3151.6,0.15,UPI,Returned
+O01687,C0337,2025-04-20,fashion ,Product 74,2,3445.22,0.1,UPI,Completed
+O01688,C0369,2023-09-03,ELECTRONICS,Product 59,5,4873.13,0.05,Card,Returned
+O01689,C0134,2023-08-30, electronics ,Product 105,1,270.2,0.05,UPI,Completed
+O01690,C0015,2024-06-25,ELECTRONICS,Product 93,3,1408.67,0.15,COD,Cancelled
+O01691,C0233,2024-05-26,Fashion,Product 76,5,3589.32,0.1,COD,Returned
+O01692,C0224,2024-01-05,ELECTRONICS,Product 73,3,2413.72,0.1,Card,Cancelled
+O01693,C0033,2024-01-27,Fashion,Product 27,5,4539.13,0.05,UPI,Completed
+O01694,C0466,2023-01-23,Electronics,Product 74,3,1727.0,0.1,COD,Completed
+O01695,C0166,2024-02-13,ELECTRONICS,Product 74,3,1968.31,0.1,Card,Completed
+O01696,C0446,2023-09-03,ELECTRONICS,Product 18,1,1274.03,0.0,Card,Completed
+O01697,C0342,2025-04-13,ELECTRONICS,Product 84,4,2767.86,0.05,UPI,Completed
+O01698,C0454,2023-11-05,ELECTRONICS,Product 28,4,3620.13,0.0,Card,Returned
+O01699,C0054,2025-02-27,Home,Product 116,4,188.55,0.0,Card,Returned
+O01700,C0041,2023-05-26,ELECTRONICS,Product 94,3,2790.02,0.0,COD,Cancelled
+O01701,C0337,2024-01-07,ELECTRONICS,Product 95,3,4491.68,0.15,COD,Cancelled
+O01702,C0348,2024-11-27,Fashion,Product 7,3,650.9,0.05,COD,Completed
+O01703,C0449,2024-02-25,Home,Product 106,1,823.18,0.15,Card,Cancelled
+O01704,C0209,2024-02-14,,Product 25,2,2393.35,0.0,Card,Completed
+O01705,C0418,2024-10-06, electronics ,Product 105,1,2252.71,0.0,UPI,Cancelled
+O01706,C0019,2024-11-05,Electronics,Product 118,3,844.72,0.05,COD,Completed
+O01707,C0434,2023-11-24, electronics ,Product 16,1,2184.57,0.1,UPI,Returned
+O01708,C0271,2023-08-11,Home,Product 89,1,525.54,0.05,UPI,Completed
+O01709,C0364,2024-09-29, electronics ,Product 67,1,3900.27,0.05,COD,Completed
+O01710,C0439,2024-08-12,Fashion,Product 101,5,1306.04,0.05,COD,Cancelled
+O01711,C0110,2025-05-30, electronics ,Product 19,5,927.98,0.15,UPI,Returned
+O01712,C0090,2024-06-18,Electronics,Product 37,5,1881.59,0.15,COD,Returned
+O01713,C0217,2023-08-19,Fashion,Product 12,2,2585.65,0.0,Card,Cancelled
+O01714,C0024,2024-07-18,fashion ,Product 24,1,2006.54,0.15,UPI,Returned
+O01715,C0051,2023-07-24,Electronics,Product 63,2,710.94,0.15,UPI,Cancelled
+O01716,C0324,2024-07-25, electronics ,Product 91,5,539.24,0.15,COD,Returned
+O01717,C0441,2025-02-19,ELECTRONICS,Product 100,4,2072.43,0.05,Card,Cancelled
+O01718,C0494,2023-08-03, electronics ,Product 89,3,4914.11,0.05,UPI,Returned
+O01719,C0150,2023-04-19,ELECTRONICS,Product 20,-5,1795.92,0.05,COD,Returned
+O01720,C0194,2023-12-29, electronics ,Product 106,2,4453.3,0.1,UPI,Cancelled
+O01721,C0326,2023-09-06,Home,Product 62,1,4336.02,0.05,UPI,Returned
+O01722,C0407,2023-10-06,Fashion,Product 36,1,612.25,0.05,UPI,Cancelled
+O01723,C0396,2024-07-26,Electronics,Product 84,3,2852.25,0.05,UPI,Returned
+O01724,C0339,2024-01-30,Electronics,Product 66,1,3944.27,0.15,UPI,Returned
+O01725,C0375,2024-01-31,ELECTRONICS,Product 102,4,2433.11,0.1,Card,Cancelled
+O01726,C0338,2023-06-28,Electronics,Product 48,5,523.74,0.1,UPI,Completed
+O01727,C0220,2024-11-20,ELECTRONICS,Product 3,5,2890.92,0.0,COD,Returned
+O01728,C0231,2023-08-05,fashion ,Product 64,4,1852.99,0.05,UPI,Cancelled
+O01729,C0223,2023-01-19, electronics ,Product 86,1,173.05,0.15,UPI,Completed
+O01730,C0293,2023-03-17, electronics ,Product 97,1,3610.62,0.15,Card,Returned
+O01731,C0489,2024-02-20,fashion ,Product 61,5,1156.54,0.05,Card,Cancelled
+O01732,C0395,2025-03-28, electronics ,Product 17,4,2245.46,0.15,COD,Completed
+O01733,C0272,2024-12-13,fashion ,Product 80,4,2428.26,0.15,Card,Completed
+O01734,C0469,2024-12-02,Home,Product 89,2,1612.96,0.0,COD,Completed
+O01735,C0263,2023-07-12,Home,Product 93,4,3949.62,0.1,UPI,Completed
+O01736,C0036,2023-06-12,ELECTRONICS,Product 108,1,215.24,0.1,Card,Cancelled
+O01737,C0410,2024-07-30,ELECTRONICS,Product 62,3,133.75,0.0,UPI,Completed
+O01738,C0159,2024-04-20,fashion ,Product 86,4,3836.32,0.15,Card,Cancelled
+O01739,C0454,2024-04-05,Electronics,Product 54,5,4099.46,0.15,Card,Cancelled
+O01740,C0209,2023-12-05, electronics ,Product 46,1,1642.2,0.05,Card,Completed
+O01741,C0290,2024-01-31,Fashion,Product 79,1,1013.71,0.15,Card,Completed
+O01742,C0071,2024-08-02,fashion ,Product 90,1,1962.77,0.1,UPI,Completed
+O01743,C0189,2027-01-01,ELECTRONICS,Product 15,3,891.41,0.05,Card,Cancelled
+O01744,C0437,2023-08-29,ELECTRONICS,Product 79,2,1520.91,0.1,COD,Cancelled
+O01745,C0127,2024-02-28,ELECTRONICS,Product 43,3,3793.22,0.1,COD,Completed
+O01746,C0460,2025-03-15,ELECTRONICS,Product 79,3,694.43,0.05,COD,Completed
+O01747,C0295,2024-04-06,ELECTRONICS,Product 113,3,2108.6,0.0,COD,Returned
+O01748,C0169,2023-08-18,fashion ,Product 54,5,728.69,0.15,COD,Completed
+O01749,C0452,2024-06-29,fashion ,Product 75,5,4304.85,0.1,UPI,Completed
+O01750,C0390,2023-01-09,fashion ,Product 58,2,732.53,0.05,UPI,Cancelled
+O01751,C0266,2023-11-05,ELECTRONICS,Product 25,1,1506.62,0.15,Card,Cancelled
+O01752,C0065,2023-05-16,Electronics,Product 32,4,149.79,0.1,Card,Returned
+O01753,C0076,2024-01-26,Home,Product 79,4,1194.89,0.0,UPI,Completed
+O01754,C0376,2025-03-08,Fashion,Product 43,3,4306.51,0.1,COD,Returned
+O01755,C0322,2023-12-05,Home,Product 108,5,2409.63,0.0,COD,Cancelled
+O01756,C0036,2024-09-16,ELECTRONICS,Product 91,1,1866.43,0.1,UPI,Cancelled
+O01757,C0115,2023-08-15,fashion ,Product 71,3,1917.83,0.05,Card,Completed
+O01758,C0380,2023-06-11, electronics ,Product 5,2,4304.08,0.05,Card,Cancelled
+O01759,C0056,2024-02-21,Electronics,Product 39,3,1236.75,0.15,COD,Returned
+O01760,C0337,2024-12-10,Fashion,Product 101,4,4125.62,0.0,UPI,Returned
+O01761,C0144,2023-05-25,Fashion,Product 97,3,2954.58,0.0,UPI,Returned
+O01762,C0147,2024-05-13,Electronics,Product 60,1,1391.13,0.0,Card,Completed
+O01763,C0406,2023-08-22,ELECTRONICS,Product 7,3,900.51,0.1,Card,Cancelled
+O01764,C0447,2025-02-08, electronics ,Product 26,3,1085.11,0.05,COD,Completed
+O01765,C0294,2023-05-18,Electronics,Product 28,1,1101.61,0.0,UPI,Completed
+O01766,C0035,2024-02-23,Home,Product 89,2,701.99,0.15,Card,Cancelled
+O01767,C0245,2024-03-13,fashion ,Product 79,1,1802.13,0.1,UPI,Returned
+O01768,C0029,2024-10-19,Electronics,Product 116,1,947.9,0.05,COD,Returned
+O01769,C0121,2025-04-15,Electronics,Product 28,5,1427.18,0.05,UPI,Completed
+O01770,C0410,2023-03-11,fashion ,Product 104,5,3732.85,0.0,UPI,Cancelled
+O01771,C0150,2024-11-08,Electronics,Product 113,2,1929.17,0.15,COD,Cancelled
+O01772,C0398,2024-07-13,Electronics,Product 107,3,4594.99,0.15,Card,Cancelled
+O01773,C0480,2025-03-16, electronics ,Product 119,4,1392.18,0.15,Card,Returned
+O01774,C0079,2025-06-12,Home,Product 61,5,3181.72,0.1,COD,Completed
+O01775,C0490,2024-09-05,fashion ,Product 101,2,3471.65,0.15,Card,Returned
+O01776,C0076,2024-06-03, electronics ,Product 63,3,1320.61,0.05,Card,Returned
+O01777,C0045,2023-04-13,Electronics,Product 16,1,2701.49,0.0,UPI,Returned
+O01778,C0471,2024-07-20,Home,Product 79,3,344.98,0.0,Card,Completed
+O01779,C0478,2023-02-06, electronics ,Product 77,4,840.15,0.0,COD,Returned
+O01780,C0163,2023-12-30,Home,Product 114,5,4497.26,0.0,Card,Completed
+O01781,C0384,2024-05-19,ELECTRONICS,Product 32,2,1179.53,0.15,UPI,Completed
+O01782,C0058,2023-10-24,Fashion,Product 23,1,1946.73,0.1,COD,Cancelled
+O01783,C0099,2024-01-27, electronics ,Product 95,5,3706.11,0.05,UPI,Cancelled
+O01784,C0010,2025-06-17,ELECTRONICS,Product 65,3,4219.03,0.15,COD,Returned
+O01785,C0011,2023-01-13, electronics ,Product 2,5,4314.89,0.15,COD,Returned
+O01786,C0098,2025-02-23,Home,Product 58,3,2534.49,0.05,Card,Cancelled
+O01787,C0163,2025-06-17,Fashion,Product 30,2,1413.24,0.15,Card,Cancelled
+O01788,C0291,2023-06-13, electronics ,Product 3,3,2149.97,0.15,Card,Returned
+O01789,C0335,2024-09-11,ELECTRONICS,Product 74,1,3653.13,0.05,UPI,Returned
+O01790,C0489,2023-11-27,Fashion,Product 28,3,306.0,0.1,Card,Returned
+O01791,C0343,2024-03-22,Home,Product 104,5,855.43,0.15,UPI,Returned
+O01792,C0194,2023-07-04,Electronics,Product 43,3,3349.9,0.0,COD,Returned
+O01793,C0055,2023-07-19, electronics ,Product 84,5,2737.72,0.0,UPI,Cancelled
+O01794,C0439,2025-05-21, electronics ,Product 9,5,4112.72,0.0,UPI,Completed
+O01795,C0191,2023-06-27,Home,Product 38,1,2605.67,0.0,COD,Cancelled
+O01796,C0275,2024-03-21,Fashion,Product 52,5,1559.98,0.0,UPI,Returned
+O01797,C0030,2023-09-26,Fashion,Product 40,1,4945.23,0.05,COD,Completed
+O01798,C0258,2023-07-01,Fashion,Product 57,1,3227.58,0.15,UPI,Cancelled
+O01799,C0327,2025-01-24,Fashion,Product 37,5,4734.08,0.15,COD,Cancelled
+O01800,C0152,2025-01-11,Home,Product 24,1,647.79,0.05,COD,Cancelled
+O01801,C0157,2023-07-17,Home,Product 9,2,322.81,0.05,COD,Cancelled
+O01802,C0249,2023-04-26,fashion ,Product 118,5,4411.88,0.0,UPI,Cancelled
+O01803,C0302,2025-04-25,fashion ,Product 77,5,4886.14,0.1,COD,Returned
+O01804,C0102,2023-06-14,Electronics,Product 95,5,2792.81,0.0,UPI,Cancelled
+O01805,C0087,2025-01-25,Home,Product 1,4,405.7,0.1,UPI,Returned
+O01806,C0097,2023-07-18,Electronics,Product 1,2,1676.65,0.0,Card,Completed
+O01807,C0282,2024-06-26,Home,Product 1,3,4683.06,0.05,Card,Returned
+O01808,C0032,2024-08-01,Electronics,Product 58,2,2050.73,0.15,UPI,Cancelled
+O01809,C0433,2025-05-28,fashion ,Product 114,4,1113.36,0.15,COD,Completed
+O01810,C0043,2024-02-22,fashion ,Product 44,2,3211.5,0.15,UPI,Cancelled
+O01811,C0495,2024-03-20,Electronics,Product 1,4,4868.42,0.05,UPI,Returned
+O01812,C0368,2023-07-25,fashion ,Product 20,5,585.83,0.05,Card,Completed
+O01813,C0271,2025-01-15,Fashion,Product 42,4,3570.41,0.0,Card,Cancelled
+O01814,C0387,2024-10-28,Home,Product 93,4,1914.15,0.05,UPI,Returned
+O01815,C0137,2025-05-26, electronics ,Product 99,5,467.8,0.05,Card,Returned
+O01816,C0258,2023-04-30,Home,Product 15,4,1826.48,0.15,COD,Returned
+O01817,C0255,2023-11-03, electronics ,Product 95,2,3410.23,0.05,COD,Cancelled
+O01818,C0197,2025-04-21, electronics ,Product 79,4,4362.4,0.0,UPI,Cancelled
+O01819,C0290,2024-09-23, electronics ,Product 44,4,1698.14,0.1,COD,Cancelled
+O01820,C0070,2025-01-25,fashion ,Product 111,1,3078.37,0.15,Card,Returned
+O01821,C0303,2024-09-24,ELECTRONICS,Product 9,4,3845.9,0.15,Card,Completed
+O01822,C0158,2025-03-11,,Product 88,-5,2540.35,0.1,COD,Returned
+O01823,C0261,2023-10-10, electronics ,Product 103,5,3080.49,0.1,UPI,Cancelled
+O01824,C0484,2025-05-09,Home,Product 44,4,1110.66,0.0,Card,Cancelled
+O01825,C0006,2023-09-29,fashion ,Product 22,5,3348.12,0.15,UPI,Cancelled
+O01826,C0072,2023-02-02,Fashion,Product 6,2,2043.87,0.1,COD,Returned
+O01827,C0274,2024-07-11,ELECTRONICS,Product 46,-1,2648.41,0.05,UPI,Returned
+O01828,C0412,2023-07-14,Electronics,Product 43,5,2464.09,0.05,COD,Returned
+O01829,C0055,2025-05-25,fashion ,Product 45,4,2138.37,0.05,UPI,Completed
+O01830,C0109,2023-01-14,Electronics,Product 87,4,1790.08,0.15,COD,Cancelled
+O01831,C0183,2025-06-09,Home,Product 27,1,184.71,0.1,Card,Cancelled
+O01832,C0423,2025-02-24,Fashion,Product 70,1,3358.34,0.1,Card,Cancelled
+O01833,C0370,2025-02-18,Electronics,Product 84,5,679.74,0.15,UPI,Cancelled
+O01834,C0219,2024-10-08,ELECTRONICS,Product 114,1,3470.87,0.0,UPI,Cancelled
+O01835,C0305,2023-09-16,Electronics,Product 51,3,2471.35,0.1,Card,Returned
+O01836,C0482,2024-01-19,Electronics,Product 49,4,794.64,0.05,UPI,Cancelled
+O01837,C0071,2024-03-22,ELECTRONICS,Product 120,3,2184.8,0.05,UPI,Completed
+O01838,C0478,2023-12-06,Home,Product 83,1,3333.54,0.15,UPI,Cancelled
+O01839,C0148,2024-02-03,Home,Product 101,4,1695.83,0.05,COD,Cancelled
+O01840,C0119,2025-05-18,fashion ,Product 29,3,1631.45,0.15,UPI,Completed
+O01841,C0086,2023-12-23,Home,Product 107,3,4323.08,0.0,UPI,Returned
+O01842,C0047,2024-11-05,Electronics,Product 119,2,3613.94,0.15,UPI,Returned
+O01843,C0218,2024-04-19,ELECTRONICS,Product 69,2,3248.44,0.05,COD,Cancelled
+O01844,C0167,2024-11-22, electronics ,Product 24,5,2963.83,0.1,UPI,Returned
+O01845,C0208,2025-05-29,Electronics,Product 65,3,1705.69,0.1,COD,Completed
+O01846,C0271,2023-12-11,Home,Product 7,4,1880.04,0.0,Card,Cancelled
+O01847,C0188,2024-04-27,Home,Product 28,4,1847.45,0.05,Card,Cancelled
+O01848,C0058,2025-05-23,Fashion,Product 16,5,1846.39,0.1,COD,Returned
+O01849,C0309,2023-10-24, electronics ,Product 5,4,1733.51,0.15,COD,Returned
+O01850,C0216,2023-05-08,Electronics,Product 112,1,3958.82,0.05,UPI,Returned
+O01851,C0020,2023-07-06,fashion ,Product 61,5,2579.54,0.05,COD,Completed
+O01852,C0101,2024-05-06,Electronics,Product 37,3,4153.33,0.15,UPI,Cancelled
+O01853,C0157,2023-05-06,Fashion,Product 42,1,4175.49,0.05,Card,Returned
+O01854,C0026,2025-04-05,Electronics,Product 66,2,2866.17,0.0,Card,Cancelled
+O01855,C0255,2023-10-13,Electronics,Product 95,4,2448.03,0.15,UPI,Returned
+O01856,C0115,2023-03-08, electronics ,Product 105,4,2040.66,0.1,Card,Returned
+O01857,C0301,2023-12-16,fashion ,Product 75,4,3972.45,0.0,UPI,Completed
+O01858,C0296,2023-12-15,Electronics,Product 69,5,4539.01,0.1,UPI,Completed
+O01859,C0149,2024-02-24,ELECTRONICS,Product 22,1,3287.7,0.15,Card,Returned
+O01860,C0481,2023-11-01,Home,Product 79,5,3648.57,0.1,Card,Completed
+O01861,C0456,2024-01-15,Fashion,Product 43,5,3212.04,0.1,COD,Completed
+O01862,C0092,2025-05-12, electronics ,Product 10,5,2261.43,0.15,COD,Returned
+O01863,C0430,2024-11-09,Electronics,Product 105,5,774.53,0.05,COD,Returned
+O01864,C0169,2024-04-18,fashion ,Product 68,4,1566.32,0.1,Card,Completed
+O01865,C0390,2023-07-31, electronics ,Product 67,3,4975.08,0.0,UPI,Completed
+O01866,C0175,2023-08-03,Fashion,Product 109,2,2728.24,0.0,COD,Completed
+O01867,C0041,2024-05-18,ELECTRONICS,Product 118,5,1749.14,0.0,UPI,Returned
+O01868,C0369,2025-06-06,fashion ,Product 81,5,4245.02,0.0,Card,Cancelled
+O01869,C0442,2023-11-20,Fashion,Product 119,5,2172.5,0.05,UPI,Cancelled
+O01870,C0259,2024-11-03,fashion ,Product 97,1,201.27,0.15,COD,Completed
+O01871,C0383,2024-11-20,Home,Product 16,3,697.12,0.05,COD,Completed
+O01872,C0437,2025-05-28,fashion ,Product 61,1,1606.13,0.1,Card,Completed
+O01873,C0354,2023-02-13,fashion ,Product 42,2,4149.12,0.0,COD,Returned
+O01874,C0070,2023-12-02,ELECTRONICS,Product 28,1,3601.7,0.05,Card,Completed
+O01875,C0255,2025-03-25, electronics ,Product 49,3,3811.88,0.05,Card,Completed
+O01876,C0206,2024-06-05,fashion ,Product 32,2,1124.03,0.05,COD,Completed
+O01877,C0448,2024-07-11,Fashion,Product 12,1,1896.92,0.1,Card,Returned
+O01878,C0421,2023-12-09,Fashion,Product 31,2,2965.44,0.05,Card,Cancelled
+O01879,C0490,2023-10-25,Home,Product 79,1,308.68,0.05,COD,Completed
+O01880,C0082,2024-04-12,fashion ,Product 77,4,2166.94,0.15,Card,Completed
+O01881,C0043,2023-10-30,Fashion,Product 104,3,1348.95,0.0,COD,Returned
+O01882,C0357,2023-04-18,Fashion,Product 42,4,3209.57,0.05,Card,Returned
+O01883,C0192,2023-09-29,Electronics,Product 5,3,1025.66,0.0,UPI,Cancelled
+O01884,C0107,2023-05-27,Fashion,Product 18,-2,4674.77,0.0,Card,Returned
+O01885,C0387,2024-04-09,fashion ,Product 30,3,3000.69,0.05,UPI,Returned
+O01886,C0206,2023-02-15,ELECTRONICS,Product 89,4,3805.24,0.0,COD,Completed
+O01887,C0481,2025-02-20,fashion ,Product 66,2,2326.29,0.1,Card,Cancelled
+O01888,C0393,2023-08-31,ELECTRONICS,Product 69,1,3768.22,0.15,UPI,Cancelled
+O01889,C0496,2023-07-21,Fashion,Product 104,1,2808.7,0.0,UPI,Cancelled
+O01890,C0104,2025-02-23,ELECTRONICS,Product 27,3,2994.17,0.0,COD,Cancelled
+O01891,C0184,2024-03-29,fashion ,Product 29,2,3688.26,0.05,Card,Cancelled
+O01892,C0120,2025-04-29,Home,Product 2,4,3064.71,0.0,Card,Completed
+O01893,C0012,2025-06-13, electronics ,Product 70,5,725.81,0.05,Card,Cancelled
+O01894,C0434,2023-09-26, electronics ,Product 111,2,4362.46,0.0,COD,Completed
+O01895,C0389,2027-01-01,ELECTRONICS,Product 9,3,196.43,0.15,COD,Returned
+O01896,C0191,2023-08-09, electronics ,Product 108,3,2799.11,0.0,UPI,Returned
+O01897,C0325,2023-11-13, electronics ,Product 19,4,3778.2,0.15,UPI,Returned
+O01898,C0131,2025-02-01,fashion ,Product 53,5,1102.96,0.05,Card,Completed
+O01899,C0149,2025-03-23,Electronics,Product 34,4,4178.67,0.05,UPI,Cancelled
+O01900,C0019,2025-04-28, electronics ,Product 40,1,1974.6,0.15,UPI,Returned
+O01901,C0280,2024-05-01,Fashion,Product 58,4,3502.85,0.05,UPI,Completed
+O01902,C0122,2023-12-10,Fashion,Product 115,1,4032.68,0.05,UPI,Returned
+O01903,C0006,2024-07-10,ELECTRONICS,Product 60,3,2431.4,0.1,UPI,Completed
+O01904,C0409,2023-05-20,fashion ,Product 2,1,227.38,0.15,UPI,Returned
+O01905,C0336,2025-02-09,Fashion,Product 22,4,885.21,0.0,UPI,Returned
+O01906,C0453,2025-01-31,Electronics,Product 84,4,2010.25,0.05,UPI,Completed
+O01907,C0473,2023-09-17,Home,Product 100,1,1468.71,0.15,UPI,Cancelled
+O01908,C0494,2024-07-14,Electronics,Product 61,1,4187.75,0.15,Card,Cancelled
+O01909,C0389,2023-05-29,ELECTRONICS,Product 38,2,4298.46,0.05,UPI,Cancelled
+O01910,C0176,2024-02-11, electronics ,Product 28,2,4565.71,0.1,UPI,Completed
+O01911,C0229,2023-11-09,Fashion,Product 114,1,983.44,0.0,UPI,Returned
+O01912,C0049,2024-10-02, electronics ,Product 119,2,739.69,0.15,UPI,Returned
+O01913,C0013,2023-11-04,Home,Product 18,4,1424.71,0.1,COD,Cancelled
+O01914,C0068,2023-04-25,Electronics,Product 14,5,2917.37,0.0,Card,Returned
+O01915,C0221,2023-04-04,fashion ,Product 113,5,2082.56,0.1,COD,Returned
+O01916,C0220,2023-09-19,fashion ,Product 87,5,2164.37,0.05,Card,Cancelled
+O01917,C0160,2024-05-27,Fashion,Product 34,1,215.81,0.05,Card,Returned
+O01918,C0017,2024-08-01,Fashion,Product 38,5,3136.59,0.05,UPI,Cancelled
+O01919,C0372,2024-02-18,fashion ,Product 120,3,4137.01,0.05,Card,Returned
+O01920,C0118,2025-03-15,ELECTRONICS,Product 70,2,1418.18,0.15,Card,Cancelled
+O01921,C0495,2023-05-01,fashion ,Product 53,1,1660.95,0.15,UPI,Completed
+O01922,C0373,2023-06-20,Fashion,Product 88,1,4700.12,0.05,UPI,Cancelled
+O01923,C0002,2023-08-02,Electronics,Product 3,-3,189.05,0.15,UPI,Cancelled
+O01924,C0003,2024-08-30,Electronics,Product 67,4,2653.35,0.0,UPI,Cancelled
+O01925,C0489,2023-01-03,Electronics,Product 50,1,2881.82,0.05,UPI,Completed
+O01926,C0298,2024-04-12,Home,Product 69,4,4730.85,0.15,COD,Returned
+O01927,C0376,2023-01-10,ELECTRONICS,Product 39,5,2762.3,0.0,COD,Cancelled
+O01928,C0026,2024-02-02,Electronics,Product 118,4,3023.95,0.1,COD,Completed
+O01929,C0126,2023-04-10,Fashion,Product 11,2,4654.89,0.0,Card,Completed
+O01930,C0169,2024-01-14,fashion ,Product 19,5,3820.22,0.1,UPI,Completed
+O01931,C0007,2025-04-04,Electronics,Product 47,2,1096.92,0.05,Card,Cancelled
+O01932,C0295,2023-11-26,fashion ,Product 77,4,1326.88,0.1,Card,Cancelled
+O01933,C0282,2023-02-24, electronics ,Product 35,4,4418.05,0.0,UPI,Returned
+O01934,C0472,2024-12-06, electronics ,Product 84,5,1190.21,0.15,COD,Cancelled
+O01935,C0272,2024-02-05,ELECTRONICS,Product 65,1,4447.49,0.15,Card,Returned
+O01936,C0468,2024-04-23,ELECTRONICS,Product 82,3,4857.6,0.15,Card,Completed
+O01937,C0151,2024-04-10,Electronics,Product 21,2,3136.8,0.05,COD,Returned
+O01938,C0481,2023-04-29,Electronics,Product 81,3,965.78,0.1,Card,Returned
+O01939,C0059,2025-06-06,Electronics,Product 8,1,2376.78,0.05,UPI,Completed
+O01940,C0066,2023-01-25,fashion ,Product 32,3,2659.62,0.15,UPI,Completed
+O01941,C0103,2025-02-02, electronics ,Product 73,1,3701.54,0.15,UPI,Cancelled
+O01942,C0485,2024-11-01,fashion ,Product 92,1,1933.88,0.15,COD,Cancelled
+O01943,C0396,2023-08-18,Home,Product 117,4,4870.41,0.1,Card,Cancelled
+O01944,C0458,2023-11-09, electronics ,Product 57,1,2152.91,0.05,COD,Cancelled
+O01945,C0046,2023-01-26,ELECTRONICS,Product 31,4,133.53,0.15,COD,Returned
+O01946,C0077,2023-11-13,ELECTRONICS,Product 31,2,1813.64,0.15,UPI,Cancelled
+O01947,C0388,2023-06-17,Electronics,Product 96,4,3429.01,0.15,COD,Completed
+O01948,C0434,2023-01-04,Fashion,Product 91,4,4065.28,0.1,COD,Cancelled
+O01949,C0490,2023-10-10,fashion ,Product 113,2,2265.46,0.15,COD,Cancelled
+O01950,C0151,2023-10-04,Fashion,Product 60,5,4166.36,0.05,COD,Completed
+O01951,C0478,2023-02-07,Electronics,Product 104,2,2600.27,0.15,Card,Completed
+O01952,C0108,2025-06-03,ELECTRONICS,Product 7,2,1605.47,0.15,COD,Cancelled
+O01953,C0173,2023-04-24,Home,Product 56,5,4233.04,0.1,UPI,Cancelled
+O01954,C0205,2023-06-26,Home,Product 89,3,1454.42,0.1,COD,Completed
+O01955,C0397,2024-12-28, electronics ,Product 70,1,2797.11,0.05,Card,Completed
+O01956,C0116,2024-03-15,ELECTRONICS,Product 87,1,2975.12,0.1,COD,Returned
+O01957,C0301,2024-06-24,Fashion,Product 69,2,213.68,0.15,Card,Cancelled
+O01958,C0023,2023-04-11, electronics ,Product 12,1,888.89,0.1,Card,Completed
+O01959,C0442,2025-01-13,Electronics,Product 16,3,3570.34,0.0,Card,Returned
+O01960,C0255,2025-04-23, electronics ,Product 13,5,3596.3,0.15,UPI,Completed
+O01961,C0305,2024-12-16,Fashion,Product 71,2,4157.55,0.0,UPI,Completed
+O01962,C0471,2023-01-14,Fashion,Product 105,3,672.2,0.0,COD,Cancelled
+O01963,C0285,2024-04-22,Fashion,Product 6,1,3925.3,0.0,COD,Cancelled
+O01964,C0316,2023-12-30,Electronics,Product 93,2,2585.9,0.0,COD,Returned
+O01965,C0269,2024-10-13,ELECTRONICS,Product 112,3,1886.83,0.0,COD,Completed
+O01966,C0173,2024-03-24,fashion ,Product 22,1,3560.23,0.0,Card,Completed
+O01967,C0268,2025-06-07,Home,Product 1,5,2411.2,0.15,COD,Completed
+O01968,C0015,2024-03-01,fashion ,Product 89,2,2608.73,0.15,UPI,Completed
+O01969,C0325,2025-06-19,Fashion,Product 33,2,2457.5,0.0,COD,Completed
+O01970,C0450,2023-08-21,Fashion,Product 72,4,4330.13,0.0,UPI,Cancelled
+O01971,C0188,2025-01-10,ELECTRONICS,Product 60,-5,4348.94,0.0,UPI,Completed
+O01972,C0394,2023-10-28, electronics ,Product 28,3,4394.06,0.05,UPI,Completed
+O01973,C0309,2025-03-19,Home,Product 98,4,1973.89,0.1,Card,Cancelled
+O01974,C0227,2023-01-21,Home,Product 88,4,1846.89,0.15,COD,Returned
+O01975,C0477,2025-05-20,ELECTRONICS,Product 90,1,3767.98,0.05,UPI,Cancelled
+O01976,C0153,2025-05-08, electronics ,Product 50,1,456.23,0.15,UPI,Completed
+O01977,C0393,2025-04-12,,Product 115,2,3930.67,0.1,UPI,Returned
+O01978,C0071,2025-06-05,ELECTRONICS,Product 70,1,4290.87,0.0,UPI,Completed
+O01979,C0308,2023-04-20,Electronics,Product 105,1,175.8,0.05,UPI,Completed
+O01980,C0369,2023-03-14,ELECTRONICS,Product 98,1,4056.96,0.15,COD,Cancelled
+O01981,C0445,2023-09-08,fashion ,Product 111,4,1716.97,0.1,COD,Completed
+O01982,C0451,2023-01-18,ELECTRONICS,Product 117,-1,2543.48,0.1,UPI,Cancelled
+O01983,C0439,2024-08-22,Electronics,Product 41,5,2415.05,0.1,Card,Returned
+O01984,C0230,2025-02-27,Fashion,Product 43,1,4055.18,0.05,UPI,Returned
+O01985,C0175,2024-05-24,ELECTRONICS,Product 34,3,858.35,0.0,COD,Returned
+O01986,C0079,2025-01-21,ELECTRONICS,Product 101,4,1534.32,0.1,Card,Cancelled
+O01987,C0227,2023-02-07,Electronics,Product 4,4,2357.39,0.0,COD,Cancelled
+O01988,C0334,2025-04-04,Fashion,Product 69,1,4975.05,0.05,Card,Returned
+O01989,C0117,2024-05-13,fashion ,Product 3,1,3903.95,0.15,Card,Completed
+O01990,C0344,2023-11-29, electronics ,Product 50,3,344.07,0.05,Card,Cancelled
+O01991,C0458,2024-02-17,Fashion,Product 24,4,2819.5,0.1,UPI,Cancelled
+O01992,C0335,2023-05-20,Fashion,Product 88,4,1113.68,0.15,UPI,Returned
+O01993,C0496,2023-08-02,Fashion,Product 61,2,2146.09,0.05,Card,Returned
+O01994,C0259,2024-06-25,Fashion,Product 78,2,355.38,0.0,Card,Returned
+O01995,C0091,2024-08-28,Electronics,Product 89,5,1739.58,0.1,UPI,Cancelled
+O01996,C0484,2023-01-27,fashion ,Product 99,1,809.47,0.05,COD,Cancelled
+O01997,C0231,2023-12-02,Fashion,Product 33,1,3904.91,0.1,UPI,Returned
+O01998,C0257,2023-03-01,fashion ,Product 113,3,2370.53,0.1,Card,Cancelled
+O01999,C0442,2023-03-20,Electronics,Product 31,2,4172.75,0.1,UPI,Completed
+O02000,C0067,2024-02-17,Fashion,Product 94,4,1110.59,0.0,COD,Completed
+O02001,C0055,2023-05-31,Electronics,Product 107,2,2377.46,0.1,COD,Cancelled
+O02002,C0085,2024-05-18,Electronics,Product 100,4,1543.19,0.1,UPI,Cancelled
+O02003,C0120,2024-02-18,Electronics,Product 48,3,961.03,0.0,Card,Returned
+O02004,C0096,2025-05-27,Electronics,Product 116,1,982.9,0.15,COD,Returned
+O02005,C0204,2023-09-30,ELECTRONICS,Product 64,1,4161.24,0.0,Card,Returned
+O02006,C0455,2024-04-06,Electronics,Product 118,1,1158.58,0.0,Card,Completed
+O02007,C0351,2023-02-10,Electronics,Product 5,4,1526.91,0.05,UPI,Completed
+O02008,C0144,2023-07-07,Fashion,Product 74,4,1197.0,0.0,Card,Completed
+O02009,C0124,2024-03-30,fashion ,Product 1,5,2745.66,0.0,COD,Cancelled
+O02010,C0316,2023-06-10,,Product 79,3,4106.36,0.1,UPI,Returned
+O02011,C0237,2024-09-11,Home,Product 21,5,4957.4,0.15,UPI,Returned
+O02012,C0199,2024-08-09, electronics ,Product 45,1,3295.87,0.1,COD,Cancelled
+O02013,C0232,2024-03-16,Fashion,Product 83,1,1722.53,0.05,Card,Completed
+O02014,C0302,2023-12-31,Fashion,Product 34,5,3154.8,0.1,UPI,Cancelled
+O02015,C0418,2024-07-13,Electronics,Product 54,1,3766.1,0.1,Card,Completed
+O02016,C0473,2023-01-11,Electronics,Product 73,2,4803.17,0.05,COD,Completed
+O02017,C0398,2023-03-21,ELECTRONICS,Product 113,2,4087.86,0.0,Card,Cancelled
+O02018,C0089,2023-02-05, electronics ,Product 45,5,4789.88,0.05,UPI,Completed
+O02019,C0021,2023-09-08, electronics ,Product 104,1,1933.77,0.1,Card,Completed
+O02020,C0173,2025-01-16,ELECTRONICS,Product 43,1,4001.45,0.0,UPI,Cancelled
+O02021,C0146,2024-07-21,Home,Product 101,5,1119.94,0.05,UPI,Completed
+O02022,C0084,2023-09-10,fashion ,Product 55,2,748.09,0.0,Card,Returned
+O02023,C0426,2023-08-25,ELECTRONICS,Product 97,5,1424.09,0.05,COD,Completed
+O02024,C0161,2025-02-08,fashion ,Product 77,4,3112.46,0.0,UPI,Completed
+O02025,C0247,2024-02-16,Fashion,Product 40,2,2981.19,0.1,UPI,Completed
+O02026,C0138,2024-09-01,Home,Product 12,1,2875.15,0.15,Card,Returned
+O02027,C0039,2023-07-05,Home,Product 30,1,589.39,0.1,UPI,Returned
+O02028,C0141,2024-03-09,Fashion,Product 41,4,840.61,0.15,Card,Cancelled
+O02029,C0456,2023-05-26,fashion ,Product 55,1,690.28,0.05,UPI,Completed
+O02030,C0273,2024-11-06,ELECTRONICS,Product 41,5,4385.34,0.1,UPI,Completed
+O02031,C0118,2023-03-06,ELECTRONICS,Product 46,2,148.67,0.0,Card,Completed
+O02032,C0122,2024-10-17,Home,Product 108,2,341.91,0.15,Card,Returned
+O02033,C0499,2023-09-25, electronics ,Product 48,4,3492.88,0.1,UPI,Completed
+O02034,C0131,2023-08-30,Home,Product 103,1,3409.49,0.0,COD,Completed
+O02035,C0022,2024-07-09,Fashion,Product 64,1,3206.83,0.05,UPI,Completed
+O02036,C0049,2024-07-25,ELECTRONICS,Product 112,2,3125.8,0.0,UPI,Cancelled
+O02037,C0222,2024-11-12,ELECTRONICS,Product 8,4,4428.76,0.1,COD,Returned
+O02038,C0379,2024-06-27,fashion ,Product 22,3,4866.04,0.1,COD,Cancelled
+O02039,C0379,2025-03-18,fashion ,Product 35,4,2049.7,0.05,COD,Returned
+O02040,C0327,2023-08-10,ELECTRONICS,Product 95,2,1928.84,0.15,UPI,Returned
+O02041,C0387,2025-06-09,Electronics,Product 69,2,998.42,0.15,UPI,Cancelled
+O02042,C0390,2024-02-26,ELECTRONICS,Product 113,4,983.37,0.0,UPI,Completed
+O02043,C0292,2023-10-08,fashion ,Product 23,2,3010.71,0.0,COD,Returned
+O02044,C0021,2025-05-01, electronics ,Product 53,4,2052.66,0.1,Card,Completed
+O02045,C0245,2023-07-18,ELECTRONICS,Product 83,5,292.76,0.05,COD,Completed
+O02046,C0126,2023-03-28,ELECTRONICS,Product 98,1,1083.88,0.05,UPI,Completed
+O02047,C0304,2023-04-06, electronics ,Product 49,3,4275.67,0.0,Card,Completed
+O02048,C0165,2024-05-12,Fashion,Product 36,5,2061.14,0.15,UPI,Cancelled
+O02049,C0363,2024-02-05,fashion ,Product 92,4,4703.03,0.0,UPI,Returned
+O02050,C0217,2023-06-27,Electronics,Product 57,3,4148.2,0.05,UPI,Returned
+O02051,C0403,2025-06-07,Fashion,Product 15,1,160.91,0.1,Card,Returned
+O02052,C0103,2023-11-03,Home,Product 13,1,2006.54,0.1,Card,Completed
+O02053,C0459,2024-04-20,Fashion,Product 67,2,1873.86,0.15,UPI,Cancelled
+O02054,C0320,2024-09-10,Electronics,Product 105,2,1459.47,0.15,UPI,Cancelled
+O02055,C0226,2023-04-13,Electronics,Product 12,3,4195.88,0.15,COD,Returned
+O02056,C0022,2023-11-03, electronics ,Product 37,5,2845.77,0.15,Card,Cancelled
+O02057,C0138,2024-05-23,,Product 55,3,3926.43,0.05,COD,Cancelled
+O02058,C0006,2024-08-06, electronics ,Product 46,5,4383.32,0.1,COD,Completed
+O02059,C0291,2023-05-21,Electronics,Product 36,4,3472.25,0.05,UPI,Returned
+O02060,C0007,2023-09-30,Electronics,Product 77,4,1760.63,0.1,COD,Cancelled
+O02061,C0201,2023-10-02,Home,Product 36,4,1248.83,0.0,UPI,Returned
+O02062,C0219,2023-03-21,Electronics,Product 40,2,2494.77,0.15,COD,Completed
+O02063,C0268,2024-06-01,ELECTRONICS,Product 36,3,1140.17,0.0,Card,Returned
+O02064,C0334,2025-02-09,ELECTRONICS,Product 113,4,2136.63,0.15,Card,Completed
+O02065,C0415,2024-02-18,Electronics,Product 48,4,3329.7,0.0,COD,Cancelled
+O02066,C0031,2024-08-07, electronics ,Product 58,5,2429.35,0.05,COD,Completed
+O02067,C0358,2023-11-12,Fashion,Product 84,1,4222.16,0.15,UPI,Cancelled
+O02068,C0018,2025-02-09,ELECTRONICS,Product 116,2,278.87,0.05,Card,Cancelled
+O02069,C0203,2023-09-09,Fashion,Product 83,4,2256.15,0.05,UPI,Cancelled
+O02070,C0070,2023-05-04, electronics ,Product 95,4,998.71,0.15,Card,Returned
+O02071,C0263,2024-09-21,Fashion,Product 66,3,3270.51,0.15,Card,Completed
+O02072,C0424,2024-11-23,Electronics,Product 50,5,2406.57,0.05,COD,Cancelled
+O02073,C0264,2025-04-12,Home,Product 80,2,4355.44,0.15,Card,Completed
+O02074,C0012,2024-10-14,Home,Product 82,3,1583.15,0.05,UPI,Completed
+O02075,C0217,2024-10-25,Home,Product 98,4,480.97,0.15,COD,Returned
+O02076,C0430,2024-02-05,Electronics,Product 98,4,441.67,0.05,COD,Returned
+O02077,C0091,2025-04-09,fashion ,Product 108,1,3116.98,0.05,Card,Completed
+O02078,C0453,2024-12-20, electronics ,Product 99,5,4040.99,0.15,UPI,Cancelled
+O02079,C0313,2025-04-22,ELECTRONICS,Product 22,1,2085.6,0.1,UPI,Completed
+O02080,C0489,2024-08-28,Home,Product 31,2,4865.13,0.0,COD,Completed
+O02081,C0010,2024-10-17,Electronics,Product 37,3,1858.08,0.15,Card,Completed
+O02082,C0420,2023-03-07,fashion ,Product 57,4,1030.27,0.1,Card,Returned
+O02083,C0468,2023-10-06,fashion ,Product 96,5,3901.29,0.05,UPI,Returned
+O02084,C0380,2024-12-11,Electronics,Product 60,2,3650.93,0.0,Card,Cancelled
+O02085,C0193,2023-01-06,Home,Product 35,5,3350.29,0.0,Card,Returned
+O02086,C0472,2025-02-12,Electronics,Product 14,5,1960.11,0.1,COD,Returned
+O02087,C0169,2024-10-31,Electronics,Product 26,2,4703.46,0.0,UPI,Cancelled
+O02088,C0153,2023-06-09,Electronics,Product 58,1,4411.19,0.05,UPI,Returned
+O02089,C0493,2024-10-17,Electronics,Product 59,5,880.74,0.05,COD,Completed
+O02090,C0446,2024-07-17,ELECTRONICS,Product 107,5,1565.82,0.1,UPI,Returned
+O02091,C0297,2024-06-12,ELECTRONICS,Product 73,1,1000.87,0.15,COD,Cancelled
+O02092,C0480,2027-01-01,fashion ,Product 88,1,650.43,0.15,UPI,Completed
+O02093,C0017,2023-05-16,fashion ,Product 18,4,4219.29,0.05,COD,Completed
+O02094,C0473,2025-02-14,Fashion,Product 25,4,3395.34,0.1,Card,Cancelled
+O02095,C0334,2024-09-01, electronics ,Product 83,2,1340.1,0.15,UPI,Completed
+O02096,C0339,2025-02-03,Home,Product 19,-2,1561.46,0.1,UPI,Cancelled
+O02097,C0080,2023-04-03, electronics ,Product 59,-5,1884.74,0.0,UPI,Returned
+O02098,C0475,2024-02-19,Home,Product 8,3,1324.64,0.15,COD,Cancelled
+O02099,C0193,2025-02-11,ELECTRONICS,Product 18,1,4237.86,0.1,UPI,Cancelled
+O02100,C0257,2025-02-21,Electronics,Product 90,3,2710.66,0.15,Card,Cancelled
+O02101,C0360,2025-06-13,ELECTRONICS,Product 108,1,4398.19,0.05,UPI,Cancelled
+O02102,C0190,2024-05-25,ELECTRONICS,Product 92,5,2060.32,0.05,UPI,Completed
+O02103,C0238,2024-01-26,fashion ,Product 100,2,3162.15,0.15,Card,Returned
+O02104,C0419,2024-08-18,Fashion,Product 117,1,4291.07,0.05,UPI,Returned
+O02105,C0199,2023-07-10, electronics ,Product 22,1,4810.11,0.05,UPI,Cancelled
+O02106,C0292,2024-04-09,fashion ,Product 53,4,966.91,0.1,Card,Returned
+O02107,C0080,2024-09-07,fashion ,Product 118,5,3712.46,0.05,UPI,Cancelled
+O02108,C0285,2025-06-04,fashion ,Product 60,5,3579.57,0.15,COD,Completed
+O02109,C0063,2024-03-20, electronics ,Product 33,3,2673.44,0.0,COD,Cancelled
+O02110,C0309,2023-04-08,fashion ,Product 96,5,1029.04,0.0,UPI,Completed
+O02111,C0149,2023-01-05,ELECTRONICS,Product 7,-4,3296.62,0.15,Card,Completed
+O02112,C0157,2023-03-10,Home,Product 84,5,3340.54,0.0,Card,Returned
+O02113,C0105,2023-11-04,fashion ,Product 104,5,2917.07,0.1,UPI,Returned
+O02114,C0277,2023-02-03,Fashion,Product 83,5,1703.4,0.15,Card,Completed
+O02115,C0497,2023-01-12,Home,Product 84,2,841.53,0.05,UPI,Cancelled
+O02116,C0220,2024-05-11,fashion ,Product 103,2,601.29,0.1,COD,Returned
+O02117,C0424,2024-08-05,fashion ,Product 118,4,4866.63,0.0,COD,Cancelled
+O02118,C0243,2027-01-01,Home,Product 47,4,1305.42,0.0,Card,Returned
+O02119,C0171,2024-06-22,Fashion,Product 20,4,3812.71,0.1,UPI,Cancelled
+O02120,C0062,2023-11-11,Home,Product 21,2,1658.14,0.0,COD,Completed
+O02121,C0050,2023-11-20,Electronics,Product 7,4,2531.38,0.15,UPI,Returned
+O02122,C0215,2023-12-25,Electronics,Product 97,2,2920.43,0.05,UPI,Completed
+O02123,C0306,2025-02-01,Home,Product 10,3,2994.85,0.15,UPI,Completed
+O02124,C0415,2023-11-02,ELECTRONICS,Product 110,4,4981.9,0.1,Card,Cancelled
+O02125,C0221,2025-03-09,Electronics,Product 57,5,3773.98,0.15,UPI,Completed
+O02126,C0241,2023-01-06,Fashion,Product 42,3,473.46,0.0,Card,Returned
+O02127,C0400,2024-12-05,ELECTRONICS,Product 12,1,2468.27,0.05,COD,Completed
+O02128,C0197,2023-03-22, electronics ,Product 33,5,281.49,0.0,COD,Cancelled
+O02129,C0041,2023-12-21,Home,Product 95,-5,4058.03,0.1,Card,Cancelled
+O02130,C0188,2024-09-26, electronics ,Product 78,3,3365.39,0.15,UPI,Returned
+O02131,C0006,2023-01-03,fashion ,Product 32,4,4472.08,0.0,COD,Cancelled
+O02132,C0010,2023-05-01, electronics ,Product 78,3,4623.29,0.05,UPI,Completed
+O02133,C0202,2023-08-03, electronics ,Product 99,5,4704.88,0.0,UPI,Returned
+O02134,C0351,2024-07-11,ELECTRONICS,Product 81,3,4863.3,0.0,COD,Cancelled
+O02135,C0081,2023-06-05,fashion ,Product 90,5,1755.94,0.15,Card,Returned
+O02136,C0370,2023-07-31, electronics ,Product 44,4,3632.08,0.05,UPI,Completed
+O02137,C0436,2024-04-24,Electronics,Product 65,2,4548.63,0.0,Card,Cancelled
+O02138,C0497,2024-09-11,Electronics,Product 77,1,924.12,0.0,COD,Returned
+O02139,C0355,2025-05-09,Home,Product 114,5,4897.5,0.05,UPI,Completed
+O02140,C0194,2023-05-29,Electronics,Product 13,2,1742.9,0.1,COD,Cancelled
+O02141,C0124,2023-06-16, electronics ,Product 85,5,684.59,0.15,UPI,Cancelled
+O02142,C0076,2024-11-19,Electronics,Product 41,4,1206.86,0.15,COD,Completed
+O02143,C0143,2023-10-07,ELECTRONICS,Product 62,4,3659.41,0.0,COD,Returned
+O02144,C0385,2023-07-21,Electronics,Product 38,2,2012.97,0.0,COD,Returned
+O02145,C0449,2024-08-13,Fashion,Product 103,3,1998.68,0.15,UPI,Cancelled
+O02146,C0193,2024-12-20,Electronics,Product 47,2,1237.24,0.0,UPI,Returned
+O02147,C0067,2024-07-01,ELECTRONICS,Product 63,4,4083.48,0.15,UPI,Completed
+O02148,C0417,2023-02-19,Electronics,Product 51,4,1258.87,0.15,Card,Completed
+O02149,C0375,2024-01-15,fashion ,Product 114,4,3241.25,0.15,Card,Completed
+O02150,C0111,2023-05-04,fashion ,Product 6,5,3002.59,0.05,UPI,Returned
+O02151,C0012,2023-05-27,fashion ,Product 34,2,1760.94,0.05,Card,Cancelled
+O02152,C0440,2024-09-03,Electronics,Product 74,5,3281.41,0.05,Card,Completed
+O02153,C0069,2024-06-30,Fashion,Product 45,1,4594.43,0.15,Card,Returned
+O02154,C0303,2023-10-07, electronics ,Product 6,3,1663.21,0.1,COD,Cancelled
+O02155,C0009,2023-04-03,Home,Product 72,3,691.8,0.15,Card,Returned
+O02156,C0433,2023-10-18,ELECTRONICS,Product 98,3,1717.84,0.15,UPI,Completed
+O02157,C0253,2024-01-15,fashion ,Product 64,5,356.43,0.15,Card,Completed
+O02158,C0216,2024-02-23, electronics ,Product 40,2,2754.63,0.0,Card,Completed
+O02159,C0216,2024-10-17,Fashion,Product 3,3,742.3,0.1,UPI,Cancelled
+O02160,C0102,2023-03-14,Home,Product 1,5,432.47,0.05,COD,Returned
+O02161,C0217,2025-04-08,Electronics,Product 45,1,2680.14,0.0,Card,Completed
+O02162,C0303,2023-03-18,ELECTRONICS,Product 40,2,2267.45,0.1,UPI,Returned
+O02163,C0110,2025-01-19,Electronics,Product 88,4,4077.09,0.15,COD,Completed
+O02164,C0377,2023-05-07,Electronics,Product 98,3,3250.63,0.15,Card,Returned
+O02165,C0220,2024-02-19,ELECTRONICS,Product 50,3,4437.36,0.05,UPI,Cancelled
+O02166,C0236,2024-10-04,Fashion,Product 71,5,4778.74,0.1,COD,Cancelled
+O02167,C0356,2023-09-06,Fashion,Product 109,1,2422.83,0.0,COD,Cancelled
+O02168,C0289,2025-04-05, electronics ,Product 21,2,225.11,0.1,Card,Cancelled
+O02169,C0354,2025-05-20,Home,Product 78,2,3523.15,0.05,COD,Completed
+O02170,C0133,2025-05-31,Electronics,Product 24,2,4356.03,0.05,Card,Completed
+O02171,C0236,2025-04-03,Fashion,Product 80,2,4311.38,0.05,Card,Completed
+O02172,C0364,2023-08-31, electronics ,Product 29,4,3632.56,0.1,COD,Completed
+O02173,C0295,2024-12-03,Electronics,Product 33,1,3474.83,0.0,UPI,Cancelled
+O02174,C0265,2025-02-18,ELECTRONICS,Product 38,5,777.67,0.1,Card,Returned
+O02175,C0312,2024-06-21,Electronics,Product 103,1,3396.07,0.1,Card,Completed
+O02176,C0460,2024-12-07,Fashion,Product 8,3,4582.71,0.15,Card,Cancelled
+O02177,C0283,2024-09-29, electronics ,Product 16,5,244.33,0.15,Card,Completed
+O02178,C0222,2023-07-08,Home,Product 93,2,3917.5,0.05,Card,Cancelled
+O02179,C0213,2023-07-28,Home,Product 65,4,3529.23,0.0,Card,Cancelled
+O02180,C0227,2023-01-29,Electronics,Product 27,3,2836.71,0.0,UPI,Cancelled
+O02181,C0258,2023-11-17,ELECTRONICS,Product 18,1,3187.86,0.0,COD,Completed
+O02182,C0068,2023-11-01,Fashion,Product 35,4,190.66,0.15,Card,Cancelled
+O02183,C0191,2024-04-09,fashion ,Product 119,5,111.86,0.15,UPI,Completed
+O02184,C0261,2024-02-19,Home,Product 46,1,3208.03,0.15,Card,Cancelled
+O02185,C0305,2024-04-03,Fashion,Product 83,1,2972.37,0.0,COD,Completed
+O02186,C0384,2024-08-07,fashion ,Product 108,5,2754.25,0.1,COD,Completed
+O02187,C0018,2024-12-24,fashion ,Product 95,3,3139.08,0.1,Card,Completed
+O02188,C0074,2025-03-30,Fashion,Product 100,3,4374.73,0.1,UPI,Completed
+O02189,C0196,2024-08-27,Electronics,Product 17,2,594.14,0.0,COD,Completed
+O02190,C0117,2024-07-29,ELECTRONICS,Product 3,3,120.01,0.0,UPI,Returned
+O02191,C0449,2024-12-16, electronics ,Product 18,4,4557.13,0.1,Card,Cancelled
+O02192,C0204,2024-10-14,Home,Product 60,2,3757.96,0.15,UPI,Returned
+O02193,C0270,2023-05-12,Home,Product 70,5,3279.76,0.0,Card,Returned
+O02194,C0268,2023-10-25,Electronics,Product 50,5,3517.89,0.05,COD,Returned
+O02195,C0240,2024-01-14,Home,Product 74,3,3037.35,0.1,Card,Completed
+O02196,C0138,2024-12-04,fashion ,Product 100,3,4004.22,0.05,COD,Returned
+O02197,C0471,2025-05-26,Fashion,Product 20,2,1086.52,0.0,UPI,Returned
+O02198,C0197,2023-05-25,Fashion,Product 17,1,136.3,0.15,Card,Cancelled
+O02199,C0487,2024-12-01,ELECTRONICS,Product 43,3,2546.38,0.15,Card,Cancelled
+O02200,C0495,2023-12-27, electronics ,Product 33,3,2404.28,0.1,UPI,Completed
+O02201,C0403,2024-04-02,Fashion,Product 104,1,2701.68,0.05,Card,Returned
+O02202,C0131,2024-02-29,ELECTRONICS,Product 14,1,854.14,0.1,Card,Cancelled
+O02203,C0478,2024-08-25,ELECTRONICS,Product 1,1,804.23,0.05,UPI,Returned
+O02204,C0398,2024-03-12, electronics ,Product 108,4,1659.56,0.15,UPI,Returned
+O02205,C0024,2023-09-09,fashion ,Product 39,1,4068.46,0.1,UPI,Completed
+O02206,C0409,2023-03-04,Home,Product 43,5,3683.48,0.05,UPI,Returned
+O02207,C0297,2023-08-06,Electronics,Product 75,3,3873.77,0.0,COD,Cancelled
+O02208,C0459,2025-05-14,fashion ,Product 113,5,2486.2,0.1,Card,Completed
+O02209,C0313,2023-08-03,ELECTRONICS,Product 68,5,164.59,0.1,UPI,Cancelled
+O02210,C0354,2025-02-27,Fashion,Product 39,2,4940.5,0.0,COD,Cancelled
+O02211,C0347,2023-08-17,Electronics,Product 114,4,1750.23,0.0,UPI,Returned
+O02212,C0139,2025-01-04, electronics ,Product 84,-4,4372.37,0.0,UPI,Completed
+O02213,C0072,2024-09-06,ELECTRONICS,Product 67,3,1473.8,0.0,Card,Completed
+O02214,C0381,2023-08-21,Fashion,Product 86,3,2353.2,0.1,COD,Cancelled
+O02215,C0059,2024-01-10,Home,Product 40,4,426.8,0.15,COD,Cancelled
+O02216,C0268,2027-01-01,Home,Product 17,5,4211.59,0.1,COD,Returned
+O02217,C0055,2025-04-05,fashion ,Product 54,4,879.95,0.05,UPI,Cancelled
+O02218,C0193,2024-01-05,Home,Product 80,1,3808.05,0.05,Card,Cancelled
+O02219,C0435,2024-06-12,Fashion,Product 25,4,3528.99,0.15,Card,Completed
+O02220,C0045,2024-10-19,ELECTRONICS,Product 12,5,4910.46,0.0,Card,Returned
+O02221,C0196,2025-03-08,ELECTRONICS,Product 106,5,1765.44,0.1,Card,Returned
+O02222,C0476,2023-01-24, electronics ,Product 31,5,754.24,0.05,UPI,Returned
+O02223,C0297,2024-10-01,Electronics,Product 20,4,4431.13,0.05,Card,Returned
+O02224,C0391,2024-12-26,Fashion,Product 41,5,4137.22,0.15,UPI,Returned
+O02225,C0298,2024-04-22,ELECTRONICS,Product 91,5,1371.5,0.15,Card,Cancelled
+O02226,C0420,2024-08-30,fashion ,Product 70,3,3159.14,0.0,Card,Returned
+O02227,C0034,2023-03-09,ELECTRONICS,Product 64,2,3052.39,0.1,Card,Returned
+O02228,C0208,2024-10-04,fashion ,Product 27,5,2577.09,0.15,Card,Completed
+O02229,C0351,2023-06-09,Fashion,Product 52,5,488.44,0.05,COD,Cancelled
+O02230,C0309,2024-10-08,Electronics,Product 81,1,4263.65,0.0,COD,Returned
+O02231,C0277,2024-08-03,fashion ,Product 83,1,1996.14,0.0,COD,Completed
+O02232,C0206,2027-01-01,Fashion,Product 92,1,3826.08,0.0,UPI,Completed
+O02233,C0076,2023-08-13,fashion ,Product 72,4,805.49,0.05,UPI,Cancelled
+O02234,C0156,2025-05-19,fashion ,Product 116,5,2325.19,0.0,UPI,Returned
+O02235,C0262,2024-05-17,fashion ,Product 53,3,4325.04,0.05,UPI,Cancelled
+O02236,C0227,2023-01-14, electronics ,Product 95,3,597.65,0.05,COD,Completed
+O02237,C0349,2023-12-15,ELECTRONICS,Product 57,1,3412.98,0.0,Card,Completed
+O02238,C0450,2024-09-24,Home,Product 29,1,2631.23,0.1,Card,Completed
+O02239,C0054,2024-06-05,Electronics,Product 40,3,413.07,0.15,UPI,Returned
+O02240,C0407,2023-08-21,ELECTRONICS,Product 109,1,341.18,0.15,COD,Cancelled
+O02241,C0479,2025-02-07,fashion ,Product 78,1,465.77,0.0,COD,Returned
+O02242,C0276,2024-04-06,Electronics,Product 112,4,4424.15,0.05,COD,Cancelled
+O02243,C0211,2024-06-08,Fashion,Product 74,3,4070.01,0.0,UPI,Cancelled
+O02244,C0222,2025-04-13, electronics ,Product 18,4,3104.46,0.15,UPI,Cancelled
+O02245,C0299,2025-06-08,Fashion,Product 47,5,2319.73,0.05,COD,Returned
+O02246,C0202,2023-08-28,fashion ,Product 100,2,3740.89,0.0,UPI,Returned
+O02247,C0339,2024-01-13,ELECTRONICS,Product 83,1,902.02,0.05,UPI,Completed
+O02248,C0191,2025-05-25,Electronics,Product 71,3,1800.1,0.1,COD,Completed
+O02249,C0239,2024-02-03, electronics ,Product 39,5,1529.02,0.15,Card,Returned
+O02250,C0381,2025-01-14,Home,Product 74,3,1848.01,0.1,COD,Completed
+O02251,C0033,2024-09-16,Fashion,Product 1,4,1749.68,0.05,UPI,Completed
+O02252,C0037,2024-02-19,Home,Product 107,5,4719.68,0.0,UPI,Cancelled
+O02253,C0030,2024-01-31,Home,Product 76,3,1350.21,0.05,COD,Cancelled
+O02254,C0303,2025-01-23,Home,Product 111,4,714.34,0.15,Card,Returned
+O02255,C0416,2025-02-28, electronics ,Product 55,2,4812.54,0.1,COD,Completed
+O02256,C0420,2024-08-22, electronics ,Product 15,5,2833.37,0.05,Card,Cancelled
+O02257,C0213,2024-09-06,Fashion,Product 56,4,4767.48,0.0,UPI,Cancelled
+O02258,C0487,2023-10-12,Electronics,Product 18,4,3987.83,0.05,UPI,Returned
+O02259,C0038,2024-08-25, electronics ,Product 93,2,2244.82,0.15,COD,Completed
+O02260,C0049,2024-09-24,Fashion,Product 111,4,2316.46,0.0,Card,Completed
+O02261,C0151,2024-02-18,Electronics,Product 79,3,904.6,0.05,Card,Completed
+O02262,C0223,2024-02-09,ELECTRONICS,Product 18,4,4355.91,0.15,UPI,Completed
+O02263,C0195,2024-05-16,,Product 9,5,2881.3,0.1,COD,Returned
+O02264,C0299,2024-10-10, electronics ,Product 82,4,995.27,0.15,Card,Cancelled
+O02265,C0475,2023-02-16,fashion ,Product 42,1,112.15,0.05,COD,Cancelled
+O02266,C0426,2025-01-09,ELECTRONICS,Product 100,3,1513.89,0.1,COD,Cancelled
+O02267,C0118,2024-06-30,fashion ,Product 1,4,1573.38,0.05,UPI,Completed
+O02268,C0379,2023-10-10,Home,Product 11,3,1931.58,0.15,Card,Returned
+O02269,C0357,2023-04-06,fashion ,Product 59,2,2677.32,0.15,COD,Cancelled
+O02270,C0149,2025-06-14,Electronics,Product 75,2,1678.93,0.05,Card,Cancelled
+O02271,C0358,2024-06-10,fashion ,Product 103,4,1932.48,0.0,UPI,Completed
+O02272,C0106,2023-09-07,fashion ,Product 11,5,1690.41,0.0,Card,Completed
+O02273,C0054,2024-02-27,Electronics,Product 63,4,4012.32,0.0,COD,Cancelled
+O02274,C0269,2024-11-18,ELECTRONICS,Product 55,1,1575.84,0.1,Card,Completed
+O02275,C0074,2024-10-29,Fashion,Product 106,4,2933.11,0.05,UPI,Returned
+O02276,C0381,2023-09-27, electronics ,Product 2,1,2080.8,0.0,UPI,Completed
+O02277,C0172,2024-05-29,Home,Product 89,1,4717.67,0.0,COD,Cancelled
+O02278,C0149,2025-01-28, electronics ,Product 4,2,2078.21,0.15,UPI,Completed
+O02279,C0290,2023-11-24, electronics ,Product 3,3,567.7,0.15,Card,Completed
+O02280,C0070,2024-06-15, electronics ,Product 36,2,283.06,0.1,UPI,Returned
+O02281,C0194,2023-06-30, electronics ,Product 84,2,234.9,0.0,UPI,Completed
+O02282,C0295,2023-11-11,Electronics,Product 25,2,1216.34,0.05,Card,Completed
+O02283,C0082,2023-04-30, electronics ,Product 94,5,3028.75,0.1,Card,Returned
+O02284,C0257,2023-08-10,Fashion,Product 39,3,3885.32,0.1,COD,Cancelled
+O02285,C0263,2023-06-27,Fashion,Product 55,4,1047.3,0.05,COD,Completed
+O02286,C0233,2023-09-11,Home,Product 86,5,2420.41,0.05,Card,Returned
+O02287,C0319,2024-10-02,Fashion,Product 107,5,1237.06,0.15,UPI,Cancelled
+O02288,C0171,2024-02-18,,Product 109,2,425.04,0.15,Card,Completed
+O02289,C0032,2025-06-12,fashion ,Product 118,3,2141.12,0.1,UPI,Cancelled
+O02290,C0208,2024-01-14,fashion ,Product 90,4,1917.26,0.1,Card,Cancelled
+O02291,C0174,2023-11-22, electronics ,Product 72,4,2944.75,0.15,UPI,Returned
+O02292,C0079,2023-12-14,ELECTRONICS,Product 26,5,4399.41,0.15,Card,Returned
+O02293,C0081,2023-12-13,Home,Product 59,2,4330.72,0.15,UPI,Returned
+O02294,C0482,2023-11-28,Home,Product 37,5,2113.04,0.1,COD,Returned
+O02295,C0402,2024-08-14,Electronics,Product 51,4,3680.57,0.05,Card,Returned
+O02296,C0386,2023-08-31,fashion ,Product 101,4,3320.64,0.15,UPI,Cancelled
+O02297,C0202,2024-05-27,fashion ,Product 84,2,1064.0,0.15,UPI,Completed
+O02298,C0067,2025-04-05,,Product 8,2,2410.5,0.05,UPI,Completed
+O02299,C0491,2024-03-09,fashion ,Product 116,3,3586.73,0.05,Card,Returned
+O02300,C0063,2023-05-01,ELECTRONICS,Product 51,3,3940.4,0.1,Card,Cancelled
+O02301,C0384,2023-10-12,fashion ,Product 107,2,3200.89,0.15,COD,Cancelled
+O02302,C0098,2023-07-30,fashion ,Product 14,3,2354.05,0.1,UPI,Completed
+O02303,C0341,2023-09-26,Electronics,Product 86,4,638.2,0.15,COD,Cancelled
+O02304,C0232,2023-04-01,Home,Product 4,3,2117.3,0.05,UPI,Cancelled
+O02305,C0200,2023-02-03,Electronics,Product 22,2,1814.53,0.0,UPI,Cancelled
+O02306,C0018,2023-10-06,Electronics,Product 25,2,1209.46,0.1,Card,Completed
+O02307,C0337,2024-03-05, electronics ,Product 88,4,1440.8,0.0,Card,Completed
+O02308,C0373,2024-12-08,Electronics,Product 10,5,4338.38,0.15,COD,Completed
+O02309,C0047,2023-09-15,Electronics,Product 52,1,151.07,0.1,COD,Returned
+O02310,C0025,2023-03-27,ELECTRONICS,Product 84,5,4504.9,0.05,UPI,Completed
+O02311,C0475,2024-03-03,Electronics,Product 52,5,4588.3,0.0,COD,Completed
+O02312,C0063,2023-09-10, electronics ,Product 34,5,2559.53,0.1,Card,Returned
+O02313,C0102,2023-03-03,Electronics,Product 55,3,400.78,0.15,COD,Returned
+O02314,C0472,2024-08-28,fashion ,Product 49,1,387.93,0.1,Card,Completed
+O02315,C0070,2023-04-29,Home,Product 13,1,2956.54,0.1,UPI,Completed
+O02316,C0083,2024-11-16,fashion ,Product 72,3,4034.72,0.0,Card,Completed
+O02317,C0324,2024-06-30,ELECTRONICS,Product 41,1,769.92,0.15,COD,Completed
+O02318,C0262,2024-03-22,ELECTRONICS,Product 63,5,1964.77,0.15,UPI,Returned
+O02319,C0020,2025-03-18,Home,Product 64,1,1578.16,0.0,COD,Cancelled
+O02320,C0329,2023-10-21, electronics ,Product 16,1,1806.92,0.0,UPI,Returned
+O02321,C0027,2023-12-10,Fashion,Product 77,2,3350.95,0.05,Card,Completed
+O02322,C0086,2025-04-13,ELECTRONICS,Product 23,4,3812.53,0.15,COD,Cancelled
+O02323,C0250,2024-10-10,Home,Product 104,-1,418.52,0.15,COD,Returned
+O02324,C0469,2023-10-10,ELECTRONICS,Product 55,5,2013.09,0.1,COD,Returned
+O02325,C0055,2023-03-01,fashion ,Product 81,5,3533.71,0.1,Card,Cancelled
+O02326,C0187,2024-02-16,fashion ,Product 38,3,4443.91,0.05,Card,Returned
+O02327,C0390,2024-02-04,Home,Product 47,1,2084.96,0.0,Card,Cancelled
+O02328,C0151,2024-11-10,Home,Product 118,1,1444.83,0.05,UPI,Cancelled
+O02329,C0134,2024-03-07,Electronics,Product 101,5,3532.13,0.15,UPI,Completed
+O02330,C0278,2025-04-12,fashion ,Product 8,1,3394.35,0.0,Card,Completed
+O02331,C0099,2024-04-28,fashion ,Product 93,5,645.47,0.1,COD,Completed
+O02332,C0090,2024-07-19,fashion ,Product 20,2,1491.15,0.1,Card,Cancelled
+O02333,C0303,2024-01-02,fashion ,Product 39,2,256.55,0.1,UPI,Completed
+O02334,C0117,2024-09-11,ELECTRONICS,Product 114,5,3930.6,0.0,UPI,Cancelled
+O02335,C0164,2025-03-03,Fashion,Product 119,1,813.53,0.05,UPI,Cancelled
+O02336,C0185,2024-12-18,Fashion,Product 72,3,4904.67,0.15,COD,Completed
+O02337,C0038,2024-07-07,Electronics,Product 115,1,1570.5,0.1,COD,Cancelled
+O02338,C0389,2024-09-19, electronics ,Product 101,2,3834.35,0.0,COD,Cancelled
+O02339,C0148,2024-02-24,Home,Product 114,3,3181.16,0.0,UPI,Completed
+O02340,C0198,2024-09-16, electronics ,Product 97,5,1787.33,0.0,COD,Completed
+O02341,C0075,2025-03-02,Electronics,Product 29,4,4137.15,0.15,Card,Completed
+O02342,C0170,2023-01-15,fashion ,Product 42,4,4793.33,0.15,Card,Returned
+O02343,C0389,2025-02-25,ELECTRONICS,Product 24,5,2921.97,0.0,Card,Returned
+O02344,C0184,2023-02-20, electronics ,Product 67,4,3077.91,0.15,UPI,Cancelled
+O02345,C0236,2024-02-02, electronics ,Product 30,1,2316.5,0.1,Card,Cancelled
+O02346,C0213,2023-11-22,Electronics,Product 119,1,1191.09,0.0,Card,Returned
+O02347,C0011,2024-01-02,fashion ,Product 36,5,1052.81,0.15,COD,Returned
+O02348,C0138,2025-05-19,ELECTRONICS,Product 59,2,3891.97,0.15,UPI,Cancelled
+O02349,C0381,2024-11-22, electronics ,Product 116,1,1327.61,0.05,Card,Returned
+O02350,C0364,2023-10-08, electronics ,Product 40,1,641.99,0.1,Card,Completed
+O02351,C0162,2023-12-02,Fashion,Product 37,4,4244.64,0.0,Card,Completed
+O02352,C0143,2024-01-23, electronics ,Product 48,4,2315.67,0.05,UPI,Completed
+O02353,C0150,2023-12-13,ELECTRONICS,Product 24,2,4661.5,0.0,Card,Returned
+O02354,C0116,2023-05-23,Electronics,Product 36,5,199.25,0.05,COD,Cancelled
+O02355,C0047,2024-12-07,Fashion,Product 21,4,586.12,0.1,UPI,Returned
+O02356,C0209,2023-01-28,Fashion,Product 70,2,4645.29,0.05,UPI,Cancelled
+O02357,C0108,2024-02-20,Fashion,Product 110,2,4953.54,0.0,Card,Completed
+O02358,C0111,2025-02-08,Electronics,Product 108,2,1230.08,0.05,COD,Completed
+O02359,C0095,2025-04-21, electronics ,Product 6,3,2148.14,0.0,UPI,Returned
+O02360,C0116,2023-08-05,Fashion,Product 78,2,2487.35,0.0,UPI,Completed
+O02361,C0221,2024-08-18,Electronics,Product 49,1,816.5,0.1,Card,Returned
+O02362,C0189,2023-03-07,ELECTRONICS,Product 77,3,1614.61,0.15,COD,Returned
+O02363,C0177,2023-10-20,Home,Product 103,2,4889.34,0.05,COD,Completed
+O02364,C0239,2024-10-28,,Product 99,1,469.8,0.1,Card,Cancelled
+O02365,C0007,2025-05-07,Home,Product 16,4,3113.2,0.1,UPI,Returned
+O02366,C0344,2023-04-17,Fashion,Product 64,5,2196.75,0.15,COD,Cancelled
+O02367,C0332,2023-07-01,Fashion,Product 9,3,712.61,0.05,COD,Completed
+O02368,C0038,2023-02-26,Home,Product 80,3,393.38,0.05,UPI,Completed
+O02369,C0475,2024-10-03,,Product 4,1,1993.27,0.15,COD,Cancelled
+O02370,C0351,2023-05-19,Fashion,Product 16,2,2741.84,0.05,UPI,Completed
+O02371,C0332,2024-06-13,fashion ,Product 48,4,2129.02,0.15,UPI,Completed
+O02372,C0012,2024-09-12,Electronics,Product 4,3,4700.9,0.05,Card,Cancelled
+O02373,C0357,2024-07-04, electronics ,Product 112,2,1292.12,0.0,UPI,Completed
+O02374,C0258,2024-09-05,Fashion,Product 49,3,3101.77,0.05,Card,Returned
+O02375,C0411,2024-11-05,Home,Product 64,3,2122.4,0.0,Card,Completed
+O02376,C0141,2023-04-07,Home,Product 112,5,248.64,0.15,Card,Completed
+O02377,C0444,2023-07-08, electronics ,Product 112,4,4448.69,0.0,UPI,Cancelled
+O02378,C0113,2023-11-20, electronics ,Product 63,2,4755.89,0.1,COD,Cancelled
+O02379,C0211,2024-01-31,ELECTRONICS,Product 68,3,2262.31,0.1,COD,Cancelled
+O02380,C0148,2025-04-13,Home,Product 48,2,4169.26,0.0,Card,Cancelled
+O02381,C0497,2024-02-28,fashion ,Product 54,2,1702.26,0.1,UPI,Completed
+O02382,C0230,2025-02-23,Fashion,Product 92,1,2511.73,0.05,COD,Cancelled
+O02383,C0132,2024-08-21,Home,Product 113,1,1419.53,0.05,UPI,Completed
+O02384,C0337,2024-03-23,ELECTRONICS,Product 116,5,121.41,0.05,UPI,Cancelled
+O02385,C0438,2025-05-27,Home,Product 86,4,3676.62,0.0,Card,Cancelled
+O02386,C0071,2024-04-19,ELECTRONICS,Product 15,4,4333.69,0.1,COD,Returned
+O02387,C0313,2023-07-28,fashion ,Product 18,1,558.68,0.15,COD,Returned
+O02388,C0375,2023-07-17, electronics ,Product 89,2,374.89,0.1,Card,Completed
+O02389,C0007,2025-02-23,Fashion,Product 26,4,2094.28,0.05,COD,Completed
+O02390,C0071,2023-01-05, electronics ,Product 4,5,4126.36,0.0,COD,Returned
+O02391,C0419,2023-10-02,ELECTRONICS,Product 99,5,4826.98,0.05,UPI,Completed
+O02392,C0012,2024-11-22,fashion ,Product 22,4,4698.67,0.15,Card,Returned
+O02393,C0172,2027-01-01,Home,Product 87,1,1340.65,0.1,Card,Returned
+O02394,C0144,2024-01-15,fashion ,Product 92,2,4186.32,0.0,UPI,Completed
+O02395,C0465,2025-02-20,fashion ,Product 120,3,1154.23,0.0,COD,Completed
+O02396,C0057,2023-12-06,Fashion,Product 45,1,3956.71,0.0,COD,Completed
+O02397,C0328,2025-01-21,Home,Product 95,2,275.04,0.1,COD,Completed
+O02398,C0179,2023-10-06,Fashion,Product 50,1,4478.76,0.1,UPI,Returned
+O02399,C0336,2023-07-15,Electronics,Product 36,2,2623.75,0.05,Card,Cancelled
+O02400,C0022,2024-06-01,fashion ,Product 82,4,158.91,0.15,COD,Cancelled
+O02401,C0418,2023-04-23,Fashion,Product 71,4,1385.09,0.0,COD,Completed
+O02402,C0053,2025-03-20,Fashion,Product 115,2,3070.92,0.05,Card,Returned
+O02403,C0476,2023-04-20,Fashion,Product 55,1,4906.67,0.15,UPI,Completed
+O02404,C0225,2025-04-26,ELECTRONICS,Product 75,5,3705.63,0.05,COD,Completed
+O02405,C0369,2024-05-02,ELECTRONICS,Product 111,2,237.61,0.05,Card,Completed
+O02406,C0179,2024-07-06,Fashion,Product 42,3,2254.69,0.05,COD,Cancelled
+O02407,C0297,2023-09-03,Home,Product 76,2,3875.27,0.05,Card,Completed
+O02408,C0464,2023-05-26,Home,Product 62,4,1742.24,0.0,UPI,Returned
+O02409,C0220,2023-10-02,fashion ,Product 63,3,3063.29,0.05,UPI,Completed
+O02410,C0081,2024-06-11,Fashion,Product 23,1,2447.05,0.15,Card,Returned
+O02411,C0036,2023-08-16,,Product 48,5,4073.93,0.0,UPI,Cancelled
+O02412,C0219,2024-01-15,Electronics,Product 31,2,121.65,0.15,UPI,Completed
+O02413,C0370,2024-04-28,Electronics,Product 82,5,2337.73,0.05,COD,Returned
+O02414,C0234,2025-03-23,Home,Product 97,2,668.17,0.1,UPI,Cancelled
+O02415,C0472,2024-05-07,Fashion,Product 26,2,105.37,0.0,UPI,Cancelled
+O02416,C0367,2023-02-19,ELECTRONICS,Product 19,1,1047.96,0.1,Card,Completed
+O02417,C0421,2024-11-05,Home,Product 85,1,2290.47,0.15,UPI,Returned
+O02418,C0324,2024-11-25,Fashion,Product 14,4,1943.37,0.15,Card,Cancelled
+O02419,C0311,2024-02-21,fashion ,Product 93,4,3438.18,0.05,UPI,Cancelled
+O02420,C0078,2024-09-21, electronics ,Product 120,-3,4138.19,0.1,UPI,Returned
+O02421,C0235,2024-01-09,fashion ,Product 26,4,4790.22,0.05,UPI,Completed
+O02422,C0320,2023-09-22,Home,Product 2,5,2347.41,0.1,COD,Cancelled
+O02423,C0059,2024-03-07,ELECTRONICS,Product 64,4,3964.1,0.0,UPI,Cancelled
+O02424,C0204,2023-04-09,Home,Product 107,1,4556.7,0.15,UPI,Completed
+O02425,C0293,2024-02-15,Home,Product 27,5,3380.18,0.15,Card,Returned
+O02426,C0164,2025-05-24,ELECTRONICS,Product 65,4,2551.93,0.05,Card,Cancelled
+O02427,C0207,2023-04-21,Fashion,Product 73,1,547.32,0.1,Card,Completed
+O02428,C0146,2024-10-10,Home,Product 107,5,1276.32,0.05,UPI,Completed
+O02429,C0419,2024-05-21,Home,Product 53,1,2174.08,0.05,COD,Completed
+O02430,C0456,2023-12-08,fashion ,Product 116,3,915.59,0.15,COD,Completed
+O02431,C0451,2025-04-10,Home,Product 87,-3,3323.36,0.0,COD,Cancelled
+O02432,C0405,2024-11-13,Electronics,Product 41,1,521.48,0.0,COD,Cancelled
+O02433,C0059,2023-05-27,Fashion,Product 84,3,1094.3,0.0,COD,Returned
+O02434,C0433,2023-11-24,Home,Product 117,2,1163.65,0.05,UPI,Completed
+O02435,C0270,2023-02-08,fashion ,Product 76,1,1250.5,0.15,COD,Completed
+O02436,C0273,2023-11-14,Electronics,Product 23,1,2680.96,0.05,Card,Returned
+O02437,C0308,2024-07-10, electronics ,Product 80,3,3446.42,0.05,UPI,Cancelled
+O02438,C0125,2024-03-03,Fashion,Product 51,2,934.93,0.0,COD,Completed
+O02439,C0267,2024-11-21,Electronics,Product 45,2,4279.94,0.1,Card,Returned
+O02440,C0178,2027-01-01,Home,Product 29,3,460.89,0.0,UPI,Cancelled
+O02441,C0126,2024-11-21,Electronics,Product 111,5,3103.08,0.15,UPI,Returned
+O02442,C0049,2023-10-25,fashion ,Product 75,4,4938.43,0.1,UPI,Returned
+O02443,C0376,2024-04-30,ELECTRONICS,Product 83,4,241.03,0.0,Card,Cancelled
+O02444,C0254,2025-06-06,Fashion,Product 51,4,4361.69,0.05,COD,Returned
+O02445,C0121,2023-08-10,Fashion,Product 70,5,2677.23,0.1,UPI,Completed
+O02446,C0236,2025-03-12,Fashion,Product 23,4,3001.41,0.05,Card,Cancelled
+O02447,C0006,2025-04-30,fashion ,Product 90,4,3470.15,0.15,COD,Cancelled
+O02448,C0096,2025-04-16,fashion ,Product 118,1,3240.04,0.0,Card,Cancelled
+O02449,C0275,2025-04-07,Electronics,Product 18,5,1684.95,0.15,Card,Cancelled
+O02450,C0195,2024-09-09,ELECTRONICS,Product 4,2,2790.32,0.05,COD,Cancelled
+O02451,C0471,2023-01-31,Home,Product 120,5,1525.45,0.15,UPI,Cancelled
+O02452,C0036,2024-08-19, electronics ,Product 76,3,4790.6,0.1,Card,Cancelled
+O02453,C0059,2024-03-27,ELECTRONICS,Product 68,1,2199.8,0.0,COD,Cancelled
+O02454,C0139,2024-09-09,fashion ,Product 91,-1,3229.12,0.15,COD,Cancelled
+O02455,C0329,2023-02-20,Electronics,Product 100,3,792.35,0.05,UPI,Completed
+O02456,C0007,2023-06-03,Electronics,Product 83,1,2585.16,0.0,Card,Cancelled
+O02457,C0330,2023-01-24,fashion ,Product 45,2,831.25,0.05,UPI,Completed
+O02458,C0325,2023-08-04,fashion ,Product 3,2,1983.76,0.0,UPI,Cancelled
+O02459,C0403,2023-05-20, electronics ,Product 116,-2,1985.98,0.15,UPI,Cancelled
+O02460,C0406,2023-09-02,Home,Product 82,5,1512.57,0.0,COD,Cancelled
+O02461,C0329,2024-12-07,ELECTRONICS,Product 40,4,2016.04,0.1,Card,Returned
+O02462,C0463,2025-01-07,Fashion,Product 101,4,1120.57,0.1,Card,Cancelled
+O02463,C0195,2025-01-11,Home,Product 55,2,4491.98,0.15,Card,Returned
+O02464,C0102,2025-06-12,ELECTRONICS,Product 72,2,3732.91,0.05,COD,Cancelled
+O02465,C0214,2024-10-07,Fashion,Product 28,5,2227.47,0.15,Card,Returned
+O02466,C0416,2023-01-31,Fashion,Product 61,3,1888.1,0.15,UPI,Returned
+O02467,C0334,2023-06-12,Fashion,Product 99,5,4040.49,0.05,COD,Returned
+O02468,C0221,2025-06-11,fashion ,Product 89,3,1752.36,0.0,Card,Completed
+O02469,C0370,2023-03-03,Electronics,Product 77,3,956.86,0.1,Card,Cancelled
+O02470,C0101,2023-01-09,ELECTRONICS,Product 23,2,4597.05,0.05,COD,Completed
+O02471,C0073,2025-01-26,fashion ,Product 41,4,1421.24,0.1,COD,Returned
+O02472,C0071,2023-01-30,ELECTRONICS,Product 72,1,4964.75,0.0,Card,Completed
+O02473,C0176,2027-01-01,,Product 85,2,1006.46,0.0,Card,Completed
+O02474,C0238,2023-03-08,fashion ,Product 34,3,3881.72,0.05,UPI,Cancelled
+O02475,C0041,2025-02-15,Home,Product 93,5,4537.67,0.0,UPI,Completed
+O02476,C0086,2023-10-09,Fashion,Product 46,3,1004.79,0.15,Card,Completed
+O02477,C0094,2024-11-22,Home,Product 45,5,643.95,0.0,COD,Cancelled
+O02478,C0347,2023-07-17,ELECTRONICS,Product 45,4,1533.52,0.0,Card,Returned
+O02479,C0466,2025-03-28,Home,Product 11,4,2964.54,0.1,UPI,Completed
+O02480,C0184,2023-11-08,ELECTRONICS,Product 97,4,3452.89,0.15,COD,Completed
+O02481,C0056,2023-07-10,Fashion,Product 59,4,1079.0,0.15,Card,Cancelled
+O02482,C0342,2023-05-24,ELECTRONICS,Product 107,1,2430.58,0.15,COD,Returned
+O02483,C0089,2023-09-21,Fashion,Product 4,2,2617.11,0.0,COD,Returned
+O02484,C0478,2023-01-15,Electronics,Product 55,4,2898.0,0.0,COD,Cancelled
+O02485,C0317,2025-05-14,fashion ,Product 44,2,4754.12,0.15,COD,Cancelled
+O02486,C0370,2023-02-03,fashion ,Product 106,1,2991.85,0.05,UPI,Returned
+O02487,C0486,2024-11-23, electronics ,Product 98,4,1155.03,0.05,COD,Returned
+O02488,C0436,2023-11-12,Electronics,Product 85,5,1529.59,0.05,UPI,Completed
+O02489,C0188,2023-09-06,Electronics,Product 110,3,3429.66,0.05,COD,Completed
+O02490,C0393,2023-05-16,ELECTRONICS,Product 57,1,1955.12,0.05,COD,Returned
+O02491,C0013,2023-12-06,Home,Product 37,1,3180.68,0.05,UPI,Returned
+O02492,C0315,2023-09-12,ELECTRONICS,Product 29,2,4585.22,0.0,UPI,Returned
+O02493,C0061,2024-08-22,Home,Product 83,2,625.3,0.0,Card,Completed
+O02494,C0310,2024-11-20, electronics ,Product 50,5,4525.92,0.1,UPI,Cancelled
+O02495,C0219,2024-06-05, electronics ,Product 88,2,3110.48,0.0,COD,Returned
+O02496,C0051,2024-09-25,fashion ,Product 71,4,1306.31,0.0,Card,Cancelled
+O02497,C0059,2024-03-21,Electronics,Product 46,2,770.85,0.15,Card,Completed
+O02498,C0380,2023-12-21,fashion ,Product 108,4,3672.08,0.1,UPI,Completed
+O02499,C0091,2023-02-22,Electronics,Product 17,3,3902.96,0.15,COD,Returned
+O02500,C0455,2024-07-22,,Product 96,2,4706.65,0.1,UPI,Completed
+O02052,C0103,2023-11-03,Home,Product 13,1,2006.54,0.1,Card,Completed
+O00315,C0083,2023-06-20,Home,Product 69,3,1497.71,0.05,COD,Returned
+O01885,C0387,2024-04-09,fashion ,Product 30,3,3000.69,0.05,UPI,Returned
+O00220,C0497,2025-03-25, electronics ,Product 36,3,4219.62,0.1,Card,Returned
+O01177,C0478,2023-09-27, electronics ,Product 16,1,4605.09,0.0,Card,Completed
+O00996,C0035,2023-05-24,Home,Product 92,3,3721.39,0.1,Card,Returned
+O01786,C0098,2025-02-23,Home,Product 58,3,2534.49,0.05,Card,Cancelled
+O00603,C0003,2024-09-05,fashion ,Product 58,1,4022.51,0.0,UPI,Completed
+O01925,C0489,2023-01-03,Electronics,Product 50,1,2881.82,0.05,UPI,Completed
+O01414,C0042,2024-09-18,ELECTRONICS,Product 81,4,3072.02,0.1,UPI,Cancelled
+O01425,C0122,2023-10-19,Fashion,Product 27,1,3442.04,0.0,Card,Cancelled
+O01216,C0209,2025-03-20,Home,Product 112,4,3801.61,0.05,UPI,Returned
+O01325,C0340,2024-11-12, electronics ,Product 63,3,2495.68,0.1,Card,Completed
+O02149,C0375,2024-01-15,fashion ,Product 114,4,3241.25,0.15,Card,Completed
+O01693,C0033,2024-01-27,Fashion,Product 27,5,4539.13,0.05,UPI,Completed
+O00726,C0463,2023-07-04, electronics ,Product 85,4,2879.74,0.0,UPI,Cancelled
+O00408,C0488,2025-01-31,fashion ,Product 49,3,553.5,0.1,UPI,Completed
+O00143,C0395,2025-01-01,Fashion,Product 32,1,3714.33,0.0,UPI,Cancelled
+O02495,C0219,2024-06-05, electronics ,Product 88,2,3110.48,0.0,COD,Returned
+O01295,C0339,2024-08-17,fashion ,Product 37,1,3920.41,0.05,Card,Returned
+O00053,C0493,2024-11-30, electronics ,Product 95,3,2617.85,0.15,UPI,Cancelled
+O02455,C0329,2023-02-20,Electronics,Product 100,3,792.35,0.05,UPI,Completed
+O00525,C0467,2023-07-11,Fashion,Product 37,5,1108.87,0.1,COD,Returned
+O00687,C0445,2024-01-27,Electronics,Product 38,1,889.99,0.15,UPI,Returned
+O01905,C0336,2025-02-09,Fashion,Product 22,4,885.21,0.0,UPI,Returned
+O02257,C0213,2024-09-06,Fashion,Product 56,4,4767.48,0.0,UPI,Cancelled
+O02484,C0478,2023-01-15,Electronics,Product 55,4,2898.0,0.0,COD,Cancelled
+O00772,C0001,2023-12-27,Electronics,Product 33,-3,774.82,0.1,COD,Returned
+O01829,C0055,2025-05-25,fashion ,Product 45,4,2138.37,0.05,UPI,Completed
+O00496,C0005,2023-10-26,fashion ,Product 76,3,3322.62,0.05,UPI,Completed
+O01435,C0489,2024-04-12,Electronics,Product 72,3,2994.1,0.1,UPI,Cancelled
+O01444,C0406,2023-07-10, electronics ,Product 48,1,354.17,0.1,UPI,Returned
+O00583,C0196,2025-01-30,Home,Product 83,4,3946.9,0.15,UPI,Completed
+O00479,C0120,2025-04-07,Fashion,Product 47,5,280.3,0.15,COD,Returned
+O01392,C0131,2023-06-29,ELECTRONICS,Product 46,2,355.06,0.15,COD,Returned
+O01564,C0083,2025-03-19,Electronics,Product 105,4,3973.46,0.1,Card,Cancelled
+O01981,C0445,2023-09-08,fashion ,Product 111,4,1716.97,0.1,COD,Completed
+O00363,C0012,2024-12-13,ELECTRONICS,Product 49,4,2894.73,0.1,COD,Completed
+O01147,C0192,2023-10-16,Home,Product 111,5,727.85,0.15,UPI,Completed
+O01003,C0010,2024-09-30,Electronics,Product 29,5,1679.68,0.05,Card,Completed
+O00070,C0428,2023-07-08,ELECTRONICS,Product 25,5,661.65,0.0,COD,Cancelled
+O02348,C0138,2025-05-19,ELECTRONICS,Product 59,2,3891.97,0.15,UPI,Cancelled
+O01224,C0325,2023-07-30,ELECTRONICS,Product 24,3,4447.64,0.15,Card,Completed
+O00999,C0448,2023-02-02,ELECTRONICS,Product 102,1,2740.17,0.1,COD,Cancelled
+O01590,C0398,2024-08-23, electronics ,Product 114,5,4444.95,0.0,Card,Cancelled
+O00931,C0208,2023-04-14,Electronics,Product 21,3,1663.23,0.15,COD,Cancelled
+O00503,C0135,2023-01-23,Electronics,Product 3,2,4174.08,0.05,Card,Returned
+O01455,C0045,2023-10-03,ELECTRONICS,Product 27,3,2033.2,0.0,Card,Cancelled
+O02275,C0074,2024-10-29,Fashion,Product 106,4,2933.11,0.05,UPI,Returned
+O02305,C0200,2023-02-03,Electronics,Product 22,2,1814.53,0.0,UPI,Cancelled
