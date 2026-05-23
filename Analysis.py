@@ -12,7 +12,7 @@ order = pd.read_csv("Orders_rfm.csv")
 #Inspect
 print(f"FOR customers\n\n Shape is {customer.shape}\n")
 print(f"Column is {customer.columns}\n")
-print(f"Data-type is {customer.dtypes}\n")
+print(f"Data-type is\n {customer.dtypes}\n")
 print(f"Duplicates is {customer.duplicated().sum()}\n")
 print(f"NULL Before Cleaning\n {customer.isnull().sum()}\n\n")
 
@@ -75,6 +75,7 @@ print("Standardize casing Succesfully\n")
 #Fix invalid categories
 # Check unique categories
 print(df["category"].unique())
+print("\n")
 
 # Valid categories
 valid_categories = ["Electronics", "Fashion", "Home"]
@@ -90,17 +91,45 @@ print("\n")
 invalid_qty = df[df["quantity"] <= 0]
 print(f"Invalid Quantity is\n {invalid_qty}\n")
 
+print(f"Total invalid quantity records: {invalid_qty.shape}")
+print("\n")
+# Remove invalid quantity
+df = df[df["quantity"] > 0]
+print("Shape after removing invalid quantity records:", df.shape)
+print("\n")
+
 #RFM MATRICES
+#Fixed analysis date
+print(df["order_date"].max())
+print(df["order_date"].min())
+
+analysis_date = pd.Timestamp("2025-01-01")
+print("Analysis Date:", analysis_date)
+print("\n")
+
+# Convert order date to datetime
+df["order_date"] = pd.to_datetime(df["order_date"])
+
+# Detect future date
+future_orders = df[df["order_date"] > analysis_date]
+print("Future dated records:\n")
+print(future_orders[["order_id", "customer_id", "order_date"]])
+print("\n")
+print(f"Total future records: {future_orders.shape}")
+print("\n")
+
+# Remove future date records
+df = df[df["order_date"] <= analysis_date]
+print("Dataset shape after removing future dates:", df.shape)
+print("\n")
+
 #For only complete orders
 completed_orders = df[df["order_status"] == "Completed"]
 completed_orders["order_date"] = pd.to_datetime(completed_orders["order_date"])
 
-#Today Date 
-today = pd.Timestamp.today()
-
 #Recency 
 Recency = completed_orders.groupby("customer_id")["order_date"].max()
-Recency = (today - Recency).dt.days
+Recency = (analysis_date - Recency).dt.days
 Recency = Recency.reset_index()
 Recency.columns = ["customer_id", "Recency"]
 
@@ -158,10 +187,10 @@ def segment_customer(row):
     elif row["R_score"] >= 3 and row["F_score"] >= 3 and row["M_score"] >= 3:
         return "Loyal Customer"
     
-    if row["R_score"] >= 4 and row["F_score"] <= 3:
+    elif row["R_score"] >= 4 and row["F_score"] <= 3:
         return "Potential Loyalists"
     
-    if row["R_score"] <= 2 and ( row["F_score"] >= 3 or row["M_score"] >= 3):
+    elif row["R_score"] <= 2 and ( row["F_score"] >= 3 or row["M_score"] >= 3):
         return "At Risk"
 
     else:
@@ -229,6 +258,9 @@ plt.title("Monetary distribution")
 plt.show()
 
 # #RFM heatmap
-# sns.heatmap(rfm)
-# plt.title("RFM heatmap")
-# plt.show()
+rfm_heatmap = rfm.groupby("Segment")[["Recency", "Frequency", "Monetary"]].mean()
+sns.heatmap(rfm_heatmap)
+plt.title("Average RFM Values by Segment")
+plt.show()
+
+print(df.shape)
